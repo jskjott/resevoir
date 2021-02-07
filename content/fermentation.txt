@@ -1,0 +1,6 @@
+title: 'fermentation'
+dates: ['04-04-2020']
+altText: 'character design process illustration'
+img: 'fermentation.png'
+
+Fermentation is a powerful concept whose meaning expands much beyond mere foods.

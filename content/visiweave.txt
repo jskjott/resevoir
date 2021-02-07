@@ -1,0 +1,37 @@
+title: 'visiweave'
+dates: ['16-04-2020']
+altText: 'the VisiWeave interface '
+img: 'visiweave_interface.png'
+
+This project is a braiding of two lines of research
+- an exploration of what it means to experience computing as being embedded in a communal, cultural, and spatial fabric.
+- the development of a design medium and environment for paper weaving
+
+### What does it me mean for computing to be embedded in a communal, cultural, and spatial fabric?
+
+[slides](http://jskjott.com/presentations/Spreadsheets_as_Notational_Environment_for_Paper_Weaving_Presentation.pdf)・from a presentation on this project at Convivial Computing Salon
+
+At my home the process of weaving a heart is a social and spatial affair. A process where the paper weaving designs I make interact spatially with the ones woven by my great grandfather.
+
+VisiWeave resulted from a process situated in a cultural, communal, and historical context. It is part of a deep network of culture and history.
+
+In his book Tools for Conviviality (1973) Ivan Illich (1926 - 2002) talked of conviviality as a communal practice existing in space “I choose the term 'conviviality' to designate the ... autonomous and creative intercourse among persons, and of persons with their environment.”
+
+I feel that the conviviality of VisiWeave is directly tied to my ability to articulate the space and community the tool is embedded in and grew out of.
+
+The design of VisiWeave grew out of a living cultural practice. Conviviality is embedded in process - it is local and situated - and, for me, represents one path forward where computational tools are created with a consciousness of the historical and cultural environment.
+
+### A design medium and environment for paper weaving
+
+> Weaving is a binary art - Heinz Zemanek
+
+[visiweave.com](http://www.visiweave.com)・a prototype environment
+[github](https://github.com/jskjott/visiweave)・repo for the environment
+
+The design of this medium flows from the notion that embracing computational media can enrich the practice of paper weaving.
+
+It is inspired in spirit and practice by work within the fields computational weaving, computational origami, and paper mechatronics.
+
+There are many challenges associcated with paper weaving design. A significant barrier is how one is often forced to work with several representations at the same time. For example, one often has to work with the componenent pieces of a weaving design while thinking about what the final interlacement of the pieces will look like.
+
+VisiWeave adresses this challenge by making it possible to work directly with the final, woven, representation of the design.

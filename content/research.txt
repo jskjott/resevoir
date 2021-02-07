@@ -1,0 +1,9 @@
+title: 'research'
+dates: ['17-06-2020']
+altText: 'paperwork'
+img: 'paperwork_2-min.jpg'
+
+The *research* momentum is for projects and activities probing new forms of media.
+
+- [[tools]]
+- [[studies]]

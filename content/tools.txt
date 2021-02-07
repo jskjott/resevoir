@@ -1,0 +1,30 @@
+title: 'tools'
+dates: ['17-06-2020']
+altText: 'from Medium is the Message'
+img: 'mcluhan.jpg'
+
+*A collection of speculative creative/expressive tools and media*
+
+### [[visiweave]] - A tool for creating paper weaving patterns.
+
+[github](https://github.com/jskjott/heartweave)
+
+A domain-specific language is used to generate grids and spreadsheet style commands are used to shape the cells in the grid. The core philosophy behind this project is that a good end-user programming experience is achieved through a tight coupling and co-presence of both code and data in the interface - the code is the interface is the code.
+
+![the tool work environment](visiweave_interface.png)
+
+### [[git for filmmakers]] - A version control tool for filmmakers. 
+
+[github](https://github.com/jskjott/git-for-filmmakers)
+
+The lack of good quality version control has wrecked many a film-project. This project seeks to provide a simple and powerful interface for filmmakers to visualise how their project files changed of time, do collaborative editing, and better document their projects.
+
+![the git for filmmakers GUI](git_for_filmmakers_aug21.png)
+
+### [[midi plotter]] - A realtime midi visualisation tool.
+
+[github](https://github.com/jskjott/midi-plotter)
+
+A drawing tool for visualising midi-feeds during performances. When you perform with the pen plotter it almost becomes a second performer as the rhytmns and sounds the plotter makes as it draws merges with the notes you play on your instrument.
+
+![a gif animation of the plotter drawing a visualisation](https://raw.githubusercontent.com/jskjott/midi-plotter/master/midi-plotter.gif)

@@ -1,0 +1,16 @@
+title: 'chasmic'
+dates: ['22-09-2019']
+altText: 'the Chasmic interface'
+img: 'chasmic_log.png'
+
+I have been really inspired by people who made their own time-tracking tools for a while. The first system which inspired my was Devine Lu Linvega's [xxiivv](https://wiki.xxiivv.com/#about) project. This monday I stumbled upon Blinry's [habitctl](https://github.com/blinry/habitctl) project.
+
+Blinry's project is written in Rust and seeing how straigtforward it can be I decided to make my own little CLI time-tracker: Chasmic.
+
+I ended up creating a simple system which makes it possible for me to keep a list of the ideas which are currently on top of my head and a log system which makes it possible for me to log thoughts I have about certain ideas.
+
+This system works decently well. I even made an ambient visualisation of the amount of log statements per topic over time (the lines in the bottom of the photo above).
+
+Whereas I like the tool as the product of an exploration, I don't think I will use it to actually keep track of my ideas. Mostly because I don't have a vision for how I want to work with the ideas that I document.
+
+Just when I finished my tool I got into a conversation with [Ryan](https://ryanprior.com) who suggested that I look at org-mode (commonly used as part of Emacs) for inspiration. This turned out to be a wonderful suggestion. 

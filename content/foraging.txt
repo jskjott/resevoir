@@ -1,0 +1,11 @@
+title: 'foraging'
+dates: ['09-10-2020']
+altText: 'into the forest'
+img: 'foraging.jpg'
+
+A repository with resources about foraging
+
+<b>Picking Mushrooms</b>
+
+[Danish mushroom sightings database](https://svampe.databasen.org/)
+

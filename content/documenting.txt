@@ -1,0 +1,9 @@
+title: 'documenting'
+dates: ['17-06-2020']
+altText: 'Morning in Daerim-dong'
+img: 'cropped_daerim.jpg'
+
+*projects which aim to document lifeworlds*
+
+- [[daerim dong]]
+- [[auto rickshaw]]

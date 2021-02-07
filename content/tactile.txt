@@ -1,0 +1,13 @@
+title: 'tactile'
+dates: ['16-06-2020', '16-09-2020', '09-10-2020']
+altText: 'Geraniums on the porch'
+img: 'tactile.jpg'
+
+The *tactile* momentum is for things material.
+
+- [[sailing]]
+- [[foraging]]
+- [[fermentation]]
+- [[bicycles]]
+- [[bricolage]]
+

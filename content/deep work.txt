@@ -1,0 +1,49 @@
+title: 'deep_work'
+dates: ['02-05-2019']
+altText: 'forest in south England'
+img: 'plant_deep_work.jpg'
+
+*This section presents explorations and thoughts relating to deep work*.
+
+My interest in deep work has let to the exploration of multiple tools for aiding the practice of deep work - one such tool is this site. Others which have since fallen into disuse are [[chasmic]] and [[org-mode]].
+
+___
+
+
+> In a lifetime of many, many independent choices, small and large, a career with a vision will get you a distance proportional to n, while no vision will get you only the distance In a sense, the main difference between those who go far and those who do not is some people have a vision and the others do not and therefore can only react to the current events as they happen.
+<cite>Hamming - *The Art and Science of Engineering* </cite>
+
+> The idea that media has to become more effective at bringing, quote, "thought outside of the body" so that we can use such external imagination to play with them, to communicate them, to interact with them, instead of being stuck with thought in an already overcrowded brain. And this overcrowded is so often being described to me, this problem of having this overcrowded brain, especially when you program. As banal is here, media for the lab are indeed truly tertiary retentions. And the longer you dream all day long about these tertiary attentions yet to be invented, talk is indeed a sad, painful, ineffective, hurtful form of communication.
+<cite>Goetz Bachmann - Terms of Media</cite>
+
+> Deep work changes you so if you do deep work in any of these areas you are a different person at the end than you were at the beginning and you're better at what you do in a substantial way not just an incremental way but a way that is different in character another characteristic though aside from the fact that it changes you is that when you start out you don't know where you're going … demanding them to happen on time makes them not happen … one of the best things I can do for generating new ideas is to clear out the old ones. Force my way through make enough time that I'm just gonna go through that old list and try everything I was uncertain about decide yes or no am I really gonna try all these vague ideas and thoughts that are lined up and just crank through them and always as soon as I'm done cranking through those a new period of creativity starts
+<cite>Jonathan Blow - Deep Work</cite>
+
+> How to destroy deep work:
+1. Scheduling
+2.Childproofing
+3. Chasing Success / Team Politics
+<cite>Jonathan Blow - Deep Work</cite>
+
+
+>Yes, a bunch of carrots, observed directly, painted simply in the personal way one sees it, worth more than the Ecole’s everlasting slices of buttered bread, that tabasco-juice paining, slavishly done by the book? The day is coming when a single original carrot will give birth to a revolution.
+<cite>Cezanne</cite>
+
+>Everyone who's worked on difficult problems is probably familiar with the phenomenon of working hard to figure something out, failing, and then suddenly seeing the answer a bit later while doing something else. There's a kind of thinking you do without trying to. I'm increasingly convinced this type of thinking is not merely helpful in solving hard problems, but necessary. The tricky part is, you can only control it indirectly. 
+<cite> Graham - The Top Idea in Your Mind </cite>
+
+>I think most people have one top idea in their mind at any given time. That's the idea their thoughts will drift toward when they're allowed to drift freely. And this idea will thus tend to get all the benefit of that type of thinking, while others are starved of it. Which means it's a disaster to let the wrong idea become the top one in your mind.
+<cite> Graham - The Top Idea in Your Mind </cite>
+
+> The moment the key drops from your fingers, you may be sure that the noise of its fall on the upside-down plate will awaken you, and you may be equally sure that this fugitive moment when you had barely lost consciousness and during which you cannot be assured of having really slept is totally sufficient, inasmuch as not a second more is needed for your physical and psychic being to be revivified by just the necessary amount of repose.
+<cite>Dali - *50 Secrets of Magic Craftmanship*</cite>
+
+> Be occupied as little as possible with things of the outer world but much with things of the inner world; then right action will overcome inaction.
+<cite>Farīd ud-Dīn ʿAṭṭār - *The Conference of the Birds*</cite>
+
+> If Emacs could become a more intelligent data store, where brainstorming would focus on the ideas involved—rather than the structuring and format of those ideas, or having to stop your current flow of work in order to record them—it would map much more closely to how the mind (well, at least mine) works, and hence would eliminate that very manual-ness which computers from the very beginning have been championed as being able to reduce.
+<cite>Various - *Remember Manual*</cite>
+
+___
+
+*In Danish, when you cannot stop listening to a song in your head we call it "to have a song on the brain". I want to explore what tools could generate documentation of the process of having things on your brain.*

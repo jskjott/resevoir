@@ -1,0 +1,12 @@
+title: 'about'
+dates: ['17-12-2018', '17-06-2020']
+altText: 'Morning in Daerim-dong'
+img: 'cropped_daerim.jpg'
+
+The [[resevoir]] is a space dedicated to the long-term.
+
+It was created in 2018 to help Jonathan capture the ideas and thoughts which linger in the margins of his mind. 
+
+- [[resevoir]]
+- [[lifestyle]]
+- [[jonathan]]

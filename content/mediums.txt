@@ -1,0 +1,8 @@
+title: 'mediums'
+dates: ['17-06-2020']
+altText: 'Glitch Hands'
+img: 'mediums.png'
+
+The *media* momentum is for expressive works.
+
+[[time-based]] | [[documenting]]

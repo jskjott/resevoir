@@ -1,0 +1,8 @@
+title: 'studies'
+dates: ['28-05-2019']
+img: 'collage-min.jpg'
+altText: 'Detail from Victoria and Albert, London'
+
+Practices in deep thought and immersion. Dedicated to Khang.
+
+[[text]] | [[slitscan experiments]] | [[annotation]] | [[writing drawings]] | [[intermediate representations]]

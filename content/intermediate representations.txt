@@ -1,0 +1,8 @@
+title: 'intermediate_representations'
+dates: ['08-03-2020']
+altText: 'Malraux, Museum without Walls'
+img: 'a_book_museum_without_walls.jpeg'
+
+Intermediate representations are constructs which aid thinking by simulateanously embracing while also limiting uncertainty. They can provide clarity and a foundation for thinking in particular ways while leaving space for exploration in others.
+
+[[pointers]] is a particular form of intermediate representation focussing on enabling media design.

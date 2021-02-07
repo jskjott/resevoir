@@ -1,0 +1,14 @@
+title: 'year_in_books_2019'
+dates: ['04-01-2020']
+img: 'some_readings_2019.png'
+altText: 'A few of the books I read in 2019'
+
+In 2019 I read more than 10 times more books (33) than I did in 2018 (3).
+
+The core reason behind this spike is my realization that self-directed reading creates a well of knowledge and passion which one can draw inspiration from all the while stimulating a feeling of agency and ownership of one's own learning.
+
+In the end of 2018 a few things happend: First of all, I found out about Goodreads.com and the yearly reading challenge where people pledge to read a self-defined number of books in the coming year. Goodreads really is a site where you can keep up to date with what you and others are reading all the while being continously presented with suggestions for which books to read. Whereas the site is not perfect I have to say that it has supported my immensely as I was creating a reading habit for myself. When I first logged into Goodreads and started following some of the people there whom I also follow on Twitter I realized that a bunch of the people I really look up to read a lot. Around that time I also read the notes from an interview with Alan Kay where I was shocked by Alan Kay's comment that one should read 'hundreds of books' a year to continously gain new inspiration. Reading hundreds of books a year might be a bit too much, however investigating these people's reading habits in more detail it increasingly became clear to me that books are a main source of inspiration for many of the people whose work I love.
+
+Realizing how big a role books played in some other people's lives also reminded me that books used to play this role in my life too - during my adolescence when I read multiple books a week. Reading so many books at the age of 11 had a profound influence on me. The books became a primary source of socialisation for me - they helped me understand an often very confusing world.
+
+Around this time I was also realizing how little control I really had over my own learning. At he end of 2018 I had been studying in high school and college continously for 5.5 years and I felt like formal education was failing in providing a path for me to explore my passions. Now, a year later, I feel that deciding to systematically read books has shown me a way to be in control of my own learning - and that made me more motivated about learning in general!

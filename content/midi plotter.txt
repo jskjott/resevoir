@@ -1,0 +1,16 @@
+title: 'midi_plotter'
+dates: ['06-08-2020']
+altText: 'Visualisation produced by playing Partita I. by Bach'
+img: 'midi-plotter-eli-cropped.jpg'
+
+## Midi Plotter
+
+[github](https://github.com/jskjott/midi-plotter)
+
+A Rust program which makes it possible to visualise midi notes with the HP7440A pen plotter as they are received. This project grew out of my fascination with printing technologies and a desire to explore whether printing can be seen as a time-based media.
+
+Once finished I had a few different people try out the program. One friend started playing Partita by Bach: above is the pen plotter visualisation of her performance alongside the traditional representation of the piece.
+
+When you perform with the pen plotter it almost becomes a second performer as the rhytmns and sounds the plotter makes as it draws merges with the notes you play on your instrument:
+
+![a gif animation of the plotter drawing a visualisation](https://raw.githubusercontent.com/jskjott/midi-plotter/master/midi-plotter.gif)

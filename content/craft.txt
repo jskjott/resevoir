@@ -1,0 +1,7 @@
+title: 'craft'
+dates: ['17-06-2020']
+altText: 'monkeys fist and macrame beads'
+img: 'craft.jpg'
+
+A sector exploring the history and techne of different crafts.
+

@@ -1,0 +1,9 @@
+title: 'biking'
+dates: ['19-09-2019']
+altText: 'biking on Randalls and Wards Island'
+img: 'biking.jpg'
+
+_
+\  -o-__/
+/-\  ---  /-\\
+\\-/ '''' \\-/`

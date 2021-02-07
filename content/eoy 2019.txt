@@ -1,0 +1,36 @@
+title: 'EOY_2019'
+dates: ['04-01-2020']
+img: 'Albrecht_Dürer_The_Large_Piece_of_Turf,_1503.jpg'
+altText: 'Albrecht Dürer, The Large Piece of Turf'
+
+-- Find Refuge
+
+I have a target called finding refuge because I want to be able to find peace in our hypercharged world. This year has been quite hectic with a lot of moving and changes in life circumstances. So, I would not say that I have hit this target particularly well. I found refuge in some ways at the Recurse Center. However, I would say that RC more than being a space of refuge is a space of community and intense immersion. I guess refuge is more about finding stability and defining a kind of lifestyle which make me feel like I can exist with myself in the world. So, much progress to make on this in 2020.
+
+-- Immerse myself
+
+I have made incredibly strides in immersing myself in 2019. This past year I started reading again and it has produced such a wonderful sense of empowerment, self-direction, and motivation - all things which make me immerse myself in the things I find interesting. I went to RC, a space intentionally designed to allow for immersion in a communal setting - it fulfilled this for me, allowing me to focus on programming and engaging with a community where immsering oneself is appreciated and loved. Lastly, I was able to spend some months at home doing projects and learning on my own pace. This allowed me to explore many things on my own terms. This last period of self-directed immersion convinced me that I am able to direct myself if I get the time and space to do so.
+
+-- Keeping my living space tidy
+
+This target arose this year as I learnt about the relationship between physical and mental space. With the realization that my most happy and fulfilling periods of my life involved me living in tidy spaces I created this as a target. This past year I lived with a roommate who was tidy in a particularly aesthetic way. He taught me a lot about the beauty and joy that grows from having a clean living space with only the objects adn tools which make you most happy.
+
+-- Keeping my body healthy
+
+I have been swimming close to daily for little more than half of this year. I have generally been confirmed in my belief that swimming is the way for me to stay active. The thrill of feeling thae water touch your body as I swim and the otherworldlyness of the world beneath the surface is both stimulating and relaxing to me. Hopefully I will be able to swim even more in the new decade ^^
+
+-- Net Positive
+
+I am not yet quite happy with my overall impact on the world. One way of looking at this target is through the lens of the climate - I have been flying so much these last years (this past year included!), eating so much meat, and have failed to participate in the popular protests calling for political change. Besides the climate lens I feel like I have been moving around too much resulting in me contributing to trends such as gentrification. When it comes to social realtionships I feel like this year has been good. I have been responsible and have been trying my best to support the people around me.
+
+-- Share thoughts
+
+This year I created my first posts on twitter, made an effort to share more of my ideas online, and tried to create a place online I feel good about. I have almost exclusively have experienced positive responses when I shared my thoughts and ideas. My home on the web has turned into something much more like a home. It has become much more visual and representative of who I am as a person. Going forward I hope to start sharing my thoughts more regularly, and to start sharing in spaces where I have not yet shared such as conferences and meetup groups. I also hope to have more conversations on Twitter rather than simply being a fly on the wall.
+
+-- Build Community
+
+This year a number of my projects were focused on creating community. I worked with friends on making browser extensions focussed on creating community online. I also spent some of my time at the Recurse Center building a webring for the RC community to share their onine homes. Finally, I started working with friends on p{x}p a bi-weekly email-based check-in for people with a creative or research practice. My hope for the coming year is to continue doing digital projects which nurture community while also pushing into the physical realm - taking initiative to bring people together in real life as well as online.
+
+-- Promote Inclusivity / Diversity
+
+I have been trying to make the spaces I am part of more inclusive. I have also been actively trying to support places which champion diversity (such as the Recurse Center). However, I generally feel that I have not been contributing actively to promoting inclusivity and diversity. This past year I did not take initiative to create the spaces I think are needed.

@@ -1,0 +1,11 @@
+title: 'bicycles'
+dates: ['09-10-2020']
+altText: 'the tandem outside shelter'
+img: 'bicycles.jpg'
+
+A repository with resources about bicycles
+
+<b>Bicycle Repair and Maintenance</b>
+
+[Sheldon Brown](http://sheldonbrown.com/)
+

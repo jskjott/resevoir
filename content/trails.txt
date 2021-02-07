@@ -1,0 +1,19 @@
+title: 'trails'
+dates: ['02-05-2019']
+altText: 'the primary visual identity of the project'
+img: 'horizontal_trails-01.png'
+
+### Forge A More Communal Internet
+
+The ways that community is experienced online felt inadequate to one of my friends and me. We wanted to extend the experience of physically living in a community to the experience we had on the internet.
+We wanted to break the assumption that you are alone online when you are not on social media. Therefore, we decided that we wanted to make a browser extension for communities, aiming to make browsing more fun, exciting, and to create a stronger sense of communal presence online.
+
+![an example of a notification provided by the extension](trails_2.png)
+
+For this project, I wrote roughly 40% of the code for the extension using JavaScript. I also created the visual identity of the project.
+
+> “Sometimes, when I’m filling out a shitty visa form, seeing others have been there is quite comforting, or when I’m reading an article, seeing that someone else read it recently is a great excuse to start a conversation. I think it brings a lot of the aspects of an offline community into your on- line experience, and that’s really nice.”
+
+- Alberto
+
+![an example poster from teh project.](trails_poster.png)
