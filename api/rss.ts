@@ -15,9 +15,9 @@ export async function generateRssItem(page: Page) {
 
 	return `
     <item>
-      <guid>${'resevoir.net'}/${page.slug}</guid>
+      <guid>${'https://resevoir.vercel.app/'}/${page.slug}</guid>
       <title>${page.title}</title>
-      <link>${'resevoir.net'}/${page.slug}</link>
+      <link>${'https://resevoir.vercel.app/'}/${page.slug}</link>
       <pubDate>${new Date(date).toUTCString()}</pubDate>
       <content:encoded><![CDATA[${content}]]></content:encoded>
     </item>
@@ -41,11 +41,11 @@ export async function generateRss(pages: Page[]) {
     <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
       <channel>
         <title>${'Resevoir'}</title>
-        <link>${'resevoir.net'}</link>
+        <link>${'https://resevoir.vercel.app/'}</link>
         <description>${'A KNOWLEDGE-BASE FEATURING THE MOMENTUMS OF JONATHAN SKJØTT.'}</description>
         <language>en</language>
         <lastBuildDate>${lastDate.toUTCString()}</lastBuildDate>
-        <atom:link href="${'resevoir.net'}" rel="self" type="application/rss+xml"/>
+        <atom:link href="${'https://resevoir.vercel.app/'}" rel="self" type="application/rss+xml"/>
         ${itemsList.join('')}
       </channel>
     </rss>
