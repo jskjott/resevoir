@@ -6,7 +6,8 @@ import Header from '../components/Header'
 import Backlinks from '../components/Backlinks'
 import Head from 'next/head'
 import Link from 'next/link'
-import Image from 'next/image'
+import { generateRss } from '../api/rss'
+import fs from 'fs'
 
 type Props = {
 	docArray: PageWithLinks[]
@@ -99,6 +100,10 @@ export async function getStaticProps() {
 	})
 
 	const content = await markdownToHtml(contentString)
+
+	const rss = await generateRss(docArray)
+
+	fs.writeFileSync('./public/rss.xml', rss)
 
 	const index = {
 		...indexPage,
