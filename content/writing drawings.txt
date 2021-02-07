@@ -1,9 +1,9 @@
-title: 'writing_drawings'
+title: 'writing drawings'
 dates: ['08-11-2019']
 img: 'line_rhytmical_stick.jpg'
 altText: 'Line-rhytmical study of a stick'
 
-## "People should be drawing their drawings instead of writing them." 
+"People should be drawing their drawings instead of writing them." 
 
 I caught my dad mumbling this sentence in the atelier after a full day of him teaching sketching. 
 
@@ -11,7 +11,9 @@ This piqued my interest. Here I was sitting and thinking that I had been drawing
 
 It did introduce me, however, to a way of thinking about drawing which helped explain why I find it so hard to draw with computers.
 
-### Symbol Literacy Impacts our Understanding of the Visual World
+___
+
+## Symbol Literacy Impacts our Understanding of the Visual World
 
 People who write their drawings are heavily biased by their experience of being part of a literate culture - their style, technique, and way of approaching drawing is visibly influenced by them being literate.
 
@@ -25,7 +27,9 @@ By appropriating writing techniques for drawing we fail to appreciate how drawin
 
 Drawing is more purely visual. When we draw we often seek to capture things such as visual volume, depth, flow, or perspective. Though these things could be present in writing they have often been compressed away in the flat symbol oriented literate culture. Drawers use specific methods to capture the different visual dimensions. Two such methods are **constructive** and **line-rhytmical** drawing - two methods one of which excels at capturing volume and the other the flow of a subject.
 
-### The Plurality of Drawing Methods
+___
+
+##  The Plurality of Drawing Methods
 
 Constructive drawing excels at creating highly accurate and sense of volume - This is achieved through building up a motive with straight lines forming shapes. One can say that motives are constructed from simple shapes such as lines, angles, triangles, and rectangles. This approach to drawing does share many aspects with the writing-drawings. However, the big thing that is different is constructive drawings concern with capturing volume and depth. This is something literary culture does not do - at its core it is more graphical and flat.
 

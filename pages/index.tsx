@@ -68,7 +68,7 @@ export default function Doc({ docArray, index }: Props) {
 							dates={index.dates}
 						/>
 
-						<div className="h-3 pt-6 pb-32 grid">
+						<div className="h-3 pt-16 pb-32 grid">
 							<span className="place-self-center">
 								<img
 									style={radicleStyle}

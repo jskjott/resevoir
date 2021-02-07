@@ -9,6 +9,10 @@ import Backlinks from '../components/Backlinks'
 import Head from 'next/head'
 import Image from 'next/image'
 
+const radicleStyle = {
+	height: '25px',
+}
+
 export default function Doc({
 	title,
 	img,
@@ -32,25 +36,16 @@ export default function Doc({
 					</Head>
 					<div className="max-w-md mx-auto mb-10">
 						<img src={`/images/${img}`} alt={altText} />
-						<div className="mb-6"></div>
-						<div
-							dangerouslySetInnerHTML={{
-								__html: title
-									.replace(/<p>/, '<h1>')
-									.replace(/<\/p>/, '</h1>'),
-							}}
-						/>
+						<div className="mb-8"></div>
 						<PostBody content={content} />
 						<div className="pt-12" />
 						<Backlinks backlinks={mentionedIn} dates={dates} />
-						<div className="h-3 pt-6 pb-32 grid">
+						<div className="h-3 pt-16 pb-32 grid">
 							<span className="place-self-center">
-								<Image
+								<img
+									style={radicleStyle}
 									src="/images/radicle.png"
-									width={22}
-									height={24}
-									layout="fixed"
-								/>
+								></img>
 							</span>
 						</div>
 					</div>
@@ -68,12 +63,21 @@ export async function getStaticProps({ params }: StaticProps) {
 	const docs = getAllPages()
 
 	const indexPage = docs[params.page]
-	let contentString = indexPage.content
-	const titleString = indexPage.title
+	let contentString = `# ${docs.index.title}
+	${indexPage.content}`
+	let titleString = indexPage.title
 
 	const matches = [...contentString.matchAll(/\[\[(.*?)\]\]/g)]
 	matches.forEach((match) => {
 		contentString = contentString.replace(
+			match[0],
+			`[{${match[1]}}](${match[1].replace(/ /g, '-')})`,
+		)
+	})
+
+	const matchesTitle = [...titleString.matchAll(/\[\[(.*?)\]\]/g)]
+	matchesTitle.forEach((match) => {
+		titleString = titleString.replace(
 			match[0],
 			`[{${match[1]}}](${match[1].replace(/ /g, '-')})`,
 		)
