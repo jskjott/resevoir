@@ -714,6 +714,24 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
+      <guid>https://resevoir.net//selfcare-checklist</guid>
+      <title>’selfcare’</title>
+      <link>https://resevoir.net//selfcare-checklist</link>
+      <pubDate>Invalid Date</pubDate>
+      <content:encoded><![CDATA[<p>[] have you brushed you teeth this morning?
+[] have you showered today?
+[] have you put on clean clothes today?
+[] have you done your makeup today?
+[] have you read your book today?
+[] did you go outside today?
+[] did you talk to or message a friend today?
+[] did you sit down for dinner today?
+[] did you care for the house today?
+[] did you kiss jona today?</p>
+]]></content:encoded>
+    </item>
+  
+    <item>
       <guid>https://resevoir.net//service-design</guid>
       <title>‘More participatory citizen science’</title>
       <link>https://resevoir.net//service-design</link>

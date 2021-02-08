@@ -1,0 +1,24 @@
+title: selfcare checklist
+dates: [’08-02-2021’]
+altText: 'forest in south England'
+img: 'plant_deep_work.jpg'
+
+Pandemic days are long and the most important things take place in the everyday. I have come to enjoy them as they help to stabilise me by routine one day at the time.
+
+- <input type="checkbox"> have you brushed you teeth this morning?
+- <input type="checkbox"> have you showered today?
+- <input type="checkbox"> have you put on clean clothes today?
+- <input type="checkbox"> have you done your makeup today?
+- <input type="checkbox"> have you read your book today?
+- <input type="checkbox"> did you go outside today?
+- <input type="checkbox"> did you talk to or message a friend today?
+- <input type="checkbox"> did you sit down for dinner today?
+- <input type="checkbox"> did you care for the house today?
+- <input type="checkbox"> did you care for your skin today?
+- <input type="checkbox"> did you light candles today?
+- <input type="checkbox"> have you tidied up a bit today?
+- <input type="checkbox"> have you drank enough water today?
+- <input type="checkbox"> have you had some quiet time today?
+- <input type="checkbox"> have you created something today?
+- <input type="checkbox"> have you had time to slow down recently?
+- <input type="checkbox"> did you give love to someone close to you today?

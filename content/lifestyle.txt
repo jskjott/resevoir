@@ -1,7 +1,8 @@
-title: ‘Lifestyle’
+title: Lifestyle
 dates: ['10-06-2020']
 altText: 'Morning in Daerim-dong'
 img: 'cropped_daerim.jpg'
 
-This corner of the [[resevoir]] serves as a space for exploring lifestyles.
-I try to create the conditions for myself to do [[deep work]].
+*This corner of the [[resevoir]] serves as a space for exploring lifestyles.*
+
+I try to create the conditions for myself to do [[deep work]]. Routine is good as a foundation for a healthy lifestyle, this [[selfcare checklist]] helps me feel some stability.
