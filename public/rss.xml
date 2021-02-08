@@ -2,16 +2,16 @@
     <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
       <channel>
         <title>Resevoir</title>
-        <link>https://resevoir.vercel.app/</link>
+        <link>https://resevoir.net/</link>
         <description>A KNOWLEDGE-BASE FEATURING THE MOMENTUMS OF JONATHAN SKJØTT.</description>
         <language>en</language>
         <lastBuildDate>Mon, 17 Dec 2018 00:00:00 GMT</lastBuildDate>
-        <atom:link href="https://resevoir.vercel.app/" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://resevoir.net/" rel="self" type="application/rss+xml"/>
         
     <item>
-      <guid>https://resevoir.vercel.app//about</guid>
+      <guid>https://resevoir.net//about</guid>
       <title>about</title>
-      <link>https://resevoir.vercel.app//about</link>
+      <link>https://resevoir.net//about</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>The [[resevoir]] is a space dedicated to the long-term.</p>
 <p>It was created in 2018 to help Jonathan capture the ideas and thoughts which linger in the margins of his mind. </p>
@@ -24,9 +24,9 @@
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//annotation</guid>
+      <guid>https://resevoir.net//annotation</guid>
       <title>annotation</title>
-      <link>https://resevoir.vercel.app//annotation</link>
+      <link>https://resevoir.net//annotation</link>
       <pubDate>Sat, 14 Sep 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h3>The power of annotations</h3>
 <p>Annotation can be condensing/curating/commenting/elaborating. Annotation systems are meta-tools which are often not used to generate final products or results: rather they serve as scaffolds augmenting thinking and collaboration processes. This page explores the meaning and design of annotations, the different forms annotations take, and strives to illuminate how meta-tools change how we work with ideas.</p>
@@ -58,9 +58,9 @@
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//auto-rickshaw</guid>
+      <guid>https://resevoir.net//auto-rickshaw</guid>
       <title>auto_rickshaw</title>
-      <link>https://resevoir.vercel.app//auto-rickshaw</link>
+      <link>https://resevoir.net//auto-rickshaw</link>
       <pubDate>Fri, 24 Aug 2018 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>
 There is a lack of documentaries which do not exoticise rickshaw drivers nor depict them as inferior or poor. Our documentary project aimed to capture the lives of rickshaw driver families in an honest way. 
@@ -77,9 +77,9 @@ During post-production, I was part of the three-person core team responsible for
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//bicycles</guid>
+      <guid>https://resevoir.net//bicycles</guid>
       <title>bicycles</title>
-      <link>https://resevoir.vercel.app//bicycles</link>
+      <link>https://resevoir.net//bicycles</link>
       <pubDate>Thu, 08 Oct 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>A repository with resources about bicycles</p>
 <p><b>Bicycle Repair and Maintenance</b></p>
@@ -88,9 +88,9 @@ During post-production, I was part of the three-person core team responsible for
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//biking</guid>
+      <guid>https://resevoir.net//biking</guid>
       <title>biking</title>
-      <link>https://resevoir.vercel.app//biking</link>
+      <link>https://resevoir.net//biking</link>
       <pubDate>Wed, 18 Sep 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>_
 \  -o-__/
@@ -100,9 +100,9 @@ During post-production, I was part of the three-person core team responsible for
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//bricolage</guid>
+      <guid>https://resevoir.net//bricolage</guid>
       <title>bricolage</title>
-      <link>https://resevoir.vercel.app//bricolage</link>
+      <link>https://resevoir.net//bricolage</link>
       <pubDate>Thu, 25 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Over time I have developed up a practice of collecting seemingly useless yet somehow inciting objects.</p>
 <p>Most commonly objects are found which, by others, have been labelled as trash.</p>
@@ -114,9 +114,9 @@ During post-production, I was part of the three-person core team responsible for
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//chasmic</guid>
+      <guid>https://resevoir.net//chasmic</guid>
       <title>chasmic</title>
-      <link>https://resevoir.vercel.app//chasmic</link>
+      <link>https://resevoir.net//chasmic</link>
       <pubDate>Sat, 21 Sep 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>I have been really inspired by people who made their own time-tracking tools for a while. The first system which inspired my was Devine Lu Linvega's <a href="https://wiki.xxiivv.com/#about">xxiivv</a> project. This monday I stumbled upon Blinry's <a href="https://github.com/blinry/habitctl">habitctl</a> project.</p>
 <p>Blinry's project is written in Rust and seeing how straigtforward it can be I decided to make my own little CLI time-tracker: Chasmic.</p>
@@ -128,9 +128,9 @@ During post-production, I was part of the three-person core team responsible for
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//color-in-film</guid>
+      <guid>https://resevoir.net//color-in-film</guid>
       <title>color_in_film</title>
-      <link>https://resevoir.vercel.app//color-in-film</link>
+      <link>https://resevoir.net//color-in-film</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h3>Modeling Color in Film</h3>
 <p>I always liked thinking about how color is used to generate various experieces in film. Based on this interest, a friend and I decided to try to model the change of color in feature films. Our model's output was a colour timeline like the one seen below. Each point in a colour timeline represent the average colour of the film at that point. The point approximately covers a 10 second window.</p>
@@ -156,9 +156,9 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//community-network-project</guid>
+      <guid>https://resevoir.net//community-network-project</guid>
       <title>community_network_project</title>
-      <link>https://resevoir.vercel.app//community-network-project</link>
+      <link>https://resevoir.net//community-network-project</link>
       <pubDate>Mon, 22 Jul 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>Visualising Community</h2>
 <p><a href="https://github.com/jskjott/community-network-project">github</a></p>
@@ -171,18 +171,18 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//craft</guid>
+      <guid>https://resevoir.net//craft</guid>
       <title>craft</title>
-      <link>https://resevoir.vercel.app//craft</link>
+      <link>https://resevoir.net//craft</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>A sector exploring the history and techne of different crafts.</p>
 ]]></content:encoded>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//daerim-dong</guid>
+      <guid>https://resevoir.net//daerim-dong</guid>
       <title>daerim_dong</title>
-      <link>https://resevoir.vercel.app//daerim-dong</link>
+      <link>https://resevoir.net//daerim-dong</link>
       <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>Joseonjok of Daerim-dong, Seoul</h2>
 <p>You can find a video of Daerim-dong <a href="https://www.youtube.com/watch?v=xNy6z63fLRQ">here</a></p>
@@ -210,9 +210,9 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//deep-work</guid>
+      <guid>https://resevoir.net//deep-work</guid>
       <title>deep_work</title>
-      <link>https://resevoir.vercel.app//deep-work</link>
+      <link>https://resevoir.net//deep-work</link>
       <pubDate>Wed, 01 May 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p><em>This section presents explorations and thoughts relating to deep work</em>.</p>
 <p>My interest in deep work has let to the exploration of multiple tools for aiding the practice of deep work - one such tool is this site. Others which have since fallen into disuse are [[chasmic]] and [[org-mode]].</p>
@@ -266,9 +266,9 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//documenting</guid>
+      <guid>https://resevoir.net//documenting</guid>
       <title>documenting</title>
-      <link>https://resevoir.vercel.app//documenting</link>
+      <link>https://resevoir.net//documenting</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p><em>projects which aim to document lifeworlds</em></p>
 <ul>
@@ -279,9 +279,9 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//eoy-2019</guid>
+      <guid>https://resevoir.net//eoy-2019</guid>
       <title>EOY_2019</title>
-      <link>https://resevoir.vercel.app//eoy-2019</link>
+      <link>https://resevoir.net//eoy-2019</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>-- Find Refuge</p>
 <p>I have a target called finding refuge because I want to be able to find peace in our hypercharged world. This year has been quite hectic with a lot of moving and changes in life circumstances. So, I would not say that I have hit this target particularly well. I found refuge in some ways at the Recurse Center. However, I would say that RC more than being a space of refuge is a space of community and intense immersion. I guess refuge is more about finding stability and defining a kind of lifestyle which make me feel like I can exist with myself in the world. So, much progress to make on this in 2020.</p>
@@ -303,18 +303,18 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//fermentation</guid>
+      <guid>https://resevoir.net//fermentation</guid>
       <title>fermentation</title>
-      <link>https://resevoir.vercel.app//fermentation</link>
+      <link>https://resevoir.net//fermentation</link>
       <pubDate>Fri, 03 Apr 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Fermentation is a powerful concept whose meaning expands much beyond mere foods.</p>
 ]]></content:encoded>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//foraging</guid>
+      <guid>https://resevoir.net//foraging</guid>
       <title>foraging</title>
-      <link>https://resevoir.vercel.app//foraging</link>
+      <link>https://resevoir.net//foraging</link>
       <pubDate>Thu, 08 Oct 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>A repository with resources about foraging</p>
 <p><b>Picking Mushrooms</b></p>
@@ -323,9 +323,9 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//fraktur</guid>
+      <guid>https://resevoir.net//fraktur</guid>
       <title>fraktur</title>
-      <link>https://resevoir.vercel.app//fraktur</link>
+      <link>https://resevoir.net//fraktur</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>There is a lack of good learning resources for people who need to learn to read old typefaces. The aim of this project was to use the affordances of the digital medium to more effectively teach the skill of reading different kinds of typefaces.</p>
 <p>This project sprouted from my interest in [[historiography]]. I first did a precedent analysis of the ways this skill was being taught digitally at the moment. Based on this analysis defined a list of criteria that my design should fulfil to make better use of the digital medium to provide a better learning experience:</p>
@@ -340,9 +340,9 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//git-for-filmmakers</guid>
+      <guid>https://resevoir.net//git-for-filmmakers</guid>
       <title>git_for_filmmakers</title>
-      <link>https://resevoir.vercel.app//git-for-filmmakers</link>
+      <link>https://resevoir.net//git-for-filmmakers</link>
       <pubDate>Wed, 28 Aug 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p><a href="https://github.com/jskjott/git-for-filmmakers">github</a></p>
 <p>Many creative professions have no high quality version control systems. Film-making is one profession in which the majority of practitioners use only very limited systems for version control. The lack of version control makes collaboration hard as there are many barriers to share, explore, and merge projects.</p>
@@ -351,9 +351,9 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//historiography</guid>
+      <guid>https://resevoir.net//historiography</guid>
       <title>historiography</title>
-      <link>https://resevoir.vercel.app//historiography</link>
+      <link>https://resevoir.net//historiography</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h3>Renewal, Silences and Computational Tools in History</h3>
 <p>In this project, I looked at how historians write about the history of their discipline. In history, the practice of working with the history of the history of something is referred to as historiography. </p>
@@ -375,9 +375,9 @@ With digital historiography we can include the long tail of research which never
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//index</guid>
+      <guid>https://resevoir.net//index</guid>
       <title>A knowledge-base featuring the momentums of Jonathan Skjøtt.</title>
-      <link>https://resevoir.vercel.app//index</link>
+      <link>https://resevoir.net//index</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p><em>Welcome to the Resevoir</em></p>
 <p>Many a momentum are held within thy gutter:</p>
@@ -392,9 +392,9 @@ With digital historiography we can include the long tail of research which never
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//intermediate-representations</guid>
+      <guid>https://resevoir.net//intermediate-representations</guid>
       <title>intermediate_representations</title>
-      <link>https://resevoir.vercel.app//intermediate-representations</link>
+      <link>https://resevoir.net//intermediate-representations</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Intermediate representations are constructs which aid thinking by simulateanously embracing while also limiting uncertainty. They can provide clarity and a foundation for thinking in particular ways while leaving space for exploration in others.</p>
 <p>[[pointers]] is a particular form of intermediate representation focussing on enabling media design.</p>
@@ -402,9 +402,9 @@ With digital historiography we can include the long tail of research which never
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//jonathan</guid>
+      <guid>https://resevoir.net//jonathan</guid>
       <title>jonathan</title>
-      <link>https://resevoir.vercel.app//jonathan</link>
+      <link>https://resevoir.net//jonathan</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Jonathan Skjøtt is [[documenting]], weaving, and thinking about [[mediums]].</p>
 <p>He is currently a researcher and technologist at <a href="https://www.takram.com/">takram</a> in London.
@@ -418,9 +418,9 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//kiron</guid>
+      <guid>https://resevoir.net//kiron</guid>
       <title>kiron</title>
-      <link>https://resevoir.vercel.app//kiron</link>
+      <link>https://resevoir.net//kiron</link>
       <pubDate>Wed, 01 Aug 2018 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h3>How to Introduce Refugees to Online Learning</h3>
 <p>It was hard for the refugee students at Kiron to succeed in the online studies which would give them access to European universities. In this project, we aimed to craft an experience which would set students up for success.</p>
@@ -440,9 +440,9 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//library</guid>
+      <guid>https://resevoir.net//library</guid>
       <title>library</title>
-      <link>https://resevoir.vercel.app//library</link>
+      <link>https://resevoir.net//library</link>
       <pubDate>Sat, 31 Aug 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h3>Books Which Have Inspired Me</h3>
 <ul>
@@ -500,18 +500,18 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//lifestyle</guid>
+      <guid>https://resevoir.net//lifestyle</guid>
       <title>This corner of the [[resevoir]] serves as a space for exploring lifestyles.</title>
-      <link>https://resevoir.vercel.app//lifestyle</link>
+      <link>https://resevoir.net//lifestyle</link>
       <pubDate>Tue, 09 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>I try to create the conditions for myself to do [[deep work]].</p>
 ]]></content:encoded>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//manifestations</guid>
+      <guid>https://resevoir.net//manifestations</guid>
       <title>manifestations</title>
-      <link>https://resevoir.vercel.app//manifestations</link>
+      <link>https://resevoir.net//manifestations</link>
       <pubDate>Sat, 10 Aug 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>A collection of personal displays / demonstrations / professions / exhibitions / indications / illustrations / exemplifications / declarations / expressions</p>
 <p>[[urgency]] | [[quotes]] | [[space]] | [[targets]] | [[biking]] | [[fermentation]]</p>
@@ -519,9 +519,9 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//mediums</guid>
+      <guid>https://resevoir.net//mediums</guid>
       <title>mediums</title>
-      <link>https://resevoir.vercel.app//mediums</link>
+      <link>https://resevoir.net//mediums</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>The <em>media</em> momentum is for expressive works.</p>
 <p>[[time-based]] | [[documenting]]</p>
@@ -529,9 +529,9 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//midi-plotter</guid>
+      <guid>https://resevoir.net//midi-plotter</guid>
       <title>midi_plotter</title>
-      <link>https://resevoir.vercel.app//midi-plotter</link>
+      <link>https://resevoir.net//midi-plotter</link>
       <pubDate>Wed, 05 Aug 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>Midi Plotter</h2>
 <p><a href="https://github.com/jskjott/midi-plotter">github</a></p>
@@ -543,9 +543,9 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//org-mode</guid>
+      <guid>https://resevoir.net//org-mode</guid>
       <title>org-mode</title>
-      <link>https://resevoir.vercel.app//org-mode</link>
+      <link>https://resevoir.net//org-mode</link>
       <pubDate>Sat, 21 Sep 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Org-mode is a powerful environment for working with ideas, and for organising your projects.</p>
 <p>When I heard of it I became incredibly excited and luckily there were many people who were willing to teach me a bit about how to use emacs and org-mode.</p>
@@ -556,9 +556,9 @@ A little sneak peak of my .org file</p>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//pointers</guid>
+      <guid>https://resevoir.net//pointers</guid>
       <title>pointers</title>
-      <link>https://resevoir.vercel.app//pointers</link>
+      <link>https://resevoir.net//pointers</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Pointers explored on this site include the [[portable typewriter]] and the [[midi plotter]].</p>
 <blockquote>
@@ -569,9 +569,9 @@ A little sneak peak of my .org file</p>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//portable-printing</guid>
+      <guid>https://resevoir.net//portable-printing</guid>
       <title>portable printing</title>
-      <link>https://resevoir.vercel.app//portable-printing</link>
+      <link>https://resevoir.net//portable-printing</link>
       <pubDate>Thu, 11 Apr 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>The process of printing something involves manifesting a representation on a piece of paper. Manifesting by printing takes time. What is on the paper at every given moment of the printing process is different. This makes the printing process a time-based media.</p>
 <p>In most printers it is hard to experience the time-based media of print because it is hidden away inside a huge machine: we cannot see the many intermediate manifestations which lies between the blank paper and a fully printed page.</p>
@@ -585,9 +585,9 @@ A little sneak peak of my .org file</p>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//portable-typewriter</guid>
+      <guid>https://resevoir.net//portable-typewriter</guid>
       <title>portable_typewriter</title>
-      <link>https://resevoir.vercel.app//portable-typewriter</link>
+      <link>https://resevoir.net//portable-typewriter</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>I was frustrated with how current publishing processes force you to spend hours alone on the computer making layouts. </p>
 <p>Inspiration by Robert Ochshorn's wonderful <a href="https://lowerquality.com/desertjournalism/">desert journalism</a> project I wanted to respond to these frustrations by making printing available in spaces where it currently isn’t and by doing that move away from the extensive and bulky infrastructure which is typically needed to create a printed page.</p>
@@ -599,9 +599,9 @@ A little sneak peak of my .org file</p>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//practice</guid>
+      <guid>https://resevoir.net//practice</guid>
       <title>practice</title>
-      <link>https://resevoir.vercel.app//practice</link>
+      <link>https://resevoir.net//practice</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>informed, committed action ~</h2>
 <p>A collection of processes of continous, long-term nature.</p>
@@ -624,9 +624,9 @@ A little sneak peak of my .org file</p>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//quotes</guid>
+      <guid>https://resevoir.net//quotes</guid>
       <title>quotes</title>
-      <link>https://resevoir.vercel.app//quotes</link>
+      <link>https://resevoir.net//quotes</link>
       <pubDate>Sat, 27 Jul 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>Quotes</h2>
 <p><strong>Herbert Simon</strong> - The Sciences of the Artificial</p>
@@ -655,9 +655,9 @@ A little sneak peak of my .org file</p>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//research</guid>
+      <guid>https://resevoir.net//research</guid>
       <title>research</title>
-      <link>https://resevoir.vercel.app//research</link>
+      <link>https://resevoir.net//research</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>The <em>research</em> momentum is for projects and activities probing new forms of media.</p>
 <ul>
@@ -668,9 +668,9 @@ A little sneak peak of my .org file</p>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//resevoir</guid>
+      <guid>https://resevoir.net//resevoir</guid>
       <title>resevoir</title>
-      <link>https://resevoir.vercel.app//resevoir</link>
+      <link>https://resevoir.net//resevoir</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Resevoir started as a blog-like site meant to to document and present already finished projects.
 It has grown into a place which makes me feel at home on the internet while also providing a space for me to travel through the thoughts and ideas I have had over time.
@@ -679,9 +679,9 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//sailboat-as-gaze</guid>
+      <guid>https://resevoir.net//sailboat-as-gaze</guid>
       <title>sailboat as gaze</title>
-      <link>https://resevoir.vercel.app//sailboat-as-gaze</link>
+      <link>https://resevoir.net//sailboat-as-gaze</link>
       <pubDate>Wed, 16 Sep 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>All vehicles are ways of seeing. Every vehicle, through the way it exists in relationship to the bodies whose existence it extends, powerfully acts on their user’s worlds. They make some worlds accessible and others inaccessible, and enable the noticing of certain things while hiding others, thereby becoming a texture or aesthetic of experience.</p>
 <p>What gaze does a sailboat allow us to cast upon different worlds? This is a question I am only just starting to explore by sailing in dinghies on the river Thames. When in the dinghy, I see buildings through experiencing how they act on the the wind. Being in the presence of other entities on the river - The dinghy folds and twists its sail to maneuvre through the steady stream of fossil pushed crafts.</p>
@@ -689,9 +689,9 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//sailing</guid>
+      <guid>https://resevoir.net//sailing</guid>
       <title>sailing</title>
-      <link>https://resevoir.vercel.app//sailing</link>
+      <link>https://resevoir.net//sailing</link>
       <pubDate>Thu, 08 Oct 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>A repository with resources useful to sailing practice.</p>
 <p>A reflection on the [[sailboat as gaze]]</p>
@@ -714,9 +714,9 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//service-design</guid>
+      <guid>https://resevoir.net//service-design</guid>
       <title>service_design</title>
-      <link>https://resevoir.vercel.app//service-design</link>
+      <link>https://resevoir.net//service-design</link>
       <pubDate>Tue, 07 Aug 2018 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>How to Make Citizen Science More Participatory</h2>
 <p>As one of two research fellows I joined Digital Creativity Labs, a research center focussing on interactive media, games, and play, and Bioversity, a global research-for-development NGO working to increase agricultural biodiversity and food security, to work on improving the experience of the farmers who choose to participate in Bioversity's agricultural research. This project pushed me to take charge of conducting the design process and deepened my understanding of service design.</p>
@@ -752,9 +752,9 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//slitscan-experiments</guid>
+      <guid>https://resevoir.net//slitscan-experiments</guid>
       <title>slitscan_experiments</title>
-      <link>https://resevoir.vercel.app//slitscan-experiments</link>
+      <link>https://resevoir.net//slitscan-experiments</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1>Static Representions of Time-based Media</h1>
 <p>Some media like text and images provide the entirety of their state in their static form. The piece of text or a picture we put on our wall is glanceable. This does not mean that we can experience the media fully with a glance - we must actually read the text or look at the picture. However, with a glance we can observe the full state of the medium.</p>
@@ -765,9 +765,9 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//slitscan-video</guid>
+      <guid>https://resevoir.net//slitscan-video</guid>
       <title>slitscan_video</title>
-      <link>https://resevoir.vercel.app//slitscan-video</link>
+      <link>https://resevoir.net//slitscan-video</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1>Static Representions of Time-based Media</h1>
 <p>Some media like text and images provide the entirety of their state in their static form. The piece of text or a picture we put on our wall is glanceable. This does not mean that we can experience the media fully with a glance - we must actually read the text or look at the picture. However, with a glance we can observe the full state of the medium.</p>
@@ -778,9 +778,9 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//space</guid>
+      <guid>https://resevoir.net//space</guid>
       <title>space</title>
-      <link>https://resevoir.vercel.app//space</link>
+      <link>https://resevoir.net//space</link>
       <pubDate>Thu, 26 Sep 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p><em>This section is dedicated to exploring ideas that relate to spaces created by and with people.</em></p>
 <h3>An Ode to the Spaces I Want to Create</h3>
@@ -900,9 +900,9 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//studies</guid>
+      <guid>https://resevoir.net//studies</guid>
       <title>studies</title>
-      <link>https://resevoir.vercel.app//studies</link>
+      <link>https://resevoir.net//studies</link>
       <pubDate>Mon, 27 May 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Practices in deep thought and immersion. Dedicated to Khang.</p>
 <p>[[text]] | [[slitscan experiments]] | [[annotation]] | [[writing drawings]] | [[intermediate representations]]</p>
@@ -910,9 +910,9 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//tactile</guid>
+      <guid>https://resevoir.net//tactile</guid>
       <title>tactile</title>
-      <link>https://resevoir.vercel.app//tactile</link>
+      <link>https://resevoir.net//tactile</link>
       <pubDate>Mon, 15 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>The <em>tactile</em> momentum is for things material.</p>
 <ul>
@@ -926,9 +926,9 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//targets</guid>
+      <guid>https://resevoir.net//targets</guid>
       <title>targets</title>
-      <link>https://resevoir.vercel.app//targets</link>
+      <link>https://resevoir.net//targets</link>
       <pubDate>Fri, 12 Apr 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p><em>This section is dedicated to exploring values and ideals in relation to the future.</em></p>
 <p><strong>Internal Targets</strong> goals dealing with personal growth</p>
@@ -954,9 +954,9 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//text</guid>
+      <guid>https://resevoir.net//text</guid>
       <title>text</title>
-      <link>https://resevoir.vercel.app//text</link>
+      <link>https://resevoir.net//text</link>
       <pubDate>Sun, 04 Aug 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>The Power of Text</h2>
 <blockquote>
@@ -978,9 +978,9 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//time-based</guid>
+      <guid>https://resevoir.net//time-based</guid>
       <title>time_based</title>
-      <link>https://resevoir.vercel.app//time-based</link>
+      <link>https://resevoir.net//time-based</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>The timed-based sector is for temporal experiments.</p>
 <p>[[git for filmmakers]]
@@ -994,9 +994,9 @@ Explorations of alternative temporal spaces inside videos.</p>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//tools</guid>
+      <guid>https://resevoir.net//tools</guid>
       <title>tools</title>
-      <link>https://resevoir.vercel.app//tools</link>
+      <link>https://resevoir.net//tools</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p><em>A collection of speculative creative/expressive tools and media</em></p>
 <h3>[[visiweave]] - A tool for creating paper weaving patterns.</h3>
@@ -1015,9 +1015,9 @@ Explorations of alternative temporal spaces inside videos.</p>
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//trails</guid>
+      <guid>https://resevoir.net//trails</guid>
       <title>trails</title>
-      <link>https://resevoir.vercel.app//trails</link>
+      <link>https://resevoir.net//trails</link>
       <pubDate>Wed, 01 May 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h3>Forge A More Communal Internet</h3>
 <p>The ways that community is experienced online felt inadequate to one of my friends and me. We wanted to extend the experience of physically living in a community to the experience we had on the internet.
@@ -1035,9 +1035,9 @@ We wanted to break the assumption that you are alone online when you are not on 
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//urgency</guid>
+      <guid>https://resevoir.net//urgency</guid>
       <title>urgency</title>
-      <link>https://resevoir.vercel.app//urgency</link>
+      <link>https://resevoir.net//urgency</link>
       <pubDate>Thu, 01 Aug 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p><em>This section is dedicated to developing a praxis for thinking about and addressing what’s urgent today.</em></p>
 <h3>Modesty</h3>
@@ -1046,9 +1046,9 @@ We wanted to break the assumption that you are alone online when you are not on 
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//visiweave</guid>
+      <guid>https://resevoir.net//visiweave</guid>
       <title>visiweave</title>
-      <link>https://resevoir.vercel.app//visiweave</link>
+      <link>https://resevoir.net//visiweave</link>
       <pubDate>Wed, 15 Apr 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>This project is a braiding of two lines of research</p>
 <ul>
@@ -1076,9 +1076,9 @@ We wanted to break the assumption that you are alone online when you are not on 
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//webring</guid>
+      <guid>https://resevoir.net//webring</guid>
       <title>webring</title>
-      <link>https://resevoir.vercel.app//webring</link>
+      <link>https://resevoir.net//webring</link>
       <pubDate>Mon, 19 Aug 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>A Webring for the Recurse Center</h2>
 <p><a href="https://github.com/jskjott/webring">github</a></p>
@@ -1089,9 +1089,9 @@ We wanted to break the assumption that you are alone online when you are not on 
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//writing-drawings</guid>
+      <guid>https://resevoir.net//writing-drawings</guid>
       <title>writing drawings</title>
-      <link>https://resevoir.vercel.app//writing-drawings</link>
+      <link>https://resevoir.net//writing-drawings</link>
       <pubDate>Fri, 08 Nov 2019 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>"People should be drawing their drawings instead of writing them." </p>
 <p>I caught my dad mumbling this sentence in the atelier after a full day of him teaching sketching. </p>
@@ -1118,9 +1118,9 @@ We wanted to break the assumption that you are alone online when you are not on 
     </item>
   
     <item>
-      <guid>https://resevoir.vercel.app//year-in-books-2019</guid>
+      <guid>https://resevoir.net//year-in-books-2019</guid>
       <title>year_in_books_2019</title>
-      <link>https://resevoir.vercel.app//year-in-books-2019</link>
+      <link>https://resevoir.net//year-in-books-2019</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>In 2019 I read more than 10 times more books (33) than I did in 2018 (3).</p>
 <p>The core reason behind this spike is my realization that self-directed reading creates a well of knowledge and passion which one can draw inspiration from all the while stimulating a feeling of agency and ownership of one's own learning.</p>

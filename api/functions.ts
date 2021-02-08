@@ -91,5 +91,3 @@ export function getAllPages() {
 
 	return entryDictionary
 }
-
-export function addInsideLinks(str: string) {}

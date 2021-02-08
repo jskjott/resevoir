@@ -63,7 +63,7 @@ export async function getStaticProps({ params }: StaticProps) {
 	const docs = getAllPages()
 
 	const indexPage = docs[params.page]
-	let contentString = `# ${docs.index.title}
+	let contentString = `# ${indexPage.title}
 	${indexPage.content}`
 	let titleString = indexPage.title
 
