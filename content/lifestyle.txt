@@ -1,6 +1,7 @@
-title: 'This corner of the [[resevoir]] serves as a space for exploring lifestyles.'
+title: ‘Lifestyle’
 dates: ['10-06-2020']
 altText: 'Morning in Daerim-dong'
 img: 'cropped_daerim.jpg'
 
+This corner of the [[resevoir]] serves as a space for exploring lifestyles.
 I try to create the conditions for myself to do [[deep work]].

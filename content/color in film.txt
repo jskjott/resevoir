@@ -1,4 +1,4 @@
-title: 'color_in_film'
+title: 'color in film'
 dates: ['16-03-2019']
 img: 'color_in_film4.png'
 altText: 'a visualisation showing the average color in feature films'

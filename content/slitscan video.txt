@@ -1,4 +1,4 @@
-title: 'slitscan_video'
+title: 'slitscan video'
 dates: ['08-01-2018']
 img: 'slitscan_hands.png'
 altText: 'Glitch Hands'

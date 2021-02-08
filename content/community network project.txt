@@ -1,4 +1,4 @@
-title: 'community_network_project'
+title: 'community network project'
 dates: ['23-07-2019']
 img: 'community_network_project.gif'
 altText: 'a screenshot of the produced interactive data visualisation'

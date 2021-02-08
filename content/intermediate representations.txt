@@ -1,4 +1,4 @@
-title: 'intermediate_representations'
+title: 'intermediate representations'
 dates: ['08-03-2020']
 altText: 'Malraux, Museum without Walls'
 img: 'a_book_museum_without_walls.jpeg'

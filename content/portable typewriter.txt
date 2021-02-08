@@ -1,4 +1,4 @@
-title: 'portable_typewriter'
+title: 'portable typewriter'
 dates: ['20-12-2018']
 altText: 'Receipt Printer Typerwriter prototype'
 img: 'typewriter_1.png'

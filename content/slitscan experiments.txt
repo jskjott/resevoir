@@ -1,4 +1,4 @@
-title: 'slitscan_experiments'
+title: 'slitscan experiments'
 dates: ['02-11-2018']
 img: 'slitscan_hands.png'
 altText: 'Glitch Hands'

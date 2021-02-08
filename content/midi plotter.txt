@@ -1,4 +1,4 @@
-title: 'midi_plotter'
+title: 'midi plotter'
 dates: ['06-08-2020']
 altText: 'Visualisation produced by playing Partita I. by Bach'
 img: 'midi-plotter-eli-cropped.jpg'
