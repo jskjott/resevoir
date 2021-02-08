@@ -47,7 +47,7 @@ export default function Doc({ docArray, index }: Props) {
 								xmlns="http://www.w3.org/2000/svg"
 							>
 								{docArray.map((page, index) => (
-									<Link href={page.slug} key={index}>
+									<a href={page.slug} key={index}>
 										<rect
 											x={`${30 * (index % 10)}px`}
 											y={`${
@@ -58,7 +58,7 @@ export default function Doc({ docArray, index }: Props) {
 											fill="white"
 											strokeWidth="0.25px"
 										/>
-									</Link>
+									</a>
 								))}
 							</svg>
 						</div>
