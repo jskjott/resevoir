@@ -13,8 +13,7 @@
       <title>about</title>
       <link>https://resevoir.net//about</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>The [[resevoir]] is a space dedicated to the long-term.</p>
-<p>It was created in 2018 to help Jonathan capture the ideas and thoughts which linger in the margins of his mind. </p>
+      <content:encoded><![CDATA[<p>The [[resevoir]] is a space dedicated to the long-term. It was created in 2018 to help Jonathan capture the ideas and thoughts which linger in the margins of his mind. </p>
 <ul>
 <li>[[resevoir]]</li>
 <li>[[lifestyle]]</li>
@@ -28,32 +27,48 @@
       <title>annotation</title>
       <link>https://resevoir.net//annotation</link>
       <pubDate>Sat, 14 Sep 2019 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>The power of annotations</h3>
-<p>Annotation can be condensing/curating/commenting/elaborating. Annotation systems are meta-tools which are often not used to generate final products or results: rather they serve as scaffolds augmenting thinking and collaboration processes. This page explores the meaning and design of annotations, the different forms annotations take, and strives to illuminate how meta-tools change how we work with ideas.</p>
-<h3>Definitions and keywords</h3>
-<p><strong>Thesaurus</strong> -> note, notation, comment, gloss; footnote; commentary, explanation, interpretation, observation, elucidation, explication, exegesis.</p>
-<p><strong>Oxford's</strong> -> a note by way of explanation or comment added to a text or diagram.</p>
-<p><strong>Webster's</strong> -> a note added by way of comment or explanation.</p>
-<h3>Relationship between entity and annotation</h3>
-<ul>
-<li>No annotation exists on its own, it must exist in relation to some entity: whether that be a physical object or a piece of media.</li>
-<li>Drastically different narratives surround the entity and the annotion (this is part of the reason the entity and annotation cannot exist as one.)</li>
-<li>For an annotation to be an annotation both the source and the comment have to be present at the same time. / An annotation does exist outside of its relationship with the source</li>
-</ul>
-<h3>Quotes</h3>
-<h4>Zeros + Ones by Sadie Plant</h4>
-<p><a href="https://beforebefore.net/digitalstudio/s18/media/01sadieplant.pdf">source</a></p>
-<p>"When Ada wrote her footnotes to Menabrea's text, her work was implicitly supposed to be reinforcing these hierarchical divisions between centers and margins, authors and scribes. Menabrea's memoir was the leading article; Ada's work was merely a compilation of supporting detail, secondary commentary, material intended to back the author up. But her notes made enormous leaps of both quantity and quality beyond a text which turned out merely to be providing the occasion for her work.</p>
-<p>Only when digital networks arranged themselves in threads and links did footnotes begin to walk all over what had once been the bodies of organized texts. Hypertext programs and the Net are webs of footnotes without central points, organizing principles, hierarchies. Such networks are unprecedented in terms of their scope, complexity, and the pragmatic possibilities of their use. And yet they are also--and have always been--immanent to all and every piece of written work."</p>
-<h4>Visual Analysis Comics Class by Nick Sousanis</h4>
+      <content:encoded><![CDATA[<p>Annotation is condensation / curation / comment / elaboration. Annotation systems are meta-tools which are often not used to generate final products or results: rather they serve as scaffolds augmenting thinking and collaboration processes. This page explores the meaning and design of annotations, the different forms annotations take, and strives to illuminate how meta-tools change how we work with ideas.</p>
+<h2>Definitions and keywords</h2>
+<p>Thesaurus</p>
+<blockquote>
+<p>note, notation, comment, gloss; footnote; commentary, explanation, interpretation, observation, elucidation, explication, exegesis.</p>
+</blockquote>
+<p>Oxford's</p>
+<blockquote>
+<p>a note by way of explanation or comment added to a text or diagram.</p>
+</blockquote>
+<p>Webster's</p>
+<blockquote>
+<p>a note added by way of comment or explanation.</p>
+</blockquote>
+<h2>Relationship between entity and annotation</h2>
+<p>No annotation exists on its own, it must exist in relation to some entity: whether that be a physical object or a piece of media. Drastically different narratives surround the entity and the annotion (this is part of the reason the entity and annotation cannot exist as one.) For an annotation to be an annotation both the source and the comment have to be present at the same time. / An annotation does exist outside of its relationship with the source</p>
+<h2>Quotes</h2>
+<blockquote>
+<p>When Ada wrote her footnotes to Menabrea's text, her work was implicitly supposed to be reinforcing these hierarchical divisions between centers and margins, authors and scribes. Menabrea's memoir was the leading article; Ada's work was merely a compilation of supporting detail, secondary commentary, material intended to back the author up. But her notes made enormous leaps of both quantity and quality beyond a text which turned out merely to be providing the occasion for her work.
+<cite> Zeros + Ones by Sadie Plant - <a href="https://beforebefore.net/digitalstudio/s18/media/01sadieplant.pdf">source</a></cite></p>
+</blockquote>
+<blockquote>
+<p>Only when digital networks arranged themselves in threads and links did footnotes begin to walk all over what had once been the bodies of organized texts. Hypertext programs and the Net are webs of footnotes without central points, organizing principles, hierarchies. Such networks are unprecedented in terms of their scope, complexity, and the pragmatic possibilities of their use. And yet they are also--and have always been--immanent to all and every piece of written work."
+<cite> Zeros + Ones by Sadie Plant - <a href="https://beforebefore.net/digitalstudio/s18/media/01sadieplant.pdf">source</a></cite></p>
+</blockquote>
+<h2>Visual Analysis Comics Class by Nick Sousanis</h2>
 <p><a href="https://spinweaveandcut.com/visual-analysis-unfurling/">source</a></p>
-<p>Its format is open – students trace, redraw, photocopy, layer over the page they analyze with acetate – anything in which they engage with the work in an intimate and visual way. Drawing directly on the page is key! This active interaction with the composition invites them to start noticing everything the author(s) employs to construct meaning. After students move their hand and eyes over a page for an extended period – I suggest at least half an hour – so much spills out as they discover all sorts of things about the maker’s choices and creative decisions not previously apparent. They find every square inch invested in meaning. Students develop their own coding strategies, diagram, work in multiple layers – the results are frequently this beautiful and insightful explosion of thinking. It’s not that doing analysis solely in writing can’t be extremely insightful (of course it can), but in my experience, this direct engagement of hand and eyes opens students to seeing in ways they couldn’t otherwise. (They can always turn their annotations into essays afterwards if so desired, but the thinking is in that direct spatial engagement.)"</p>
+<blockquote>
+<p>Its format is open – students trace, redraw, photocopy, layer over the page they analyze with acetate – anything in which they engage with the work in an intimate and visual way. Drawing directly on the page is key! This active interaction with the composition invites them to start noticing everything the author(s) employs to construct meaning. After students move their hand and eyes over a page for an extended period – I suggest at least half an hour – so much spills out as they discover all sorts of things about the maker’s choices and creative decisions not previously apparent. They find every square inch invested in meaning. Students develop their own coding strategies, diagram, work in multiple layers – the results are frequently this beautiful and insightful explosion of thinking. It’s not that doing analysis solely in writing can’t be extremely insightful (of course it can), but in my experience, this direct engagement of hand and eyes opens students to seeing in ways they couldn’t otherwise. (They can always turn their annotations into essays afterwards if so desired, but the thinking is in that direct spatial engagement.)"
+<cite> Nick Sousanis</cite></p>
+</blockquote>
 <p><img src="https://spinweaveandcut.com/wp-content/uploads/2019/08/vis-analysis-12.jpg" alt="a visual analysis of a comic book page"></p>
-<h4>Annotated Portfolios by Bill Gaver &#x26; John Bowers</h4>
+<h2>Annotated Portfolios by Bill Gaver &#x26; John Bowers</h2>
 <p><a href="https://www.uio.no/studier/emner/matnat/ifi/INF5591/h16/pensumliste/gaver-and-bowers---2012---annotated-portfolios-copy.pdf">source</a></p>
-<p>designs need to be annotated if they are to make clear and accountable contributions to research. Such annotations not only point to salient features of an artifact but also bridge between the artifact and issues of concern to the research community. Insofar as such issues include conceptual ones, annotated artifacts can be seen to serve some of the same roles as theoretical statements, identifying activities and qualities deemed important for research and suggesting ways these might be addressed.</p>
-<p>Annotations have an indexical relationship to the artifacts they are relevant to. Annotations depend on traceable connections to design for their significance, just as designs are illuminated through annotation.</p>
-<h4>~</h4>
+<blockquote>
+<p>designs need to be annotated if they are to make clear and accountable contributions to research. Such annotations not only point to salient features of an artifact but also bridge between the artifact and issues of concern to the research community. Insofar as such issues include conceptual ones, annotated artifacts can be seen to serve some of the same roles as theoretical statements, identifying activities and qualities deemed important for research and suggesting ways these might be addressed.
+<cite> Bill Gaver &#x26; John Bowers  </cite></p>
+</blockquote>
+<blockquote>
+<p>Annotations have an indexical relationship to the artifacts they are relevant to. Annotations depend on traceable connections to design for their significance, just as designs are illuminated through annotation.
+<cite> Bill Gaver &#x26; John Bowers  </cite></p>
+</blockquote>
 ]]></content:encoded>
     </item>
   
@@ -80,8 +95,8 @@ During post-production, I was part of the three-person core team responsible for
       <title>bicycles</title>
       <link>https://resevoir.net//bicycles</link>
       <pubDate>Thu, 08 Oct 2020 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>A repository with resources about bicycles</p>
-<p><b>Bicycle Repair and Maintenance</b></p>
+      <content:encoded><![CDATA[<p>A repository with resources about bicycles.</p>
+<h2>Bicycle Repair and Maintenance</h2>
 <p><a href="http://sheldonbrown.com/">Sheldon Brown</a></p>
 ]]></content:encoded>
     </item>
@@ -187,15 +202,15 @@ saturation to calculate lightness</li>
 <p>You can find a video of Daerim-dong <a href="https://www.youtube.com/watch?v=xNy6z63fLRQ">here</a></p>
 <p>In determining which path to take my listeners on, I first thought about my first impressions of Daerim-dong. Secondly, I engaged in a quite thorough literature review of academic papers and news articles about the Joseonjok, Daerim- and Garibong-dong and the Korean diasporas. Thirdly, I went to Daerim-dong again and did a series of thorough observations of the social life and objects located at different potential paths that I could take my listeners on. Lastly, I found the ideal path in which I could tell an engaging story and connect my story to objects and people in the city all while staying focused on the key issues pertaining to the identity and historic challenges   experienced   by   Joseonjok   and   South   Koreans.</p>
 <p>I designed the tour for people who are somewhat knowledgeable of East-Asian history and have a basic English academic language. I assume that they know about the Japanese colonisation of South Korea and the subsequent invasion of Manchuria. I assume that they will understand when I use common academic terms such as industrialisation, narratives and ethnicity. I think English speaking Koreans and foreigners alike will find the tour valuable, engaging and thought-provoking.</p>
-<p><img src="postcard7-min.jpg" alt="a photo of the steet from Daerim-dong, Seoul"></p>
+<p><img src="images/postcard7-min.jpg" alt="a photo of the steet from Daerim-dong, Seoul"></p>
 <p>As I speak very little Mandarin and Korean I found it challenging to build a whole tour without being able to easily engage orally with any of the Joseonjok Korean Chinese or South Koreans that my tour is about. A classmate of mine, Xiaofan Liang, helped me a bit by going with me, reading what the signs said and chatting casually with some people. Many of my resources are done by Korean or Asian scholars. Still, the greatest ethical shortcoming is the lack of Korean Chinese or South Korean voices narrating and being present in the tour. If I were to change something or improve my tour I would want to try to find a Korean Chinese to co-host the tour with me. I would try to include many more personal stories which I would get access to by knowing   and   interviewing   the   Joseonjok   who   live   in   Daerim-dong.</p>
 <p>Despite this clear shortcoming, I think the wealth of resources I did have access allowed me to frame and support my argument very well. The struggles of identity Joseonjok, South and North Koreans are experiencing are grounded in historical events such as the Japanese invasion of Manchuria, the Cold War and the recent success of South Korea as an Asian tiger economy. The mechanisms at work in Korean questions of identity can also be found in Japan, Greece and Germany which historically have had large ethnic populations outside of their own borders.</p>
 <p>Based on these insights I decided that It would be very valuable to see the Chinatown of Daerim-dong and its Joseonjok population as a manifestation of, to some degree, universal struggles of identity which are experienced currently in different places throughout the world.[1] The particular story of Daerim-dong allows us to situate our discussion in the local. It allows the uninformed listener to better understand how large-scale processes such as the Cold War or South Korean industrialisation might impact different groups and nurture the creation of spaces and neighbourhoods.[2]</p>
 <p>The guided, app-based tour format allows me as a producer accurately time and synchronises a spatial and auditory experience. For me, the combination of the spatial and the auditory allow me to explain well the space in which an individual is situated. You can explain how different forces worked to produce the physical and spatial reality the individual is engaging with while experiencing the tour. In my tour, this allowed me to show how abstract concepts like ethnicity, nationality and power manifest and influence the creation of a Korean Chinese enclave close to the heart of Seoul in South Korea. The fact that this tour is [3] digital makes it available to many more people than if I had been giving a tour in person.</p>
 <p>Detour studio is not that easy to use and that impacts who might end up using the tool. Like other digital or computational tools, Detour limits it userbase in being difficult to use. Another limitation of this style is the lack of potential for listeners or the local population to build on and expand the existing tour. If the local population would be unhappy with the tour I have created, they   are   not   in   a   great   position   to   contribute   or   make   their   voices   heard.[4]</p>
-<p><img src="postcard2-min.jpg" alt="a photo of the steet from Daerim-dong, Seoul"></p>
+<p><img src="images/postcard2-min.jpg" alt="a photo of the steet from Daerim-dong, Seoul"></p>
 <p>I think the identity issues the I explore in my narrative could be a textbook case of historicity. It goes like this: A population of a culture is split into two. Each is put on one of two sides in the Cold War. One half is put in a communist country with limited contact with consumer market societies. The other is fully integrated into the capitalist global market. Then, you observe the conflicts that arise as diverse groups try to negotiate the meaning of a culture, nation and ethnicity to which they all relate and feel ownership of.[5] It is not that one is more representative I think. Nothing is constant throughout history, both populations have the same heritage down the line but have developed in different ways in recent times. In our case, you have South Korea on one side with more than 40 million people versus Korean Chinese who amount to less than 4 million   people.   The   Korean   Chinese   are   the   subaltern.</p>
-<p><img src="postcard4-min.jpg" alt="a photo of the steet from Daerim-dong, Seoul"></p>
+<p><img src="images/postcard4-min.jpg" alt="a photo of the steet from Daerim-dong, Seoul"></p>
 <p>They have been silenced as South Korea has grown economically successful and gained prominence   internationally. [6]</p>
 <p>Particularly interesting is how some South Koreans claim that Korean Chinese have digressed from the true Korean path. South Koreans claim this while rarely being aware of how much they themselves   have   changed   in   the   last   70   years...</p>
 <hr>
@@ -306,7 +321,11 @@ saturation to calculate lightness</li>
       <title>fermentation</title>
       <link>https://resevoir.net//fermentation</link>
       <pubDate>Fri, 03 Apr 2020 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>Fermentation is a powerful concept whose meaning expands much beyond mere foods.</p>
+      <content:encoded><![CDATA[<p>Fermentation is a powerful concept whose meaning expands much beyond mere foods. “We are all pickled up here to preserve ourselves and each other”</p>
+<blockquote>
+<p>How do we connect our readers with kimchi epistemologies?</p>
+</blockquote>
+<p><img src="images/ferment.png" alt="picture of Ferment zine idea sketching"></p>
 ]]></content:encoded>
     </item>
   
@@ -316,8 +335,11 @@ saturation to calculate lightness</li>
       <link>https://resevoir.net//foraging</link>
       <pubDate>Thu, 08 Oct 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>A repository with resources about foraging</p>
-<p><b>Picking Mushrooms</b></p>
-<p><a href="https://svampe.databasen.org/">Danish mushroom sightings database</a></p>
+<h2>Picking Mushrooms</h2>
+<p>Forests worldwide contain, depending on climate and time of year, an impressive number of mushrooms. Journeying through landscapes looking for mushrooms can be both meditative and can provide great flavour and texture to one’s cooking.</p>
+<ul>
+<li><a href="https://svampe.databasen.org/">Danish mushroom sightings database</a></li>
+</ul>
 ]]></content:encoded>
     </item>
   
@@ -412,7 +434,7 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
 <p>Jonathan is very serious about building out his [[library]]. There are several things that he find important to convey through [[manifestations]]</p>
 <p><strong>Country Experience:</strong></p>
 <p>Argentina, Costa Rica, Denmark, Germany, India, Kenya, South Korea, United Kingdom, United States</p>
-<p><img src="presence.png" alt="a world map - the places where I have spent time are colored"></p>
+<p><img src="images/presence.png" alt="a world map - the places where I have spent time are colored"></p>
 ]]></content:encoded>
     </item>
   
@@ -500,11 +522,14 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
   
     <item>
       <guid>https://resevoir.net//lifestyle</guid>
-      <title>‘Lifestyle’</title>
+      <title>Lifestyle</title>
       <link>https://resevoir.net//lifestyle</link>
       <pubDate>Tue, 09 Jun 2020 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>This corner of the [[resevoir]] serves as a space for exploring lifestyles.
-I try to create the conditions for myself to do [[deep work]].</p>
+      <content:encoded><![CDATA[<p><em>This corner of the [[resevoir]] serves as a space for exploring lifestyles.</em></p>
+<h2>Work</h2>
+<p>I try to create the conditions for myself to do [[deep work]]. </p>
+<h2>Routine</h2>
+<p>Routine is good as a foundation for a healthy lifestyle, this [[selfcare checklist]] helps me feel some stability.</p>
 ]]></content:encoded>
     </item>
   
@@ -629,27 +654,29 @@ A little sneak peak of my .org file</p>
       <link>https://resevoir.net//quotes</link>
       <pubDate>Sat, 27 Jul 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>Quotes</h2>
-<p><strong>Herbert Simon</strong> - The Sciences of the Artificial</p>
 <blockquote>
-<p>All mathematics exhibits in its conclusions only what is already implicit in its premises… Hence all mathematical derivation can be viewed simply as chase in representation, making evident what was previously true but obscure.</p>
+<p>All mathematics exhibits in its conclusions only what is already implicit in its premises… Hence all mathematical derivation can be viewed simply as chase in representation, making evident what was previously true but obscure.
+<cite>Herbert Simon - <em>The Sciences of the Artificial</em></cite></p>
 </blockquote>
 <blockquote>
-<p>This view can be extended to all of problem solving-solving a problem simply means repenting it so as to make the solution transparent. If the problem solving could actually be organised in these terms, the issue of representation would indeed become central. But even if it cannot-if this is too exaggerated a view-a deeper understanding of how representations are created and how they contribute to the solution of problems will become an essential component of the future theory of design.</p>
-</blockquote>
-<p><strong>Engelbart</strong> - quoted in The Dream Machine</p>
-<blockquote>
-<p>Manipulating words seemed like the obvious place to start because it was a way to manipulate your ideas.</p>
-</blockquote>
-<p><strong>Devine</strong> - </p>
-<blockquote>
-<p>Optimizing toward the need for less revenue has yielded better results than optimizing toward the generation of more.</p>
+<p>This view can be extended to all of problem solving-solving a problem simply means repenting it so as to make the solution transparent. If the problem solving could actually be organised in these terms, the issue of representation would indeed become central. But even if it cannot-if this is too exaggerated a view-a deeper understanding of how representations are created and how they contribute to the solution of problems will become an essential component of the future theory of design.
+<cite>Herbert Simon - <em>The Sciences of the Artificial</em></cite></p>
 </blockquote>
 <blockquote>
-<p>The goal is to build a catalog of exciting things to wake up to the next day and to experiment with.</p>
+<p>Manipulating words seemed like the obvious place to start because it was a way to manipulate your ideas.
+<cite>Doug Engelbart - quoted in The Dream Machine</cite></p>
 </blockquote>
-<p><strong>Katherine Ye</strong> - on Twitter</p>
 <blockquote>
-<p>When you make your own tools, you tend to mold them to fit your hands. So they may fit others' poorly. Other people who tried "part of speech" told me that the experience felt dehumanizing, that the conversation partner's responses felt irrelevant and jarring. I feel that too.</p>
+<p>Optimizing toward the need for less revenue has yielded better results than optimizing toward the generation of more.
+<cite>Devine Lu Linvega</cite></p>
+</blockquote>
+<blockquote>
+<p>The goal is to build a catalog of exciting things to wake up to the next day and to experiment with.
+<cite>Devine Lu Linvega</cite></p>
+</blockquote>
+<blockquote>
+<p>When you make your own tools, you tend to mold them to fit your hands. So they may fit others' poorly. Other people who tried "part of speech" told me that the experience felt dehumanizing, that the conversation partner's responses felt irrelevant and jarring. I feel that too.
+<cite>Katherine Ye - on Twitter</cite></p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -715,19 +742,29 @@ The site is still very much in flux as a result of me experimenting with what st
   
     <item>
       <guid>https://resevoir.net//selfcare-checklist</guid>
-      <title>’selfcare’</title>
+      <title>selfcare checklist</title>
       <link>https://resevoir.net//selfcare-checklist</link>
       <pubDate>Invalid Date</pubDate>
-      <content:encoded><![CDATA[<p>[] have you brushed you teeth this morning?
-[] have you showered today?
-[] have you put on clean clothes today?
-[] have you done your makeup today?
-[] have you read your book today?
-[] did you go outside today?
-[] did you talk to or message a friend today?
-[] did you sit down for dinner today?
-[] did you care for the house today?
-[] did you kiss jona today?</p>
+      <content:encoded><![CDATA[<p>Pandemic days are long and the most important things take place in the everyday. I have come to enjoy them as they help to stabilise me by routine one day at the time.</p>
+<ul>
+<li><input type="checkbox"> have you brushed you teeth this morning?</li>
+<li><input type="checkbox"> have you showered today?</li>
+<li><input type="checkbox"> have you put on clean clothes today?</li>
+<li><input type="checkbox"> have you done your makeup today?</li>
+<li><input type="checkbox"> have you read your book today?</li>
+<li><input type="checkbox"> did you go outside today?</li>
+<li><input type="checkbox"> did you talk to or message a friend today?</li>
+<li><input type="checkbox"> did you sit down for dinner today?</li>
+<li><input type="checkbox"> did you care for the house today?</li>
+<li><input type="checkbox"> did you care for your skin today?</li>
+<li><input type="checkbox"> did you light candles today?</li>
+<li><input type="checkbox"> have you tidied up a bit today?</li>
+<li><input type="checkbox"> have you drank enough water today?</li>
+<li><input type="checkbox"> have you had some quiet time today?</li>
+<li><input type="checkbox"> have you created something today?</li>
+<li><input type="checkbox"> have you had time to slow down recently?</li>
+<li><input type="checkbox"> did you give love to someone close to you today?</li>
+</ul>
 ]]></content:encoded>
     </item>
   
@@ -771,14 +808,13 @@ The site is still very much in flux as a result of me experimenting with what st
   
     <item>
       <guid>https://resevoir.net//slitscan-experiments</guid>
-      <title>slitscan experiments</title>
+      <title>a static represention of time-based media</title>
       <link>https://resevoir.net//slitscan-experiments</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1>Static Representions of Time-based Media</h1>
-<p>Some media like text and images provide the entirety of their state in their static form. The piece of text or a picture we put on our wall is glanceable. This does not mean that we can experience the media fully with a glance - we must actually read the text or look at the picture. However, with a glance we can observe the full state of the medium.</p>
+      <content:encoded><![CDATA[<p>Some media like text and images provide the entirety of their state in their static form. The piece of text or a picture we put on our wall is glanceable. This does not mean that we can experience the media fully with a glance - we must actually read the text or look at the picture. However, with a glance we can observe the full state of the medium.</p>
 <p>An example of a media where this is not the case is video - as a time-based medium one can only experience the full state by directing our attention continously to the media. For a long time I have been interested in trying to craft a static representation of video. A representation which captures the dimension of time in a tangible way.</p>
+<p><img src="images/slitscan_video.png" alt="an example slitscan photograph created from a video"></p>
 <p>One way of statically representing a video is by creating a slitscan of it. In a slitscan every column of pixels is taken from a different frame of the source video. The resulting image is a collage of pixels taken from varying timestamps and varying visual coordinates. However, this representation of the time-based medium is rather coarse:</p>
-<p><img src="slitscan_video.png" alt="an example slitscan photograph created from a video"></p>
 ]]></content:encoded>
     </item>
   
@@ -976,9 +1012,8 @@ The site is still very much in flux as a result of me experimenting with what st
       <title>text</title>
       <link>https://resevoir.net//text</link>
       <pubDate>Sun, 04 Aug 2019 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>The Power of Text</h2>
-<blockquote>
-<p>Manipulating words seemed like the obvious place to start because it was a way to manipulate your ideas. - Engelbart</p>
+      <content:encoded><![CDATA[<blockquote>
+<p>Manipulating words seemed like the obvious place to start because it was a way to manipulate your ideas. <cite> Engelbart </cite></p>
 </blockquote>
 <p>Text is one of the essential media. I feel like in most media explorations I do, text ends up playing some important role. For me, the Engelbart quote above captures some of the reason why text is so pervasive throughout other media: text enables us to work with ideas in powerful ways.</p>
 <p>But, how do we really unlock the power that text has. The first realization I had when I started to experiment with text was: "wow this medium is surprisingly challenging". The moment you want to start manipulating text you become aware of some of the structures which defines it as a medium:</p>
@@ -990,7 +1025,7 @@ The site is still very much in flux as a result of me experimenting with what st
 <p>Recently I have been exploring how we inteface with text on the internet. 95% of the internet content, except for the various input fields, does not afford rich text editing. </p>
 <p>The browser offers very weak interface with text. The majority of textual webcontent is made to appear static. The text we see on the internet does not allow us to place a caret (the vertical cursor we find in input fields or text editors) or to change its appearance with highlights or underlining.</p>
 <p>I am currently working on a browser extension which allow rich text editing of all online text-based content. The first feature I am trying to add is multi-caret selection:</p>
-<p><img src="multiple_cursors.gif" alt="a gif animation showing multiple cursors selecting text"></p>
+<p><img src="images/multiple_cursors.gif" alt="a gif animation showing multiple cursors selecting text"></p>
 <p>Having multiple carets allow selection and manipulation of multiple parts of a text document. Coupled with good pattern matching enables a plethora of actions such as data formating, effective selective text copying, and rapid soritng of ideas and concepts.</p>
 ]]></content:encoded>
     </item>
@@ -1001,13 +1036,13 @@ The site is still very much in flux as a result of me experimenting with what st
       <link>https://resevoir.net//time-based</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>The timed-based sector is for temporal experiments.</p>
-<p>[[git for filmmakers]]
-Making a powerful version-control system accessible to filmmakers.</p>
-<p>[[slitscan experiments]]
-Explorations of alternative temporal spaces inside videos.</p>
-<p>[[midi plotter]]</p>
-<p>[[color in film]]
-[[auto rickshaw]]</p>
+<ul>
+<li>[[git for filmmakers]] - Making a powerful version-control system accessible to filmmakers.</li>
+<li>[[slitscan experiments]] - Explorations of alternative temporal spaces inside videos.</li>
+<li>[[midi plotter]] - Plotting midi feeds live as they are received.</li>
+<li>[[color in film]] - Visualisation of how colours spread out temporally in films.</li>
+<li>[[auto rickshaw]] - Exploring the documentation of livelihoods and environments.</li>
+</ul>
 ]]></content:encoded>
     </item>
   
@@ -1058,6 +1093,9 @@ We wanted to break the assumption that you are alone online when you are not on 
       <link>https://resevoir.net//urgency</link>
       <pubDate>Thu, 01 Aug 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p><em>This section is dedicated to developing a praxis for thinking about and addressing what’s urgent today.</em></p>
+<blockquote>
+<p>if we listen to 97% of the climate scientists, we know that there is an undeniable urgency to change things quickly. It is this urgency I want to talk about today, about the urgency for a different kind of politics — a politics of hope, critical activism and fungal, yes fungal revolts to wrangle with the complex challenges we face. <cite> Anab Jain - Calling for a more-than-human politics </cite></p>
+</blockquote>
 <h3>Modesty</h3>
 <p>At the age of 24 I have polluted enough for a lifetime. It is time I live a life of modesty and with more regard for my community and environment. I have decided to stop flying, as a signal to myself and perhaps to others. Next step is to stop eating meat.</p>
 ]]></content:encoded>

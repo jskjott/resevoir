@@ -17,4 +17,4 @@ Jonathan is very serious about building out his [[library]]. There are several t
 Argentina, Costa Rica, Denmark, Germany, India, Kenya, South Korea, United Kingdom, United States
 
 
-![a world map - the places where I have spent time are colored](presence.png)
+![a world map - the places where I have spent time are colored](images/presence.png)

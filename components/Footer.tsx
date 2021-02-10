@@ -5,12 +5,14 @@ const gridStyle = {
 }
 
 const footerStyle = {
-	'height': '30px',
+	height: '30px',
+	margin: '0',
 }
 
 const githubStyle = {
-	'height': '30px',
-	'filter': 'invert(1)',
+	height: '30px',
+	filter: 'invert(1)',
+	margin: '0',
 }
 
 const Footer = () => {

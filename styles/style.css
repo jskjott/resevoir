@@ -29,6 +29,10 @@ hr {
     background-size: contain;
 }
 
+img {
+    margin: 1.5em 0 1.5em 0;
+}
+
 h1 {
     font-size: 1.5em;
     line-height:1.5em;
@@ -59,9 +63,8 @@ cite {
 }
 
 p {
-    line-height:1.5em;
-    text-align: justify;
-    hyphens: auto;
+    line-height:1.4em;
+    word-spacing: -0.05em;
 }
 
 p + p {   
@@ -75,8 +78,9 @@ h1 {
 }
 
 h2 {
-    font-size: 1.2em;
-    margin-bottom: 1.5em;
+    font-size: 1.1em;
+    margin-bottom: 1.25em;
+    margin-top: 1.25em;
 }
 
 h1 + p:first-of-type:first-letter { 

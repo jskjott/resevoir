@@ -1,6 +1,10 @@
 title: 'fermentation'
 dates: ['04-04-2020']
 altText: 'character design process illustration'
-img: 'fermentation.png'
+img: 'kimchi-london-08-03-2020.png'
 
-Fermentation is a powerful concept whose meaning expands much beyond mere foods.
+Fermentation is a powerful concept whose meaning expands much beyond mere foods. “We are all pickled up here to preserve ourselves and each other”
+
+> How do we connect our readers with kimchi epistemologies?
+
+![picture of Ferment zine idea sketching](images/ferment.png)

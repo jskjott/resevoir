@@ -5,13 +5,8 @@ img: 'time-based.png'
 
 The timed-based sector is for temporal experiments.
 
-[[git for filmmakers]]
-Making a powerful version-control system accessible to filmmakers.
-
-[[slitscan experiments]]
-Explorations of alternative temporal spaces inside videos.
-
-[[midi plotter]]
-
-[[color in film]]
-[[auto rickshaw]]
+- [[git for filmmakers]] - Making a powerful version-control system accessible to filmmakers.
+- [[slitscan experiments]] - Explorations of alternative temporal spaces inside videos.
+- [[midi plotter]] - Plotting midi feeds live as they are received.
+- [[color in film]] - Visualisation of how colours spread out temporally in films.
+- [[auto rickshaw]] - Exploring the documentation of livelihoods and environments.

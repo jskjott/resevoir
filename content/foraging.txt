@@ -5,7 +5,10 @@ img: 'foraging.jpg'
 
 A repository with resources about foraging
 
-<b>Picking Mushrooms</b>
+## Picking Mushrooms
 
-[Danish mushroom sightings database](https://svampe.databasen.org/)
+Forests worldwide contain, depending on climate and time of year, an impressive number of mushrooms. Journeying through landscapes looking for mushrooms can be both meditative and can provide great flavour and texture to one’s cooking.
+
+- [Danish mushroom sightings database](https://svampe.databasen.org/)
+
 
