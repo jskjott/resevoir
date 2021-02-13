@@ -11,7 +11,7 @@ img: 'mcluhan.jpg'
 
 A domain-specific language is used to generate grids and spreadsheet style commands are used to shape the cells in the grid. The core philosophy behind this project is that a good end-user programming experience is achieved through a tight coupling and co-presence of both code and data in the interface - the code is the interface is the code.
 
-![the tool work environment](visiweave_interface.png)
+![the tool work environment](images/visiweave_interface.png)
 
 ### [[git for filmmakers]] - A version control tool for filmmakers. 
 
@@ -19,7 +19,7 @@ A domain-specific language is used to generate grids and spreadsheet style comma
 
 The lack of good quality version control has wrecked many a film-project. This project seeks to provide a simple and powerful interface for filmmakers to visualise how their project files changed of time, do collaborative editing, and better document their projects.
 
-![the git for filmmakers GUI](git_for_filmmakers_aug21.png)
+![the git for filmmakers GUI](images/git_for_filmmakers_aug21.png)
 
 ### [[midi plotter]] - A realtime midi visualisation tool.
 

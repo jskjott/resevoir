@@ -13,4 +13,4 @@ Trying to achieve some aim, perhaps making some kind of container or hanging som
 
 Sometime back I had to create a vertical monitor stand. One combination of inciting objects which solved the puzzle was a combination of some clothe-hangers, a vacuum head, and a candleholder:
 
-![a stand allowing monitors to stand vertically](monitor_holder.jpg)
+![a stand allowing monitors to stand vertically](images/monitor_holder.jpg)

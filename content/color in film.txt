@@ -7,12 +7,12 @@ altText: 'a visualisation showing the average color in feature films'
 
 I always liked thinking about how color is used to generate various experieces in film. Based on this interest, a friend and I decided to try to model the change of color in feature films. Our model's output was a colour timeline like the one seen below. Each point in a colour timeline represent the average colour of the film at that point. The point approximately covers a 10 second window.
 
-![](color_in_film1.png)
+![](images/color_in_film1.png)
 (From the movie Insidious, (2010))
 
 The colour seen at each point in the timeline above is composed of a particular, hue, saturation and lightness. If these variables are separated and graphed independently then you get a timeline which looks like the one seen below.
 
-![](color_in_film2.png)
+![](images/color_in_film2.png)
 (From the movie Insidious (2010))
 
 In this visualisation the hue is shown at the background of the plot, the saturation shown as a black line, and the lightness as a white line. Hue is a cyclical data type which makes it inappropriate in the line plot form that saturation and lightness take. Therefore we plot it as the background.
@@ -29,4 +29,4 @@ saturation to calculate lightness
 
 We did some validation of the model by comparing with indepedently chosen movies. Example of such comparison is below: the blue dots represent the controls and the red dots the generated movies.
 
-![example color timeline](color_in_film3.png)
+![example color timeline](images/color_in_film3.png)

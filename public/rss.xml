@@ -123,7 +123,7 @@ During post-production, I was part of the three-person core team responsible for
 <p>These objects are then used when some spatial or physical need arises.</p>
 <p>Trying to achieve some aim, perhaps making some kind of container or hanging some object at a certain angle, the collection of inciting objects becomes pieces of a puzzle. What combination and arrangement of objects will respond well to the challenge faced?</p>
 <p>Sometime back I had to create a vertical monitor stand. One combination of inciting objects which solved the puzzle was a combination of some clothe-hangers, a vacuum head, and a candleholder:</p>
-<p><img src="monitor_holder.jpg" alt="a stand allowing monitors to stand vertically"></p>
+<p><img src="images/monitor_holder.jpg" alt="a stand allowing monitors to stand vertically"></p>
 ]]></content:encoded>
     </item>
   
@@ -148,10 +148,10 @@ During post-production, I was part of the three-person core team responsible for
       <pubDate>Sat, 16 Mar 2019 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h3>Modeling Color in Film</h3>
 <p>I always liked thinking about how color is used to generate various experieces in film. Based on this interest, a friend and I decided to try to model the change of color in feature films. Our model's output was a colour timeline like the one seen below. Each point in a colour timeline represent the average colour of the film at that point. The point approximately covers a 10 second window.</p>
-<p><img src="color_in_film1.png">
+<p><img src="images/color_in_film1.png">
 (From the movie Insidious, (2010))</p>
 <p>The colour seen at each point in the timeline above is composed of a particular, hue, saturation and lightness. If these variables are separated and graphed independently then you get a timeline which looks like the one seen below.</p>
-<p><img src="color_in_film2.png">
+<p><img src="images/color_in_film2.png">
 (From the movie Insidious (2010))</p>
 <p>In this visualisation the hue is shown at the background of the plot, the saturation shown as a black line, and the lightness as a white line. Hue is a cyclical data type which makes it inappropriate in the line plot form that saturation and lightness take. Therefore we plot it as the background.</p>
 <p>In our model, hue, saturation and lightness change slightly most of the time, and change greatly quite rarely. The small changes seeks to capture the gradual changes happening within a scene or arc of a movie. The large changes represent either a mood or scene change in the movie. We decided to have the concepts of a slight change and a major change because the scale of change and the frequency of these two are very different. For a scene change the hue might jump thirty values in the 360 values wide space between two frame, a change that might take thousands of steps with small changes. This is similar when looking at saturation or lightness.</p>
@@ -165,7 +165,7 @@ During post-production, I was part of the three-person core team responsible for
 saturation to calculate lightness</li>
 </ul>
 <p>We did some validation of the model by comparing with indepedently chosen movies. Example of such comparison is below: the blue dots represent the controls and the red dots the generated movies.</p>
-<p><img src="color_in_film3.png" alt="example color timeline"></p>
+<p><img src="images/color_in_film3.png" alt="example color timeline"></p>
 ]]></content:encoded>
     </item>
   

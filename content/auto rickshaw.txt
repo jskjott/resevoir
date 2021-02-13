@@ -3,16 +3,10 @@ dates: ['25-08-2018']
 altText: 'a photo of an auto rickshaw with a driver and a passenger'
 img: 'tuktuk2.jpg'
 
-<p>
 There is a lack of documentaries which do not exoticise rickshaw drivers nor depict them as inferior or poor. Our documentary project aimed to capture the lives of rickshaw driver families in an honest way. 
-</p>
 
-<p>
 This project was conducted by three filmmakers (including me) and two Hyderabadi locals. We did not immediately define what the documentary would be about but focused on building good relationships with four rickshaw driver families. I was one of the cameramen capturing the environment whenever we went out to visit one of the families. I also supported our local collaborators when we were conducting interviews. By going through this process, we were able to capture the unique stories of each family: their backstories, duties, and dreams.
-</p>
 
-<img src="auto_rickshaw_four.png" alt="a collage with images from the production process">
+![a collage with images from the production process](images/auto_rickshaw_four.png)
 
-<p>
 During post-production, I was part of the three-person core team responsible for finding the story and editing everything together.
-</p>
