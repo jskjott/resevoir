@@ -1,11 +1,11 @@
-title: 'A knowledge-base featuring the momentums of Jonathan Skjøtt.'
-dates: ['17-06-2020']
-altText: 'foliage in south England'
-img: 'plant01.jpg'
+title: Draw these momenta into the sun
+dates: ['17-06-2020', '14-03-2021']
+altText: Rotheredge
+img: rotheredge.jpg
 
 *Welcome to the Resevoir*
 
-Many a momentum are held within thy gutter:
+Many a thought are held within thy gutter:
 
 - [[tactile]]
 - [[mediums]]

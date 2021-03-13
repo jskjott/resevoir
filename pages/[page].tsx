@@ -26,7 +26,7 @@ export default function Doc({
 			<Container>
 				<Header />
 
-				<article>
+				<article className="grid">
 					<Head>
 						<title>
 							Resevoir・
@@ -34,8 +34,8 @@ export default function Doc({
 						</title>
 						<meta property="og:image" content={img} />
 					</Head>
+					<img className="w-1/2 max-h-screen md:w-4/6 place-self-center w-full" src={`/images/${img}`} alt={altText} />
 					<div className="max-w-md mx-auto mb-10">
-						<img src={`/images/${img}`} alt={altText} />
 						<div className="mb-8"></div>
 						<PostBody content={content} />
 						<div className="pt-12" />

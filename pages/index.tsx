@@ -21,19 +21,22 @@ const radicleStyle = {
 export default function Doc({ docArray, index }: Props) {
 	return (
 		<Layout>
+			<Header />
 			<Container>
-				<Header />
+				
 
 				<article className="mb-32 grid">
 					<Head>
+
 						<title>Index | Resevoir</title>
 					</Head>
-					<div className="max-w-md mx-auto mb-10">
+					<div className="max-w-2xl mx-auto grid">
 						<img
-							className="mb-6"
+							className=" max-w-2xl"
 							src={`/images/${index.img}`}
 							alt={index.altText}
 						/>
+						<div className="max-w-lg place-self-center">
 						<div
 							className="mb-6"
 							dangerouslySetInnerHTML={{
@@ -75,6 +78,7 @@ export default function Doc({ docArray, index }: Props) {
 									src="/images/radicle.png"
 								></img>
 							</span>
+						</div>
 						</div>
 					</div>
 				</article>
