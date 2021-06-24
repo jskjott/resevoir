@@ -1,5 +1,5 @@
 title: selfcare checklist
-dates: [’08-02-2021’]
+dates: [08-02-2021]
 altText: 'forest in south England'
 img: 'plant_deep_work.jpg'
 

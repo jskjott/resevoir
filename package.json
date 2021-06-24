@@ -12,6 +12,7 @@
   "dependencies": {
     "gray-matter": "4.0.2",
     "next": "latest",
+    "node-vibrant": "^3.2.1-alpha.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "remark": "11.0.2",

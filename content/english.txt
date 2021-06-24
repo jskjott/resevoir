@@ -1,0 +1,10 @@
+title: 'english'
+dates: ['28-01-2018']
+altText: 'A photo of the street in Daerim-dong'
+img: 'postcard5-min.jpg'
+
+## Writing tools
+
+Thesauraus
+Webster’s Unabridged 1913
+

@@ -1,0 +1,28 @@
+title: 'computer rituals'
+dates: ['17-06-2020']
+img: 'candle_plant_blinds.jpg'
+altText: 'An image of a candle and a vase with flowers with blinds as a backdrop'
+
+Whether we want it or not, rituals are abound in computing. The flapping open of the laptop, the churning sound of a computer’s fan when turned on, the initiation of scripts and tasks on the stroke of a button. These actions in of themselves are rituals, or are enmeshed in other rituals — the morning wakeup routine, starting work. In *ceremony is research*, xxxx points to how everyday tasks and habits are full of rituals.
+
+It is important to see rituals for what they are, structures of acknowledgement and placed-ness. Acknowledging the rituals in one’s life enables a shift in awareness. This, I would argue is particularly important to do when it comes to the rituals involving computers.
+
+## Barriers to the emergence of local computational cultures
+
+Computers are often not seen as cultural objects — unlike many other entities computers exists apart from or independent of place, culture, and community. Instead of bearing associations with the local, the known, or part of heritage, computers are often seen as almost alien, or magical, entities, existing in friction with things which are more culturally embedded. 
+
+The reasons why this is is tied to both the soft and hard side of computers. 
+
+Hardware-wise, today it requires transnational supply-chains and high components volumes to make computers — it is hard to make a computer from local materials, especially if the computer is to be accessible to a wider group of people. the hardware components used to make components are made in the order of millions, the materials used for these components are mined at astronomical scales.  Besides, historically the development of computers was the domain of the military and companies associated with it.
+
+However, focussing only on hardware when trying to understanding why computers are not seen as cultural objects would be missing a large part of the picture.
+
+Once the hardware is built, software is needed for computers to function. The base enabling humans to interface with the computer is provided by operating systems, of which there are surprisingly few. The three widely used operating systems, Windows, Linux, and MacOS, where made by hundreds of  specialised programmers building upon Unix, a technology developed at Bell Labs in the 70s and 80s. The operating system provides an environment within which the user can act. All operating systems in use are written in programming languages based on the English language using the latin script. Though operating systems support graphical user interfaces in many languages, the underlying code and documentation will most likely be english. The amount of work involved in developing the fundamental software infrastructure as well as the dominance of English in the software side of computers means that it is outside most communities’ reach to really influence the texture and affect of computing in their lives.
+
+## Computational cultures exists, in the fringes of the inter web
+
+Computational cultures do exist. If geographical maps are replaced by internet cartographies, a wealth of subcultures are to be found in the plurality of the fediverse, IRC channels, and other social networks grounded in different forms of infrastructural ownership and control.
+
+## Computer Rituals
+
+…

@@ -10,8 +10,8 @@ const Layout = ({ children }: Props) => {
 	return (
 		<>
 			<Meta />
-			<div className="min-h-screen font-serif text-white bg-black">
-				<main>{children}</main>
+			<div className="min-h-screen py-10 pt-6 font-serif">
+				<main className="">{children}</main>
 			</div>
 			<Footer />
 		</>

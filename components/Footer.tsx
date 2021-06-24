@@ -6,23 +6,31 @@ const gridStyle = {
 
 const footerStyle = {
 	height: '30px',
+	filter: 'invert(1)',
 	margin: '0',
 }
 
 const githubStyle = {
 	height: '30px',
-	filter: 'invert(1)',
 	margin: '0',
+}
+
+const radicleStyle = {
+	filter: 'invert(1)',
+	height: '25px',
 }
 
 const Footer = () => {
 	return (
-		<footer style={footerStyle} className="bg-black border-t">
+		<footer className="bg-white border-t opacity-50 hover:opacity-100 transition-opacity duration-200 ease-in-out">
 			<Container>
-				<div style={gridStyle} className="max-w-md py-1 mx-auto grid">
+				<div
+					style={gridStyle}
+					className="w-full py-1 max-w-screen-xl grid"
+				>
 					<a href="https://webring.recurse.com">
 						<img
-							style={footerStyle}
+							style={githubStyle}
 							src="https://webring.recurse.com/icon.png"
 							alt="RC Webring Logo"
 						/>
@@ -48,8 +56,15 @@ const Footer = () => {
 							alt="Twitter Logo"
 						/>
 					</a>
-					<span></span>
-					<p className="font-serif text-white">
+					<div className="place-self-center grid">
+						<span className="place-self-center">
+							<img
+								style={radicleStyle}
+								src="/images/radicle.png"
+							></img>
+						</span>
+					</div>
+					<p className="self-center font-serif">
 						2017 ~ 2021 Jonathan Skjøtt
 					</p>
 				</div>

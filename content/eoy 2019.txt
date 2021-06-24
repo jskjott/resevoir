@@ -1,4 +1,4 @@
-title: ‘End of year reflection 2019'
+title: 'end of year reflection 2019'
 dates: ['04-01-2020']
 img: 'Albrecht_Dürer_The_Large_Piece_of_Turf,_1503.jpg'
 altText: 'Albrecht Dürer, The Large Piece of Turf'

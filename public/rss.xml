@@ -5,9 +5,18 @@
         <link>https://resevoir.net/</link>
         <description>A KNOWLEDGE-BASE FEATURING THE MOMENTUMS OF JONATHAN SKJØTT.</description>
         <language>en</language>
-        <lastBuildDate>Mon, 17 Dec 2018 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2020 23:00:00 GMT</lastBuildDate>
         <atom:link href="https://resevoir.net/" rel="self" type="application/rss+xml"/>
         
+    <item>
+      <guid>https://resevoir.net//To-the-rise-of-a-thousand-incommensurate-worlds</guid>
+      <title>a thousand incommensurate worlds</title>
+      <link>https://resevoir.net//To-the-rise-of-a-thousand-incommensurate-worlds</link>
+      <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>There is beauty to the illegible. The hinting at systems otherwise.</p>
+]]></content:encoded>
+    </item>
+  
     <item>
       <guid>https://resevoir.net//about</guid>
       <title>about</title>
@@ -77,27 +86,41 @@
       <title>auto rickshaw</title>
       <link>https://resevoir.net//auto-rickshaw</link>
       <pubDate>Fri, 24 Aug 2018 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>
-There is a lack of documentaries which do not exoticise rickshaw drivers nor depict them as inferior or poor. Our documentary project aimed to capture the lives of rickshaw driver families in an honest way. 
-</p>
-<p>
-This project was conducted by three filmmakers (including me) and two Hyderabadi locals. We did not immediately define what the documentary would be about but focused on building good relationships with four rickshaw driver families. I was one of the cameramen capturing the environment whenever we went out to visit one of the families. I also supported our local collaborators when we were conducting interviews. By going through this process, we were able to capture the unique stories of each family: their backstories, duties, and dreams.
-</p>
-<img src="auto_rickshaw_four.png" alt="a collage with images from the production process">
-<p>
-During post-production, I was part of the three-person core team responsible for finding the story and editing everything together.
-</p>
+      <content:encoded><![CDATA[<p>There is a lack of documentaries which do not exoticise rickshaw drivers nor depict them as inferior or poor. Our documentary project aimed to capture the lives of rickshaw driver families in an honest way. </p>
+<p>This project was conducted by three filmmakers (including me) and two Hyderabadi locals. We did not immediately define what the documentary would be about but focused on building good relationships with four rickshaw driver families. I was one of the cameramen capturing the environment whenever we went out to visit one of the families. I also supported our local collaborators when we were conducting interviews. By going through this process, we were able to capture the unique stories of each family: their backstories, duties, and dreams.</p>
+<p><img src="images/auto_rickshaw_four.png" alt="a collage with images from the production process"></p>
+<p>During post-production, I was part of the three-person core team responsible for finding the story and editing everything together.</p>
 ]]></content:encoded>
     </item>
   
     <item>
-      <guid>https://resevoir.net//bicycles</guid>
-      <title>bicycles</title>
-      <link>https://resevoir.net//bicycles</link>
-      <pubDate>Thu, 08 Oct 2020 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>A repository with resources about bicycles.</p>
-<h2>Bicycle Repair and Maintenance</h2>
-<p><a href="http://sheldonbrown.com/">Sheldon Brown</a></p>
+      <guid>https://resevoir.net//base</guid>
+      <title>base</title>
+      <link>https://resevoir.net//base</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Having a base, a refuge, a place to slow down and think. A refuge providing roots, enabling relating through making.</p>
+<h1>Stations</h1>
+<h3>Sewing station</h3>
+<p>The sewing station is for the media of cloth and fabric. </p>
+<ul>
+<li>Phoenix 111, hand drive, sewing machine 1951</li>
+</ul>
+<h3>Carpentry station</h3>
+<p>The carpentry station is for the media of wood.</p>
+<ul>
+<li>A høvlbænk providing a base work-station</li>
+</ul>
+<h3>Gardening station</h3>
+<p>The gardening station is for plants.</p>
+]]></content:encoded>
+    </item>
+  
+    <item>
+      <guid>https://resevoir.net//beverages</guid>
+      <title>beverages</title>
+      <link>https://resevoir.net//beverages</link>
+      <pubDate>Fri, 07 May 2021 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>drinks</p>
 ]]></content:encoded>
     </item>
   
@@ -105,11 +128,16 @@ During post-production, I was part of the three-person core team responsible for
       <guid>https://resevoir.net//biking</guid>
       <title>biking</title>
       <link>https://resevoir.net//biking</link>
-      <pubDate>Wed, 18 Sep 2019 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>_
-\  -o-__/
-/-\  ---  /-\
-\-/ '''' \-/`</p>
+      <pubDate>Wed, 23 Jun 2021 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Another kind of wings, the vehicle which might enable connection rather than alienation. Mechanics which invite tingering and understanding. Potentially unpretentious, yet political. </p>
+<h2>Bicycle Repair and Maintenance</h2>
+<p><a href="http://sheldonbrown.com/">Sheldon Brown</a></p>
+<h2>Cycling as Media</h2>
+<p><a href="http://criticalcycling.com/english/">Critical Cycling</a></p>
+<p>_<br>
+\  -o-__/<br>
+/-\  ---  /-\<br>
+\-/ '''' \-/`<br></p>
 ]]></content:encoded>
     </item>
   
@@ -185,11 +213,45 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
+      <guid>https://resevoir.net//computer-rituals</guid>
+      <title>computer rituals</title>
+      <link>https://resevoir.net//computer-rituals</link>
+      <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Whether we want it or not, rituals are abound in computing. The flapping open of the laptop, the churning sound of a computer’s fan when turned on, the initiation of scripts and tasks on the stroke of a button. These actions in of themselves are rituals, or are enmeshed in other rituals — the morning wakeup routine, starting work. In <em>ceremony is research</em>, xxxx points to how everyday tasks and habits are full of rituals.</p>
+<p>It is important to see rituals for what they are, structures of acknowledgement and placed-ness. Acknowledging the rituals in one’s life enables a shift in awareness. This, I would argue is particularly important to do when it comes to the rituals involving computers.</p>
+<h2>Barriers to the emergence of local computational cultures</h2>
+<p>Computers are often not seen as cultural objects — unlike many other entities computers exists apart from or independent of place, culture, and community. Instead of bearing associations with the local, the known, or part of heritage, computers are often seen as almost alien, or magical, entities, existing in friction with things which are more culturally embedded. </p>
+<p>The reasons why this is is tied to both the soft and hard side of computers. </p>
+<p>Hardware-wise, today it requires transnational supply-chains and high components volumes to make computers — it is hard to make a computer from local materials, especially if the computer is to be accessible to a wider group of people. the hardware components used to make components are made in the order of millions, the materials used for these components are mined at astronomical scales.  Besides, historically the development of computers was the domain of the military and companies associated with it.</p>
+<p>However, focussing only on hardware when trying to understanding why computers are not seen as cultural objects would be missing a large part of the picture.</p>
+<p>Once the hardware is built, software is needed for computers to function. The base enabling humans to interface with the computer is provided by operating systems, of which there are surprisingly few. The three widely used operating systems, Windows, Linux, and MacOS, where made by hundreds of  specialised programmers building upon Unix, a technology developed at Bell Labs in the 70s and 80s. The operating system provides an environment within which the user can act. All operating systems in use are written in programming languages based on the English language using the latin script. Though operating systems support graphical user interfaces in many languages, the underlying code and documentation will most likely be english. The amount of work involved in developing the fundamental software infrastructure as well as the dominance of English in the software side of computers means that it is outside most communities’ reach to really influence the texture and affect of computing in their lives.</p>
+<h2>Computational cultures exists, in the fringes of the inter web</h2>
+<p>Computational cultures do exist. If geographical maps are replaced by internet cartographies, a wealth of subcultures are to be found in the plurality of the fediverse, IRC channels, and other social networks grounded in different forms of infrastructural ownership and control.</p>
+<h2>Computer Rituals</h2>
+<p>…</p>
+]]></content:encoded>
+    </item>
+  
+    <item>
       <guid>https://resevoir.net//craft</guid>
       <title>craft</title>
       <link>https://resevoir.net//craft</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>A sector exploring the history and techne of different crafts.</p>
+]]></content:encoded>
+    </item>
+  
+    <item>
+      <guid>https://resevoir.net//creating-is-relating</guid>
+      <title>creating is relating</title>
+      <link>https://resevoir.net//creating-is-relating</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Spring. Never has this season felt so calling, so pulsing. As if the spring flowers are emerging from the ground for the very first time. They rise in contrast to the forsaken darkness which came before. </p>
+<p>The spring dazzle allude unto a truth ever bathing in the periphery — for me creating is relating. Creating is the finger feeling the pulse, the rhythm which breathes meaning and montentum into the spaces I inhabit. </p>
+<p>Without company nor fresh air the winter dampened all senses. It ushered many parts of me into hiding so thoroughly as to invite forgetting. The slowdown of movement and stimulus renders once visible landscapes unrecognisable to the practitioner’s gaze.</p>
+<p>When I don’t create my relationship with the worlds within which I am enmeshed falter. The manifesting of things forces reckonings — with ideas, communities, parts of one self. </p>
+<p>Creation entails destruction. The co-occurence of destruction and creation crafts a lens for sensing the world. The kind of sensing enabled by creation casts new reliefs, generating profound relationship with the entities present at the site of creation.</p>
+<p>Now the juicyness invites starting anew. Transition sweet, spring provides kindly paths</p>
 ]]></content:encoded>
     </item>
   
@@ -220,6 +282,26 @@ saturation to calculate lightness</li>
 <p>[4] Though the audio tour tool is very empowering to me as a creator I have little opportunity to involve my listeners. There is not space for communities and individuals to develop and critique the tour I made. This might be a barrier to actively engaging the public with history.</p>
 <p>[5] Coming to Daerim-dong you don’t realize the very complex issues facing the Korean Chinese community. I manage to get at the many historical ruptures one can find in Korean identity and start explaining how they impact a neighbourhood and a people trying to return to their original homeland.</p>
 <p>[6] I describe the current hegemony of the South Korean state at several points during the tour. My difficulty of findings sources speak to the Joseonjok's lack of visibility and voice internationally. </p>
+]]></content:encoded>
+    </item>
+  
+    <item>
+      <guid>https://resevoir.net//dansk</guid>
+      <title>dansk</title>
+      <link>https://resevoir.net//dansk</link>
+      <pubDate>Sat, 17 Apr 2021 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>En portal til denne sides danske univers, en oase, en befrielse fra det engelske sprogs evindelige dominans. Må sproget vokse og frydes. Mit [[modersmaal]].</p>
+<h2>Danske forfattere</h2>
+<p>Karen Blixen</p>
+<h2>Ord og fraser</h2>
+<blockquote>
+<p>Være én, men én iblandt
+<cite> Per Krøis Kjærsgaard, Linedanser</cite></p>
+</blockquote>
+<blockquote>
+<p>Og mens duggen render sammen i dråber af vand <br/> Blir til langtrukne streger af liv
+<cite> Alan Olsen, Han har tænkt</cite></p>
+</blockquote>
 ]]></content:encoded>
     </item>
   
@@ -293,8 +375,19 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
+      <guid>https://resevoir.net//english</guid>
+      <title>english</title>
+      <link>https://resevoir.net//english</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>Writing tools</h2>
+<p>Thesauraus
+Webster’s Unabridged 1913</p>
+]]></content:encoded>
+    </item>
+  
+    <item>
       <guid>https://resevoir.net//eoy-2019</guid>
-      <title>‘End of year reflection 2019'</title>
+      <title>end of year reflection 2019</title>
       <link>https://resevoir.net//eoy-2019</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>-- Find Refuge</p>
@@ -313,6 +406,21 @@ saturation to calculate lightness</li>
 <p>This year a number of my projects were focused on creating community. I worked with friends on making browser extensions focussed on creating community online. I also spent some of my time at the Recurse Center building a webring for the RC community to share their onine homes. Finally, I started working with friends on p{x}p a bi-weekly email-based check-in for people with a creative or research practice. My hope for the coming year is to continue doing digital projects which nurture community while also pushing into the physical realm - taking initiative to bring people together in real life as well as online.</p>
 <p>-- Promote Inclusivity / Diversity</p>
 <p>I have been trying to make the spaces I am part of more inclusive. I have also been actively trying to support places which champion diversity (such as the Recurse Center). However, I generally feel that I have not been contributing actively to promoting inclusivity and diversity. This past year I did not take initiative to create the spaces I think are needed.</p>
+]]></content:encoded>
+    </item>
+  
+    <item>
+      <guid>https://resevoir.net//essays</guid>
+      <title>essays</title>
+      <link>https://resevoir.net//essays</link>
+      <pubDate>Fri, 07 May 2021 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>A collection of pieces about tit and tat. </p>
+<ul>
+<li>[[computer rituals]]</li>
+<li>[[from career to practice]]</li>
+<li>[[creating is relating]]</li>
+<li>[[writing drawings]]</li>
+</ul>
 ]]></content:encoded>
     </item>
   
@@ -361,6 +469,21 @@ saturation to calculate lightness</li>
     </item>
   
     <item>
+      <guid>https://resevoir.net//from-career-to-practice</guid>
+      <title>from career to practice</title>
+      <link>https://resevoir.net//from-career-to-practice</link>
+      <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>I was oriented to consider Career before everything. Flowing through the education system I was taught that obtaining excellence meant embracing disconnection in my chase of opportunity. Opportunities, the things you must respond to. Combinations of time, place, and ideas — things that will supposedly propel you into the world.</p>
+<p>It was not always like this. Before I left my ancestral region to go to high school the local and regional was something to be desired. Not a marker of backwardness as it was increasingly described as I made my way through to higher education. As I reached college the narrative of success changed. I supposedly was now one of the chosen few. Someone who was set free from my heritage. Except that I wasn’t. Having worked, interned, volunteered in some of the global centers of “culture” I found that to to these places I myself had to let go of my own culture. I found myself grasping for an identity I had myself, through my actions, been erasing. It was during my attempt at preventing this loss that I found my [[practice]].</p>
+<h2>Opportunity and Career</h2>
+<p>It is easy to get so absorbed in the face of opportunity as to forget to ask what the effect will be if the opportunity is realised. This might be because opportunity is often assumed to be good and desirable. Yet, before responding to every opportunity which presents itself it is worth asking what opportunity is. </p>
+<p>Opportunity is power, a particular kind that is. The anthropologist Baz Gørmann describes how the Communications Research Design Lab tried to avoid creating a particular kind of opportunity. Being based in the Bay Area, anything branded opportunity would quickly be surrounded by venture capitalists looking to exploit every possible opportunity. The GCD felt that long term change isn’t enabled through the chasing of monetary opportunities. If the goal is deep social change opportunity may not be the right thing to chase.</p>
+<p>So, opportunity is something which everyone needs to engage with and reflect on, what about Career? Chasing an established career-trajectory requires giving up a lot of things. Many careers exist within a larger socioeconomic landscape structure. For example, to further one’s career in certain kinds of fields one must do overwork to gain influence. if one is entering a field fields like design or architecture one might also have to accept that no credit will be given for projects one has worked on for months or years.</p>
+<h2>Like waking up from a doze…</h2>
+]]></content:encoded>
+    </item>
+  
+    <item>
       <guid>https://resevoir.net//git-for-filmmakers</guid>
       <title>git for filmmakers</title>
       <link>https://resevoir.net//git-for-filmmakers</link>
@@ -397,18 +520,17 @@ With digital historiography we can include the long tail of research which never
   
     <item>
       <guid>https://resevoir.net//index</guid>
-      <title>A knowledge-base featuring the momentums of Jonathan Skjøtt.</title>
+      <title>·</title>
       <link>https://resevoir.net//index</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p><em>Welcome to the Resevoir</em></p>
-<p>Many a momentum are held within thy gutter:</p>
-<ul>
-<li>[[tactile]]</li>
-<li>[[mediums]]</li>
-<li>[[research]]</li>
-<li>[[about]]</li>
-</ul>
-<p>Thou may also loose sight of the forest by honing in on one of these sprouts:</p>
+      <content:encoded><![CDATA[<p>Draw these momenta into the sun, reveling in what nurtures. Taking things slow, the second growth of the season. Embracing ilegibility in all of its uncertain, immeasurable wonder. Re-placing oneself, coming to terms with decay. Shifting views on what it means to waste away. Acknowledging abundance, feasting in silence, in smallness. Falling to earth by way of slender fortunes.</p>
+<p>Slowing down, listening to what happens upstream. Going for the the gutter, the in-between. The buzzing of peripheries which can only just be sensed, the flimmer in the corner of sight. Seeing peripheries for what they are, and giving space to them. Letting loose seized rhythms of passage and seeing the relations therein. Allowing severed seams of otherly fabrics to exist, beyond the realms if discretionary gazes. Allowing for the rise of refuge.</p>
+<p>Who is computing, kindling what spark? Who is shooting and what is the mark?</p>
+<p>To correspond with spheres long passed, worlds with waning clearness. Distributed overlapping existences spread out on the forest floor. To play apart, not as in alone but a part. As a node among many.</p>
+<p>[[motion]]
+[[stillness]]
+[[language]]
+[[meta]]</p>
 ]]></content:encoded>
     </item>
   
@@ -427,14 +549,13 @@ With digital historiography we can include the long tail of research which never
       <title>jonathan</title>
       <link>https://resevoir.net//jonathan</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>Jonathan Skjøtt is [[documenting]], weaving, and thinking about [[mediums]].</p>
-<p>He is currently a researcher and technologist at <a href="https://www.takram.com/">takram</a> in London.
-Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse Center</a>, did service design at <a href="https://www.digitalcreativity.ac.uk">Digital Creativity Labs</a>, played with hardware at <a href="https://www.fablab-seoul.org">FabLab Seoul</a>, and made a Massive Open Online Course (MOOC) with <a href="https://www.kiron.ngo">Kiron Open Higher Education</a>.</p>
-<p>Jonathan studied History and Computater Science at Minerva Schools at KGI. Before then Jonathan went to UWC Costa Rica.</p>
-<p>Jonathan is very serious about building out his [[library]]. There are several things that he find important to convey through [[manifestations]]</p>
-<p><strong>Country Experience:</strong></p>
-<p>Argentina, Costa Rica, Denmark, Germany, India, Kenya, South Korea, United Kingdom, United States</p>
-<p><img src="images/presence.png" alt="a world map - the places where I have spent time are colored"></p>
+      <content:encoded><![CDATA[<p>Jona Skjøtt practices design at <a href="https://www.takram.com/">Takram↗</a> and maintains a personal research practice at [[resevoir]].</p>
+<h2>How would you introduce yourself?</h2>
+<p>Hi! I am Jona, and I tend to feel at home somewhere in-between research, art, and design. I like exploring conviviality, transition, time, and community through my practice within visual and computational media, tool-making, and life-living in general.</p>
+<h2>Which of your projects would you like to share?</h2>
+<p>In spring 2020 I prototyped a design medium and environment for paper weaving called [[visiweave]] exploring what it means for computing to be part of a communal, cultural, and spatial fabric. In the fall and winter of 2021, I partook in research exploring what sustainable transition means for different people around the world and created a website sharing <a href="https://sustainability-transitions.com">what we found↗</a>.</p>
+<h2>Which places and communities have brought you to where you are today?</h2>
+<p>Working with peers on research related to sustainable transitions at Takram. Being part of a community of people who love programming at <a href="https://www.recurse.com">The Recurse Center↗</a>. Studying History and Computer Science at Minerva Schools at KGI as part of a close-knit community. Working on projects with friends. Going for long distance walks.</p>
 ]]></content:encoded>
     </item>
   
@@ -461,21 +582,35 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
     </item>
   
     <item>
+      <guid>https://resevoir.net//language</guid>
+      <title>language</title>
+      <link>https://resevoir.net//language</link>
+      <pubDate>Sat, 17 Apr 2021 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Forms of expression, the bedrock. What builds worlds, makes place. Intimate to every person, worthwhile.</p>
+<h2>tongues</h2>
+<p>[[dansk]]
+[[english]]</p>
+<h2>assemblages</h2>
+<p>[[quotes]]
+[[essays]]</p>
+]]></content:encoded>
+    </item>
+  
+    <item>
       <guid>https://resevoir.net//library</guid>
       <title>library</title>
       <link>https://resevoir.net//library</link>
-      <pubDate>Sat, 31 Aug 2019 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>Books Which Have Inspired Me</h3>
+      <pubDate>Wed, 23 Jun 2021 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>Reading Lists</h3>
+<h4>2021</h4>
 <ul>
-<li>Seeing Like a State - James C. Scott</li>
-<li>The Visual Presentation of Quantitative Information - Edward Tufte</li>
-<li>Silencing the Past: Power and the Production of History - Michel Trouillot</li>
-<li>Understanding Media - Marshall Mcluhan</li>
-<li>Mindstorms - Seymour Papert</li>
-<li>The Field Study Handbook - Jan Chipchase</li>
-<li>Discursive Design - Bruce M. Tharp &#x26; Stephanie M. Tharp</li>
+<li>Art &#x26; Fear: Observations on the Perils (and Rewards) of Artmaking - David Bayles and Ted Orland</li>
+<li>Pollution is Colonialism - Max Liboiron</li>
+<li>Mapping abundance for a planetary future - Candace Fujikane</li>
+<li>Work: A history of how we spend our time - James Suzman</li>
+<li>Slowdown - Danny Dorling</li>
+<li>Braiding Sweetgrass - Robin Wall Kimmerer</li>
 </ul>
-<h3>Reading Lists</h3>
 <h4>2020</h4>
 <ul>
 <li>Japansoft - Alex Wiltshire</li>
@@ -483,6 +618,8 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
 <li>Discursive Design - Bruce M. Tharp &#x26; Stephanie M. Tharp</li>
 <li>Are We Human? Notes on an Archeology of Design - Beatriz Colomina &#x26; Mark Wigley</li>
 <li>Middlemarch - George Eliot</li>
+<li>Small is Beautiful - E.F. Schumacher</li>
+<li>Designs For the Pluriverse - Arturo Escobar</li>
 </ul>
 <h4>2019</h4>
 <ul>
@@ -517,12 +654,22 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
 <li>Design as an Attitude - Alice Rawsthorne</li>
 <li>The Uninhabitable Earth - David Wallace-Wells</li>
 </ul>
+<h3>Books Which Have Inspired Me</h3>
+<ul>
+<li>Seeing Like a State - James C. Scott</li>
+<li>The Visual Presentation of Quantitative Information - Edward Tufte</li>
+<li>Silencing the Past: Power and the Production of History - Michel Trouillot</li>
+<li>Understanding Media - Marshall Mcluhan</li>
+<li>Mindstorms - Seymour Papert</li>
+<li>The Field Study Handbook - Jan Chipchase</li>
+<li>Discursive Design - Bruce M. Tharp &#x26; Stephanie M. Tharp</li>
+</ul>
 ]]></content:encoded>
     </item>
   
     <item>
       <guid>https://resevoir.net//lifestyle</guid>
-      <title>Lifestyle</title>
+      <title>lifestyle</title>
       <link>https://resevoir.net//lifestyle</link>
       <pubDate>Tue, 09 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p><em>This corner of the [[resevoir]] serves as a space for exploring lifestyles.</em></p>
@@ -539,7 +686,7 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
       <link>https://resevoir.net//manifestations</link>
       <pubDate>Sat, 10 Aug 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>A collection of personal displays / demonstrations / professions / exhibitions / indications / illustrations / exemplifications / declarations / expressions</p>
-<p>[[urgency]] | [[quotes]] | [[space]] | [[targets]] | [[biking]] | [[fermentation]]</p>
+<p>[[urgency]] | [[quotes]] | [[space]] | [[targets]] | [[biking]] | [[fermentation]] | [[creating is relating]]</p>
 ]]></content:encoded>
     </item>
   
@@ -550,6 +697,20 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>The <em>media</em> momentum is for expressive works.</p>
 <p>[[time-based]] | [[documenting]]</p>
+]]></content:encoded>
+    </item>
+  
+    <item>
+      <guid>https://resevoir.net//meta</guid>
+      <title>meta</title>
+      <link>https://resevoir.net//meta</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>information</h2>
+<p>[[about]]
+[[resevoir]]</p>
+<h2>data</h2>
+<p><a href="/rss.xml">rss</a>
+<a href="/resevoir-index">index</a></p>
 ]]></content:encoded>
     </item>
   
@@ -568,6 +729,44 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
     </item>
   
     <item>
+      <guid>https://resevoir.net//modersmaal</guid>
+      <title>modersmål</title>
+      <link>https://resevoir.net//modersmaal</link>
+      <pubDate>Sat, 17 Apr 2021 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>At være ude af stand til at snakke ens modersmål med nogen er et dybt sagn. Jeg har efterhånden levet mange år med engelsk som det mest dominerende sprog i mit liv. Oplevelsen af gradvist at mestre det engelske sprog har været enestående.</p>
+<p>Det var på engelsk jeg opdagede at jeg elsker at skrive. Jeg gjorde opdagelsen efter jeg fik tid, rum, og venner som opfordrede mig til at tage det skrevne ord dybt seriøst. Jeg begyndte da at interessere mig for ordvalg og det poetiske. Disse oplevelser har gjort at min relation til engelsk har ændret sig fra at være en oplevelse af at gå med krøkker, ude af stand til at udtrykke og bevæge mig, til en eksplosion af inspiration.</p>
+<p>Sideløbende med mit engelske sprogs udvikling krøb det danske ind i skyggen, og med det kom en følelse af tomhed. En dyb tomhed som kun kan lindres ved at tale modersmålet. When I change my spoken language from English to Danish er det som om de talte ord berører verden og tager form af det ordet beskriver. Et ord som vind maner næsten en vind op, ordet græs frembringer lugten af græs efter en forårsregn, lysegrøn fryd og en opløftelse af selvet. Sammenlignet med det danske sprogs sanseætsning virker engelsk som et håbløst intellektuelt væsen, altid på armslængde af det det beskriver.</p>
+<hr/>
+]]></content:encoded>
+    </item>
+  
+    <item>
+      <guid>https://resevoir.net//motion</guid>
+      <title>motion</title>
+      <link>https://resevoir.net//motion</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>The act, process, or state of changing place. Key drivers of different perspectives, change and movement. The blurring of the landscape as one extends.</p>
+<h2>Mobility</h2>
+<p>[[sailing]]
+[[biking]]</p>
+<h2>Learning</h2>
+<p>[[library]]
+[[manifestations]]</p>
+<h2>Media</h2>
+<p>[[time-based]]</p>
+]]></content:encoded>
+    </item>
+  
+    <item>
+      <guid>https://resevoir.net//now</guid>
+      <title>now</title>
+      <link>https://resevoir.net//now</link>
+      <pubDate>Fri, 14 May 2021 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>A place containing a summery of current targets of Jonathan Skjøtt’s practice. Big and small, this is a space for the ideas which keep lurking around in the mind, the things touched by the hand.</p>
+]]></content:encoded>
+    </item>
+  
+    <item>
       <guid>https://resevoir.net//org-mode</guid>
       <title>org-mode</title>
       <link>https://resevoir.net//org-mode</link>
@@ -578,6 +777,14 @@ Previously, Jonathan spent time at <a href="https://www.recurse.com">The Recurse
 <p><img src="../org-mode.gif" alt="a screenshot of the org-mode tranformation">
 A little sneak peak of my .org file</p>
 ]]></content:encoded>
+    </item>
+  
+    <item>
+      <guid>https://resevoir.net//photos</guid>
+      <title>photos</title>
+      <link>https://resevoir.net//photos</link>
+      <pubDate>Wed, 23 Jun 2021 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
   
     <item>
@@ -629,8 +836,10 @@ A little sneak peak of my .org file</p>
       <link>https://resevoir.net//practice</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>informed, committed action ~</h2>
-<p>A collection of processes of continous, long-term nature.</p>
+<p>The practice reconnects with, invigorates, and heals my sense of standpoint and place. The practice is [[creating is relating]] to myself and the worlds of others. The practice is ambitious, it insists on acknowledging the hard questions and trying to answer them over and over again. A collection of processes of continous, long-term nature. </p>
 <hr>
+<h3>[[language]]</h3>
+<p>the planes of ideas</p>
 <h3>Paper</h3>
 <p>the art of thinking with paper.</p>
 <h3>Media</h3>
@@ -653,8 +862,7 @@ A little sneak peak of my .org file</p>
       <title>quotes</title>
       <link>https://resevoir.net//quotes</link>
       <pubDate>Sat, 27 Jul 2019 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>Quotes</h2>
-<blockquote>
+      <content:encoded><![CDATA[<blockquote>
 <p>All mathematics exhibits in its conclusions only what is already implicit in its premises… Hence all mathematical derivation can be viewed simply as chase in representation, making evident what was previously true but obscure.
 <cite>Herbert Simon - <em>The Sciences of the Artificial</em></cite></p>
 </blockquote>
@@ -667,6 +875,10 @@ A little sneak peak of my .org file</p>
 <cite>Doug Engelbart - quoted in The Dream Machine</cite></p>
 </blockquote>
 <blockquote>
+<p>The goal of the future is full unemployment, so we can play. That's why we have to destroy the present politico-economic system.
+<cite>Arthur C. Clarke</cite></p>
+</blockquote>
+<blockquote>
 <p>Optimizing toward the need for less revenue has yielded better results than optimizing toward the generation of more.
 <cite>Devine Lu Linvega</cite></p>
 </blockquote>
@@ -677,6 +889,10 @@ A little sneak peak of my .org file</p>
 <blockquote>
 <p>When you make your own tools, you tend to mold them to fit your hands. So they may fit others' poorly. Other people who tried "part of speech" told me that the experience felt dehumanizing, that the conversation partner's responses felt irrelevant and jarring. I feel that too.
 <cite>Katherine Ye - on Twitter</cite></p>
+</blockquote>
+<blockquote>
+<p>To make something well is to give yourself to it, to seek wholeness, to follow spirit. To learn to make something well can take your whole life. It’s worth it.
+<cite>  Ursula Le Guin, Steering the Craft</cite></p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -722,6 +938,7 @@ The site is still very much in flux as a result of me experimenting with what st
       <pubDate>Thu, 08 Oct 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>A repository with resources useful to sailing practice.</p>
 <p>A reflection on the [[sailboat as gaze]]</p>
+<hr/>
 <p>Key moments in my sailing practice:</p>
 <table style="width:100%">
   <tr>
@@ -744,7 +961,7 @@ The site is still very much in flux as a result of me experimenting with what st
       <guid>https://resevoir.net//selfcare-checklist</guid>
       <title>selfcare checklist</title>
       <link>https://resevoir.net//selfcare-checklist</link>
-      <pubDate>Invalid Date</pubDate>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Pandemic days are long and the most important things take place in the everyday. I have come to enjoy them as they help to stabilise me by routine one day at the time.</p>
 <ul>
 <li><input type="checkbox"> have you brushed you teeth this morning?</li>
@@ -770,7 +987,7 @@ The site is still very much in flux as a result of me experimenting with what st
   
     <item>
       <guid>https://resevoir.net//service-design</guid>
-      <title>‘More participatory citizen science’</title>
+      <title>more participatory citizen science</title>
       <link>https://resevoir.net//service-design</link>
       <pubDate>Tue, 07 Aug 2018 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>How to Make Citizen Science More Participatory</h2>
@@ -803,6 +1020,15 @@ The site is still very much in flux as a result of me experimenting with what st
 <p>The field work was a huge success: it triggered several changes to our designs and generated a lot of knowledge for Bioveristy to use in the future. </p>
 <p><img src="form_testing_2.png" alt="a collage of participants trying out our prototypes in the field"></p>
 <p>During the last weeks of the project my co-worker and I annotated our prototypes with the observations which were made in the field and we wrote up reports for our parent organisations.</p>
+]]></content:encoded>
+    </item>
+  
+    <item>
+      <guid>https://resevoir.net//settlement</guid>
+      <title>settlement</title>
+      <link>https://resevoir.net//settlement</link>
+      <pubDate>Tue, 30 Mar 2021 23:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Roots are important. Putting them down is an active effort, especially if you are new to a place. </p>
 ]]></content:encoded>
     </item>
   
@@ -954,28 +1180,25 @@ The site is still very much in flux as a result of me experimenting with what st
     </item>
   
     <item>
+      <guid>https://resevoir.net//stillness</guid>
+      <title>stillness</title>
+      <link>https://resevoir.net//stillness</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>The source, stillness enables rooting, the giving of close attention. The slowing down to feel the grinding, marvellous music.</p>
+<h2>still space</h2>
+<p>[[settlement]]</p>
+<h2>still media</h2>
+<p><a href="/photos">{photos}</a></p>
+]]></content:encoded>
+    </item>
+  
+    <item>
       <guid>https://resevoir.net//studies</guid>
       <title>studies</title>
       <link>https://resevoir.net//studies</link>
       <pubDate>Mon, 27 May 2019 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Practices in deep thought and immersion. Dedicated to Khang.</p>
-<p>[[text]] | [[slitscan experiments]] | [[annotation]] | [[writing drawings]] | [[intermediate representations]]</p>
-]]></content:encoded>
-    </item>
-  
-    <item>
-      <guid>https://resevoir.net//tactile</guid>
-      <title>tactile</title>
-      <link>https://resevoir.net//tactile</link>
-      <pubDate>Mon, 15 Jun 2020 23:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>The <em>tactile</em> momentum is for things material.</p>
-<ul>
-<li>[[sailing]]</li>
-<li>[[foraging]]</li>
-<li>[[fermentation]]</li>
-<li>[[bicycles]]</li>
-<li>[[bricolage]]</li>
-</ul>
+<p>[[text]] | [[slitscan experiments]] | [[annotation]] | [[writing drawings]] | [[intermediate representations]] | [[creating is relating]]</p>
 ]]></content:encoded>
     </item>
   
@@ -1032,7 +1255,7 @@ The site is still very much in flux as a result of me experimenting with what st
   
     <item>
       <guid>https://resevoir.net//time-based</guid>
-      <title>time-based me</title>
+      <title>time-based media</title>
       <link>https://resevoir.net//time-based</link>
       <pubDate>Tue, 16 Jun 2020 23:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>The timed-based sector is for temporal experiments.</p>
@@ -1055,11 +1278,11 @@ The site is still very much in flux as a result of me experimenting with what st
 <h3>[[visiweave]] - A tool for creating paper weaving patterns.</h3>
 <p><a href="https://github.com/jskjott/heartweave">github</a></p>
 <p>A domain-specific language is used to generate grids and spreadsheet style commands are used to shape the cells in the grid. The core philosophy behind this project is that a good end-user programming experience is achieved through a tight coupling and co-presence of both code and data in the interface - the code is the interface is the code.</p>
-<p><img src="visiweave_interface.png" alt="the tool work environment"></p>
+<p><img src="images/visiweave_interface.png" alt="the tool work environment"></p>
 <h3>[[git for filmmakers]] - A version control tool for filmmakers.</h3>
 <p><a href="https://github.com/jskjott/git-for-filmmakers">github</a></p>
 <p>The lack of good quality version control has wrecked many a film-project. This project seeks to provide a simple and powerful interface for filmmakers to visualise how their project files changed of time, do collaborative editing, and better document their projects.</p>
-<p><img src="git_for_filmmakers_aug21.png" alt="the git for filmmakers GUI"></p>
+<p><img src="images/git_for_filmmakers_aug21.png" alt="the git for filmmakers GUI"></p>
 <h3>[[midi plotter]] - A realtime midi visualisation tool.</h3>
 <p><a href="https://github.com/jskjott/midi-plotter">github</a></p>
 <p>A drawing tool for visualising midi-feeds during performances. When you perform with the pen plotter it almost becomes a second performer as the rhytmns and sounds the plotter makes as it draws merges with the notes you play on your instrument.</p>

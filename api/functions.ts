@@ -12,6 +12,7 @@ export type Page = {
 	img: string
 	content: string
 	slug: string
+	palette: [number, number, number]
 }
 
 export async function markdownToHtml(markdown: string) {
@@ -71,6 +72,7 @@ ${fileContents.slice(point.index)}`
 
 	const pageData: Page = {
 		title: data.title,
+		palette: [0, 0, 0],
 		slug: slug.replace(/.txt/, '').replace(/ /g, '-'),
 		dates,
 		altText: data.altText,

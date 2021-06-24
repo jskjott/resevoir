@@ -1,19 +1,17 @@
 title: 'library'
-dates: ['01-09-2019']
+dates: ['24-06-2021','01-09-2019']
 img: 'books_graphic.png'
 altText: ‘old book with text’
 
-### Books Which Have Inspired Me
-
-- Seeing Like a State - James C. Scott
-- The Visual Presentation of Quantitative Information - Edward Tufte
-- Silencing the Past: Power and the Production of History - Michel Trouillot
-- Understanding Media - Marshall Mcluhan
-- Mindstorms - Seymour Papert
-- The Field Study Handbook - Jan Chipchase
-- Discursive Design - Bruce M. Tharp & Stephanie M. Tharp
-
 ### Reading Lists
+
+#### 2021
+- Art & Fear: Observations on the Perils (and Rewards) of Artmaking - David Bayles and Ted Orland
+- Pollution is Colonialism - Max Liboiron
+- Mapping abundance for a planetary future - Candace Fujikane
+- Work: A history of how we spend our time - James Suzman
+- Slowdown - Danny Dorling
+- Braiding Sweetgrass - Robin Wall Kimmerer
 
 #### 2020
 - Japansoft - Alex Wiltshire
@@ -21,6 +19,8 @@ altText: ‘old book with text’
 - Discursive Design - Bruce M. Tharp & Stephanie M. Tharp
 - Are We Human? Notes on an Archeology of Design - Beatriz Colomina & Mark Wigley
 - Middlemarch - George Eliot
+- Small is Beautiful - E.F. Schumacher
+- Designs For the Pluriverse - Arturo Escobar
 
 #### 2019
 
@@ -54,3 +54,13 @@ altText: ‘old book with text’
 - New Dark Age - James Bridle
 - Design as an Attitude - Alice Rawsthorne
 - The Uninhabitable Earth - David Wallace-Wells
+
+### Books Which Have Inspired Me
+
+- Seeing Like a State - James C. Scott
+- The Visual Presentation of Quantitative Information - Edward Tufte
+- Silencing the Past: Power and the Production of History - Michel Trouillot
+- Understanding Media - Marshall Mcluhan
+- Mindstorms - Seymour Papert
+- The Field Study Handbook - Jan Chipchase
+- Discursive Design - Bruce M. Tharp & Stephanie M. Tharp

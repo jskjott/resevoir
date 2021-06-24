@@ -1,0 +1,7 @@
+title: now
+dates: ['15-05-2021']
+altText: 'Inspiration layout'
+img: beverages.jpg
+
+A place containing a summery of current targets of Jonathan Skjøtt’s practice. Big and small, this is a space for the ideas which keep lurking around in the mind, the things touched by the hand.
+

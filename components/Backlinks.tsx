@@ -22,12 +22,14 @@ const Backlinks = ({ backlinks, dates }: Props) => {
 				{array.map((link, index) => {
 					if (index === 0) {
 						return (
-							<Link
-								key={index}
-								href={link === 'index' ? '/' : link}
-							>
-								<a>{link}</a>
-							</Link>
+							<span>
+								<Link
+									key={index}
+									href={link === 'index' ? '/' : link}
+								>
+									<a>{link}</a>
+								</Link>
+							</span>
 						)
 					} else {
 						return (

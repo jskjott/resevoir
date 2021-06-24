@@ -1,11 +1,13 @@
 title: 'sailing'
 dates: ['09-10-2020']
 altText: 'wrapping the sail of a Laser Pico dinghy after use'
-img: 'sailing.jpg'
+img: 'sailing_first_steps.jpg'
 
 A repository with resources useful to sailing practice.
 
 A reflection on the [[sailboat as gaze]]
+
+<hr/>
 
 Key moments in my sailing practice:
 <table style="width:100%">

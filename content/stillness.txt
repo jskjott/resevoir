@@ -1,0 +1,14 @@
+title: stillness
+dates: ['28-01-2018']
+altText: ‘A photo of a round black stone on a table at dusk’
+img: 'round_stone_stillness.jpg'
+
+The source, stillness enables rooting, the giving of close attention. The slowing down to feel the grinding, marvellous music.
+
+## still space
+
+[[settlement]]
+
+## still media
+
+<a href="/photos">{photos}</a>

@@ -1,0 +1,18 @@
+title: dansk
+dates: [18-04-2021]
+altText: ‘Grundtvig på Sleipner’
+img: grundtvig-paa-sleipner.jpg
+
+En portal til denne sides danske univers, en oase, en befrielse fra det engelske sprogs evindelige dominans. Må sproget vokse og frydes. Mit [[modersmaal]].
+
+## Danske forfattere
+
+Karen Blixen
+
+## Ord og fraser
+
+> Være én, men én iblandt
+<cite> Per Krøis Kjærsgaard, Linedanser</cite>
+
+> Og mens duggen render sammen i dråber af vand <br/> Blir til langtrukne streger af liv
+<cite> Alan Olsen, Han har tænkt</cite>

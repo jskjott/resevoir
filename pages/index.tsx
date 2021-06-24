@@ -8,44 +8,61 @@ import Head from 'next/head'
 import Link from 'next/link'
 import { generateRss } from '../api/rss'
 import fs from 'fs'
+import Vibrant from 'node-vibrant'
 
 type Props = {
 	docArray: PageWithLinks[]
 	index: PageWithLinks
+	about: string
+	palette: [number, number, number]
 }
 
 const radicleStyle = {
 	height: '25px',
 }
 
-export default function Doc({ docArray, index }: Props) {
+export default function Doc({ docArray, index, about, palette }: Props) {
 	return (
 		<Layout>
-			<Header />
+			<Header color={palette} />
 			<Container>
-				
-
-				<article className="mb-32 grid">
+				<article className="w-full grid">
 					<Head>
-
 						<title>Index | Resevoir</title>
 					</Head>
-					<div className="max-w-2xl mx-auto grid">
-						<img
-							className=" max-w-2xl"
-							src={`/images/${index.img}`}
-							alt={index.altText}
-						/>
-						<div className="max-w-lg place-self-center">
-						<div
-							className="mb-6"
-							dangerouslySetInnerHTML={{
-								__html: index.content,
-							}}
-						/>
-						<div className="mb-12 grid">
+					<div className="md:grid gap-10 md:grid-cols-3">
+						<div className="col-start-1 col-end-3 grid">
+							<img
+								className=""
+								src={`/images/waterfoliage.JPG`}
+								alt={index.altText}
+							/>
+						</div>
+						<div className="max-w-lg opacity-50 grid col-end-4 col-start-3 hover:opacity-100 transition-opacity duration-200 ease-in-out">
+							<div
+								className="md:place-self-center"
+								dangerouslySetInnerHTML={{
+									__html: index.content,
+								}}
+							/>
+						</div>
+					</div>
+					<div className="md:grid gap-10 md:grid-cols-2 lg:grid-cols-3">
+						<div className="max-w-lg mb-6 opacity-50 col-start-1 col-end-3 grid hover:opacity-100 transition-opacity duration-200 ease-in-out">
+							<div
+								className="pt-8 md:py-8"
+								dangerouslySetInnerHTML={{
+									__html: about,
+								}}
+							/>
+						</div>
+						<div className="mb-6 opacity-50 col-start-3 col-end-4 hover:opacity-100 transition-opacity duration-200 ease-in-out">
+							<p className="pb-8 md:py-8">
+								Sprouts growing throuhgout the site:
+							</p>
+
 							<svg
-								className="w-md place-self-center"
+								className="w-md"
 								height={`${(1 + docArray.length / 10) * 30}px`}
 								xmlns="http://www.w3.org/2000/svg"
 							>
@@ -58,27 +75,12 @@ export default function Doc({ docArray, index }: Props) {
 											}px`}
 											width="22px"
 											height="22px"
-											fill="white"
+											fill="#90A252"
 											strokeWidth="0.25px"
 										/>
 									</a>
 								))}
 							</svg>
-						</div>
-
-						<Backlinks
-							backlinks={index.mentionedIn}
-							dates={index.dates}
-						/>
-
-						<div className="h-3 pt-16 pb-32 grid">
-							<span className="place-self-center">
-								<img
-									style={radicleStyle}
-									src="/images/radicle.png"
-								></img>
-							</span>
-						</div>
 						</div>
 					</div>
 				</article>
@@ -90,6 +92,14 @@ export default function Doc({ docArray, index }: Props) {
 export async function getStaticProps() {
 	const docs = getAllPages()
 	const docArray = Object.values(docs)
+
+	const aboutPage = docs.jonathan
+	let about = aboutPage.content
+	const aboutLinks = [...about.matchAll(/\[\[(.*?)\]\]/g)]
+	aboutLinks.forEach((match) => {
+		about = about.replace(match[0], `[{${match[1]}}](${match[1]})`)
+	})
+	about = await markdownToHtml(about)
 
 	const indexPage = docs.index
 	let contentString = `# ${docs.index.title}
@@ -114,10 +124,16 @@ export async function getStaticProps() {
 		content,
 	}
 
+	const palette = await Vibrant.from(`./public/images/waterfoliage.JPG`)
+		.getPalette()
+		.then((palette) => palette)
+
 	return {
 		props: {
 			docArray,
 			index,
+			about,
+			palette: palette.DarkVibrant?.rgb,
 		},
 	}
 }

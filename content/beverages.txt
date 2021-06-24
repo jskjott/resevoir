@@ -1,0 +1,6 @@
+title: beverages
+dates: ['08-05-2021']
+altText: 'Inspiration layout'
+img: beverages.jpg
+
+drinks

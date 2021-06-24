@@ -1,0 +1,6 @@
+title: settlement
+dates: ['31-03-2021']
+altText: ‘second London home in the corner of the Isokon’
+img: 'settlement.jpg'
+
+Roots are important. Putting them down is an active effort, especially if you are new to a place. 

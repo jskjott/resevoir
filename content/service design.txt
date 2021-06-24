@@ -1,4 +1,4 @@
-title: ‘More participatory citizen science’
+title: 'more participatory citizen science'
 dates: ['08-08-2018']
 img: 'paperwork_1.jpg'
 altText: 'our data wall'

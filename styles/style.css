@@ -15,12 +15,14 @@
 /* Your own custom utilities */
 
 body {
-    background: black;
+    font-family: -apple-system;
+    background: #fefcff;
 }
 
 hr {
     display:block;
     margin-bottom: 25px;
+    filter: invert(100%);
     border:0px;
     height:100px;
     background-image:url('../public/images/1.png');
@@ -30,7 +32,7 @@ hr {
 }
 
 img {
-    margin: 1.5em 0 1.5em 0;
+    /* margin: 1.5em 0 1.5em 0; */
 }
 
 h1 {
@@ -48,13 +50,13 @@ blockquote {
     margin: 0.5em 0.5em 2.5em 0.75em;
     line-height: 1.45;
     position: relative;
-    color: white;
-    border-left: 2.5px solid white;
+    color: black;
+    border-left: 2.5px solid black;
     }
 
 
 cite {
-    color: white;
+    color: black;
     font-size: 0.8em;
     bottom: -1.5em;
     right: 0%;
@@ -78,19 +80,26 @@ h1 {
 }
 
 h2 {
-    font-size: 1.1em;
+    font-size: 1.2em;
+    font-family: sans-serif;
     margin-bottom: 1.25em;
     margin-top: 1.25em;
 }
 
 h1 + p:first-of-type:first-letter { 
-    font-size: 2em;
-    line-height: 0;
+    padding: 0.1rem  .3rem 0 0;
+    font-size: 2.7rem;
+    float: left;
+    line-height: 0.95;
  }
 
+a[href*='//']{
+    text-decoration: underline;
+}
+
 a:hover {
-    color:black;
-    background: white;
+    color:white;
+    background: #90A252;
 }
 
 rect:hover {

@@ -3,8 +3,6 @@ dates: ['28-07-2019']
 altText: 'notes from a design project'
 img: 'paperwork_2-min.jpg'
 
-## Quotes
-
 > All mathematics exhibits in its conclusions only what is already implicit in its premises… Hence all mathematical derivation can be viewed simply as chase in representation, making evident what was previously true but obscure.
 <cite>Herbert Simon - *The Sciences of the Artificial*</cite>
 
@@ -14,6 +12,9 @@ img: 'paperwork_2-min.jpg'
 > Manipulating words seemed like the obvious place to start because it was a way to manipulate your ideas.
 <cite>Doug Engelbart - quoted in The Dream Machine</cite>
 
+> The goal of the future is full unemployment, so we can play. That's why we have to destroy the present politico-economic system.
+<cite>Arthur C. Clarke</cite>
+
 > Optimizing toward the need for less revenue has yielded better results than optimizing toward the generation of more.
 <cite>Devine Lu Linvega</cite>
 
@@ -22,3 +23,6 @@ img: 'paperwork_2-min.jpg'
 
 > When you make your own tools, you tend to mold them to fit your hands. So they may fit others' poorly. Other people who tried "part of speech" told me that the experience felt dehumanizing, that the conversation partner's responses felt irrelevant and jarring. I feel that too.
 <cite>Katherine Ye - on Twitter</cite>
+
+> To make something well is to give yourself to it, to seek wholeness, to follow spirit. To learn to make something well can take your whole life. It’s worth it.
+<cite>  Ursula Le Guin, Steering the Craft</cite>

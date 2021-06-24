@@ -1,0 +1,14 @@
+title: meta
+dates: ['28-01-2018']
+altText: 'A photo of the street in Daerim-dong'
+img: rotheredge.jpg
+
+## information
+
+[[about]]
+[[resevoir]]
+
+## data
+
+[rss](/rss.xml)
+[index](/resevoir-index)

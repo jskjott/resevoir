@@ -1,0 +1,6 @@
+title: 'a thousand incommensurate worlds'
+dates: ['17-06-2020']
+img: 'practice.JPG'
+altText: 'sketching process shot'
+
+There is beauty to the illegible. The hinting at systems otherwise.

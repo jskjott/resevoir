@@ -1,0 +1,20 @@
+title: motion
+dates: ['28-01-2018']
+altText: 'A photo of the street in Daerim-dong'
+img: spring.jpg
+
+The act, process, or state of changing place. Key drivers of different perspectives, change and movement. The blurring of the landscape as one extends.
+
+## Mobility
+
+[[sailing]]
+[[biking]]
+
+## Learning
+
+[[library]]
+[[manifestations]]
+
+## Media
+
+[[time-based]]

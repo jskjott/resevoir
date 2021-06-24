@@ -7,7 +7,7 @@ import Header from '../components/Header'
 import PageHeader from '../components/PageHeader'
 import Backlinks from '../components/Backlinks'
 import Head from 'next/head'
-import Image from 'next/image'
+import Vibrant from 'node-vibrant'
 
 const radicleStyle = {
 	height: '25px',
@@ -20,12 +20,12 @@ export default function Doc({
 	dates,
 	content,
 	mentionedIn,
+	palette,
 }: PageWithLinks) {
 	return (
 		<Layout>
+			<Header color={palette} />
 			<Container>
-				<Header />
-
 				<article className="grid">
 					<Head>
 						<title>
@@ -34,19 +34,17 @@ export default function Doc({
 						</title>
 						<meta property="og:image" content={img} />
 					</Head>
-					<img className="w-1/2 max-h-screen md:w-4/6 place-self-center w-full" src={`/images/${img}`} alt={altText} />
-					<div className="max-w-md mx-auto mb-10">
-						<div className="mb-8"></div>
-						<PostBody content={content} />
-						<div className="pt-12" />
-						<Backlinks backlinks={mentionedIn} dates={dates} />
-						<div className="h-3 pt-16 pb-32 grid">
-							<span className="place-self-center">
-								<img
-									style={radicleStyle}
-									src="/images/radicle.png"
-								></img>
-							</span>
+					<img
+						className="w-1/2 w-full max-h-screen md:w-4/6"
+						src={`/images/${img}`}
+						alt={altText}
+					/>
+					<div className="w-full md:w-4/6">
+						<div className="max-w-lg mx-auto mb-10">
+							<div className="mb-8"></div>
+							<PostBody content={content} />
+							<div className="pt-12" />
+							<Backlinks backlinks={mentionedIn} dates={dates} />
 						</div>
 					</div>
 				</article>
@@ -85,10 +83,16 @@ export async function getStaticProps({ params }: StaticProps) {
 
 	const content = await markdownToHtml(contentString)
 	const title = await markdownToHtml(titleString)
+	const palette = await Vibrant.from(
+		`./public/images/${docs[params.page].img}`,
+	)
+		.getPalette()
+		.then((palette) => palette)
 
 	return {
 		props: {
 			...docs[params.page],
+			palette: palette.DarkVibrant?.rgb,
 			title,
 			content,
 		},
@@ -98,6 +102,7 @@ export async function getStaticProps({ params }: StaticProps) {
 // eslint-disable-next-line @typescript-eslint/require-await
 export async function getStaticPaths() {
 	const docs = getAllPages()
+	delete docs.photos
 	const docArray = Object.values(docs)
 
 	return {

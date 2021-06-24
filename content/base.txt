@@ -1,0 +1,21 @@
+title: base
+dates: ['27-02-2021']
+img: 'buds.jpg'
+altText: ‘buds about to bud on a branch ’
+
+Having a base, a refuge, a place to slow down and think. A refuge providing roots, enabling relating through making.
+
+# Stations
+
+### Sewing station
+The sewing station is for the media of cloth and fabric. 
+
+-  Phoenix 111, hand drive, sewing machine 1951
+
+### Carpentry station
+The carpentry station is for the media of wood.
+
+- A høvlbænk providing a base work-station
+
+### Gardening station
+The gardening station is for plants.

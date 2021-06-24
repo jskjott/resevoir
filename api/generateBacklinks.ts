@@ -43,6 +43,7 @@ export function generateNetwork(pages: Page[]) {
 				}
 			},
 		)
+
 		const links = [
 			...internal,
 			...routerLinks,

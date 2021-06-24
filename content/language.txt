@@ -1,0 +1,16 @@
+title: language
+dates: ['18-04-2021']
+altText: 'from Medium is the Message'
+img: greece_stone_uppsala.jpg
+
+Forms of expression, the bedrock. What builds worlds, makes place. Intimate to every person, worthwhile.
+
+## tongues
+
+[[dansk]]
+[[english]]
+
+## assemblages
+
+[[quotes]]
+[[essays]]

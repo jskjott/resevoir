@@ -1,20 +1,19 @@
 title: 'jonathan'
 dates: ['12-11-2019', '13-06-2020']
-altText: 'Jonathan'
+altText: 'Jona'
 img: 'jona_portrait.jpg'
 
-Jonathan Skjøtt is [[documenting]], weaving, and thinking about [[mediums]].
+Jona Skjøtt practices design at [Takram↗](https://www.takram.com/) and maintains a personal research practice at [[resevoir]].
 
-He is currently a researcher and technologist at [takram](https://www.takram.com/) in London. 
-Previously, Jonathan spent time at [The Recurse Center](https://www.recurse.com), did service design at [Digital Creativity Labs](https://www.digitalcreativity.ac.uk), played with hardware at [FabLab Seoul](https://www.fablab-seoul.org), and made a Massive Open Online Course (MOOC) with [Kiron Open Higher Education](https://www.kiron.ngo).
+## How would you introduce yourself? 
 
-Jonathan studied History and Computater Science at Minerva Schools at KGI. Before then Jonathan went to UWC Costa Rica.
+Hi! I am Jona, and I tend to feel at home somewhere in-between research, art, and design. I like exploring conviviality, transition, time, and community through my practice within visual and computational media, tool-making, and life-living in general.
 
-Jonathan is very serious about building out his [[library]]. There are several things that he find important to convey through [[manifestations]]
+## Which of your projects would you like to share?
 
-**Country Experience:**
+In spring 2020 I prototyped a design medium and environment for paper weaving called [[visiweave]] exploring what it means for computing to be part of a communal, cultural, and spatial fabric. In the fall and winter of 2021, I partook in research exploring what sustainable transition means for different people around the world and created a website sharing [what we found↗](https://sustainability-transitions.com).
 
-Argentina, Costa Rica, Denmark, Germany, India, Kenya, South Korea, United Kingdom, United States
+## Which places and communities have brought you to where you are today?
 
+Working with peers on research related to sustainable transitions at Takram. Being part of a community of people who love programming at [The Recurse Center↗](https://www.recurse.com). Studying History and Computer Science at Minerva Schools at KGI as part of a close-knit community. Working on projects with friends. Going for long distance walks.
 
-![a world map - the places where I have spent time are colored](images/presence.png)

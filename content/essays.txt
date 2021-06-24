@@ -1,0 +1,11 @@
+title: essays
+dates: ['08-05-2021']
+altText: 'Inspiration layout'
+img: annotation.jpg
+
+A collection of pieces about tit and tat. 
+
+- [[computer rituals]]
+- [[from career to practice]]
+- [[creating is relating]]
+- [[writing drawings]]
