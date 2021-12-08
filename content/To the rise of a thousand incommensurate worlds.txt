@@ -1,6 +1,6 @@
 title: 'a thousand incommensurate worlds'
 dates: ['17-06-2020']
-img: 'practice.JPG'
-altText: 'sketching process shot'
+img: 'bush_on_water.jpg'
+altText: 'A bush on the shore of a lake.'
 
-There is beauty to the illegible. The hinting at systems otherwise.
+There is beauty to the illegible. To hinting at systems otherwise. Resisting reduction.

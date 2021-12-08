@@ -1,23 +1,12 @@
 import Layout from '../components/Layout'
-import { getAllPages, markdownToHtml } from '../api/functions'
+import { getAllPages } from '../api/functions'
 import { PageWithLinks } from '../api/generateBacklinks'
 import Container from '../components/Container'
 import Header from '../components/Header'
-import Backlinks from '../components/Backlinks'
 import Head from 'next/head'
-import Link from 'next/link'
-import fs from 'fs'
 
 interface Page {
 	docs: Record<string, PageWithLinks>
-}
-
-type Props = {
-	tree: Page
-}
-
-const radicleStyle = {
-	height: '25px',
 }
 
 export default function Doc({ docs }: Page) {
@@ -44,9 +33,19 @@ export default function Doc({ docs }: Page) {
 				<article className="mb-32 grid">
 					<Head>
 						<title>Index | Resevoir</title>
+						<style
+							dangerouslySetInnerHTML={{
+								__html: `
+						a:hover {
+							color:white;
+							background: rgba(${255},${255},${255}, .6);
+						};
+						`,
+							}}
+						/>
 					</Head>
 					<img
-						className="w-1/2 w-full max-h-screen md:w-4/6"
+						className="w-full max-h-screen md:w-4/6"
 						src={`/images/rotheredge.jpg`}
 						alt="rotheredge"
 					/>
@@ -65,44 +64,6 @@ export default function Doc({ docs }: Page) {
 // eslint-disable-next-line @typescript-eslint/require-await
 export async function getStaticProps() {
 	const docs = getAllPages()
-	const docArray = Object.values(docs)
-
-	// const mentioned: Record<string, number> = {}
-
-	// const indexPage = docs.index
-	// mentioned.index = 1
-
-	// const tree: Page = {
-	// 	info: indexPage,
-	// 	tree: {},
-	// }
-
-	// function buildTree(stub: Page) {
-	// 	stub.info.mentions.forEach((mention) => {
-	// 		if (!(mention in mentioned) || mentioned[mention] < 1) {
-	// 			const pageInfo = docs[mention]
-
-	// 			if (pageInfo === undefined) {
-	// 				throw new Error('internal')
-	// 			}
-
-	// 			stub.tree[mention] = {
-	// 				info: pageInfo,
-	// 				tree: {},
-	// 			}
-
-	// 			if (!(mention in mentioned)) {
-	// 				mentioned[mention] = 0
-	// 			} else {
-	// 				mentioned[mention] = mentioned[mention] + 1
-	// 			}
-	// 		}
-	// 	})
-
-	// 	Object.values(stub.tree).forEach((child) => buildTree(child))
-	// }
-
-	// buildTree(tree)
 
 	return {
 		props: {

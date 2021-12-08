@@ -22,11 +22,11 @@ const radicleStyle = {
 
 const Footer = () => {
 	return (
-		<footer className="bg-white border-t opacity-50 hover:opacity-100 transition-opacity duration-200 ease-in-out">
+		<footer className="bg-white opacity-50 hover:opacity-100 transition-opacity duration-200 ease-in-out">
 			<Container>
 				<div
 					style={gridStyle}
-					className="w-full py-1 max-w-screen-xl grid"
+					className="w-full py-6 max-w-screen-xl grid"
 				>
 					<a href="https://webring.recurse.com">
 						<img
@@ -64,9 +64,11 @@ const Footer = () => {
 							></img>
 						</span>
 					</div>
-					<p className="self-center font-serif">
-						2017 ~ 2021 Jonathan Skjøtt
-					</p>
+					<div>
+						<p className="self-center float-right font-serif w-max">
+							2017 ~ 2021 Jonathan Skjøtt
+						</p>
+					</div>
 				</div>
 			</Container>
 		</footer>

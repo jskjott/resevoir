@@ -3,9 +3,7 @@ import { getAllPages, markdownToHtml } from '../api/functions'
 import { PageWithLinks } from '../api/generateBacklinks'
 import Container from '../components/Container'
 import Header from '../components/Header'
-import Backlinks from '../components/Backlinks'
 import Head from 'next/head'
-import Link from 'next/link'
 import { generateRss } from '../api/rss'
 import fs from 'fs'
 import Vibrant from 'node-vibrant'
@@ -17,10 +15,6 @@ type Props = {
 	palette: [number, number, number]
 }
 
-const radicleStyle = {
-	height: '25px',
-}
-
 export default function Doc({ docArray, index, about, palette }: Props) {
 	return (
 		<Layout>
@@ -29,6 +23,16 @@ export default function Doc({ docArray, index, about, palette }: Props) {
 				<article className="w-full grid">
 					<Head>
 						<title>Index | Resevoir</title>
+						<style
+							dangerouslySetInnerHTML={{
+								__html: `
+						a:hover {
+							color:white;
+							background: rgba(${palette[0]},${palette[1]},${palette[2]}, .6);
+						};
+						`,
+							}}
+						/>
 					</Head>
 					<div className="md:grid gap-10 md:grid-cols-3">
 						<div className="col-start-1 col-end-3 grid">

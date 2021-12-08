@@ -15,6 +15,7 @@
 /* Your own custom utilities */
 
 body {
+    font-size: 62.5%;
     font-family: -apple-system;
     background: #fefcff;
 }
@@ -36,10 +37,17 @@ img {
 }
 
 h1 {
-    font-size: 1.5em;
-    line-height:1.5em;
-    margin-bottom: 1.5em;
-    font-family: serif;
+    font-size: 1.5rem;
+    line-height: 2em;
+    margin-bottom: 1.5rem;
+    font-family: sans-serif;
+}
+
+h2, h3, h4 {
+    font-size: 1.25rem;
+    line-height:1.4em;
+    margin-bottom: 1.25rem;
+    font-family: sans-serif;
 }
 
 blockquote {
@@ -65,41 +73,54 @@ cite {
 }
 
 p {
+    font-size: 1.2rem;
     line-height:1.4em;
     word-spacing: -0.05em;
 }
 
+li {
+    font-size: 1.2rem;
+    line-height:1.4em;
+    word-spacing: -0.05em;
+}
+
+span {
+    font-size: 1.2rem;
+    line-height:1.4em;
+    word-spacing: -0.05em;
+}
+
+a {
+    font-size: 1.2rem;
+    word-spacing: -0.05em;
+}
+
 p + p {   
-    text-indent: 1.5em;
+    text-indent: 2.4rem;
  }
 
 h1 {
     text-transform: uppercase;
-    font-size: 1.2em;
+    font-size: 1.8rem;
     text-align: center;
 }
 
 h2 {
-    font-size: 1.2em;
+    font-size: 1.8rem;
     font-family: sans-serif;
     margin-bottom: 1.25em;
     margin-top: 1.25em;
 }
 
 h1 + p:first-of-type:first-letter { 
-    padding: 0.1rem  .3rem 0 0;
-    font-size: 2.7rem;
+    padding: 0.14rem  .3rem 0 0;
+    font-size: 3.46rem;
     float: left;
-    line-height: 0.95;
+    line-height: 0.90;
  }
 
 a[href*='//']{
     text-decoration: underline;
-}
-
-a:hover {
-    color:white;
-    background: #90A252;
 }
 
 rect:hover {

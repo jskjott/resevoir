@@ -9,10 +9,6 @@ import Backlinks from '../components/Backlinks'
 import Head from 'next/head'
 import Vibrant from 'node-vibrant'
 
-const radicleStyle = {
-	height: '25px',
-}
-
 export default function Doc({
 	title,
 	img,
@@ -25,21 +21,69 @@ export default function Doc({
 	return (
 		<Layout>
 			<Header color={palette} />
+
+			<Head>
+				<title>
+					Resevoir・
+					{title.replace(/<p>/, '').replace(/<\/p>/, '')}
+				</title>
+				<meta property="og:image" content={img} />
+				<style
+					dangerouslySetInnerHTML={{
+						__html: `
+						a:hover {
+							color:white;
+							background: rgba(${palette[0]},${palette[1]},${palette[2]}, .6);
+							
+						}
+
+						h1 {
+							color: rgba(${palette[0]},${palette[1]},${palette[2]}, 1);
+							text-decoration: underline 15px rgb(${palette[0]},${palette[1]},${palette[2]});
+							padding-bottom: 3rem;
+							padding-top: 1rem;
+						}
+						h2, h3, h4 {
+							color: rgba(${palette[0]},${palette[1]},${palette[2]}, 1);
+						}
+
+						::selection {
+							background: rgba(${palette[0]},${palette[1]},${palette[2]}, 0.6); /* WebKit/Blink Browsers */
+							color: white;
+						}
+						::-moz-selection {
+						background: rgba(${palette[0]},${palette[1]},${palette[2]}, 0.6); /* Gecko Browsers */
+						color: white;
+						}
+						`,
+					}}
+				/>
+			</Head>
+
+			<div
+				className="relative w-full p-24 pt-20 grid pb-36 place-self-center"
+				style={{
+					background: `rgba(${palette[0]},${palette[1]},${palette[2]}, .1)`,
+				}}
+			>
+				<img
+					className="relative w-auto max-h-screen place-self-center "
+					src={`/images/${img}`}
+					alt={altText}
+				/>
+				<span
+					style={{
+						color: `rgba(${palette[0]},${palette[1]},${palette[2]}, .4)`,
+					}}
+					className="pt-10 text-sm place-self-center"
+				>
+					{' '}
+					{altText}
+				</span>
+			</div>
 			<Container>
 				<article className="grid">
-					<Head>
-						<title>
-							Resevoir・
-							{title.replace(/<p>/, '').replace(/<\/p>/, '')}
-						</title>
-						<meta property="og:image" content={img} />
-					</Head>
-					<img
-						className="w-1/2 w-full max-h-screen md:w-4/6"
-						src={`/images/${img}`}
-						alt={altText}
-					/>
-					<div className="w-full md:w-4/6">
+					<div className="w-full place-self-center md:w-4/6">
 						<div className="max-w-lg mx-auto mb-10">
 							<div className="mb-8"></div>
 							<PostBody content={content} />

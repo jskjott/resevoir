@@ -1,7 +1,7 @@
 const Header = ({ color }: { color: [number, number, number] }) => {
 	return (
-		<div className="w-full pl-10 max-w-screen-xl">
-			<div className="relative w-full opacity-50 md:h-20 hover:opacity-100">
+		<div className="w-full pb-6 pl-10 max-w-screen-xl">
+			<div className="relative w-full opacity-30 transition duration-1000 ease-in-out md:h-20 hover:opacity-100">
 				<span
 					style={{ width: '250px' }}
 					className="absolute pr-10 md:pr-20"
