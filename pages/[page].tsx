@@ -4,7 +4,6 @@ import { PageWithLinks } from '../api/generateBacklinks'
 import Container from '../components/Container'
 import PostBody from '../components/PostBody'
 import Header from '../components/Header'
-import PageHeader from '../components/PageHeader'
 import Backlinks from '../components/Backlinks'
 import Head from 'next/head'
 import Vibrant from 'node-vibrant'
@@ -61,7 +60,7 @@ export default function Doc({
 			</Head>
 
 			<div
-				className="relative w-full p-24 pt-20 grid pb-36 place-self-center"
+				className="relative w-full pt-8 pb-4 md:pt-20 md:p-24 grid md:pb-36 place-self-center"
 				style={{
 					background: `rgba(${palette[0]},${palette[1]},${palette[2]}, .1)`,
 				}}
@@ -75,7 +74,7 @@ export default function Doc({
 					style={{
 						color: `rgba(${palette[0]},${palette[1]},${palette[2]}, .4)`,
 					}}
-					className="pt-10 text-sm place-self-center"
+					className="px-2 pt-4 text-sm md:pt-10 place-self-center"
 				>
 					{' '}
 					{altText}

@@ -1,10 +1,10 @@
 const Header = ({ color }: { color: [number, number, number] }) => {
 	return (
 		<div className="w-full pb-6 pl-10 max-w-screen-xl">
-			<div className="relative w-full opacity-30 transition duration-1000 ease-in-out md:h-20 hover:opacity-100">
-				<span
-					style={{ width: '250px' }}
-					className="absolute pr-10 md:pr-20"
+			<div className="relative w-full md:flex opacity-30 transition duration-1000 ease-in-out md:h-20 hover:opacity-100">
+				<div
+					style={{ maxWidth: '250px' }}
+					className="pb-12 pr-10 md:pr-20"
 				>
 					<a href="/" className="-pt-4">
 						<svg width="150" height="22" viewBox="0, 0, 400,50">
@@ -19,28 +19,27 @@ const Header = ({ color }: { color: [number, number, number] }) => {
 							</g>
 						</svg>
 					</a>
-				</span>
+				</div>
 				<div
 					style={{
-						paddingLeft: '250px',
 						color: `rgb(${color[0]},${color[1]},${color[2]})`,
 					}}
 					className="w-full md:grid md:grid-cols-4"
 				>
-					<span className="w-full  font-sans group">
+					<span className="w-full font-sans group">
 						<span className="my-3">
 							<a href="/motion">Motion</a>
-							<span className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+							<span className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 								://
 							</span>
 						</span>
-						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 							{' '}
 							<a href="/sailing">sailing</a>,{' '}
 							<a href="/biking">biking</a>,{' '}
 							<a href="/library">library</a>
 						</div>
-						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 							{' '}
 							<a href="/time-based">time-based</a>,{' '}
 							<a href="/manifestations">manifestations</a>{' '}
@@ -49,31 +48,31 @@ const Header = ({ color }: { color: [number, number, number] }) => {
 					<span className=" font-sans group">
 						<span className="my-3">
 							<a href="/stillness">Stillness</a>
-							<span className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+							<span className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 								://
 							</span>
 						</span>
-						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 							{' '}
 							<a href="/settlement">settlement</a>
 						</div>
-						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 							<a href="/photos">photos</a>
 						</div>
 					</span>
 					<span className=" font-sans group">
 						<span className="my-3">
 							<a href="/language">Language</a>
-							<span className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+							<span className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 								://
 							</span>
 						</span>
-						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 							{' '}
 							<a href="/dansk">dansk</a>,{' '}
 							<a href="/english">english</a>{' '}
 						</div>
-						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 							{' '}
 							<a href="/essays">essays</a>,{' '}
 							<a href="/quotes">quotes</a>
@@ -82,16 +81,16 @@ const Header = ({ color }: { color: [number, number, number] }) => {
 					<span className=" font-sans group">
 						<span className="my-3">
 							<a href="/meta">Meta</a>
-							<span className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+							<span className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 								://
 							</span>
 						</span>
-						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 							{' '}
 							<a href="/about">about</a>,{' '}
 							<a href="/resevoir">resevoir</a>
 						</div>
-						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out group-hover:opacity-100">
+						<div className="z-50 opacity-0 transition-opacity duration-200 ease-in-out lg:group-hover:opacity-100">
 							{' '}
 							<a href="/now">now</a>,{' '}
 							<a href="/resevoir-index">index</a>,{' '}
