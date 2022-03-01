@@ -1,5 +1,6 @@
 title: 'mediums'
 dates: ['17-06-2020']
+tags: []
 altText: 'Glitch Hands'
 img: 'mediums.png'
 

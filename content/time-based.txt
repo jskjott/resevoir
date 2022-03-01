@@ -1,5 +1,6 @@
 title: 'time-based media'
 dates: ['17-06-2020']
+tags: []
 altText: 'creating a slitscan'
 img: 'time-based.png'
 

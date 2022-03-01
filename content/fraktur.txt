@@ -1,5 +1,6 @@
 title: 'fraktur'
 dates: ['20-12-2018']
+tags: ['project']
 img: 'fraktur_progression.png'
 altText: 'illustration of different fraktur writing turorials'
 

@@ -18,10 +18,10 @@ const radicleStyle = {
 
 const Footer = () => {
 	return (
-		<footer className="bg-white opacity-50 hover:opacity-100 transition-opacity duration-200 ease-in-out">
+		<footer className="p-2">
 			<Container>
-				<div className="w-full h-8 md:grid-cols-3 max-w-screen-xl grid">
-					<div className="flex align-self-center md:place-self-auto place-self-center">
+				<div className="flex flex-row w-full h-8">
+					<div className="flex h-8 pr-4 align-self-center md:place-self-auto place-self-center">
 						<a href="https://webring.recurse.com">
 							<img
 								style={githubStyle}
@@ -51,18 +51,23 @@ const Footer = () => {
 							/>
 						</a>
 					</div>
-					<div className="md:place-self-center grid">
+					<div className="pr-4 ">
+						<p className="font-serif text-center md:text-right">
+							2017 ~ 2021
+						</p>
+					</div>
+					<div className="">
+						<p className="font-serif text-center md:text-right">
+							Jonathan Skjøtt
+						</p>
+					</div>
+					<div className="absolute pr-2 right-2 md:place-self-center grid">
 						<span className="py-4 md:py-0 place-self-center">
 							<img
 								style={radicleStyle}
 								src="/images/radicle.png"
 							></img>
 						</span>
-					</div>
-					<div className="">
-						<p className="font-serif text-center md:text-right">
-							2017 ~ 2021 Jonathan Skjøtt
-						</p>
 					</div>
 				</div>
 			</Container>

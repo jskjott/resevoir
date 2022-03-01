@@ -1,0 +1,7 @@
+title: welcome
+dates: ['01-03-2022']
+tags: []
+altText: 'A photo of purple lilies and brown dead leaves'
+img: 'flowers_and_dead_leaves.jpg'
+
+Welcome!

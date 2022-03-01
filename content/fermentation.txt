@@ -1,5 +1,6 @@
 title: 'fermentation'
 dates: ['04-04-2020']
+tags: []
 altText: 'character design process illustration'
 img: 'kimchi-london-08-03-2020.png'
 

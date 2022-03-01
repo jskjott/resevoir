@@ -1,5 +1,6 @@
 title: a static represention of time-based media
 dates: ['02-11-2018']
+tags: ['project']
 img: 'slitscan_hands.png'
 altText: 'Glitch Hands'
 

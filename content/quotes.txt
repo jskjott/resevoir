@@ -1,5 +1,6 @@
 title: 'quotes'
 dates: ['28-07-2019']
+tags: []
 altText: 'notes from a design project'
 img: 'paperwork_2-min.jpg'
 

@@ -1,0 +1,9 @@
+title: 'passing away'
+dates: ['01-04-2015']
+tags: ['project']
+img: 'passing_away.png'
+altText: 'a smoking '
+
+A piece seeking to humanise a piece of technology through a ritual-like burning.
+
+https://vimeo.com/269137114

@@ -1,5 +1,6 @@
 title: 'sailboat as gaze'
 dates: ['17-09-2020']
+tags: ['essay']
 altText: 'first steps, learning to sail dinghies on the Thames'
 img: 'sailing_first_steps.jpg'
 

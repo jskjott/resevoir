@@ -1,5 +1,6 @@
 title: 'about'
 dates: ['17-12-2018', '17-06-2020']
+tags: []
 altText: 'Morning in Daerim-dong'
 img: 'cropped_daerim.jpg'
 

@@ -12,6 +12,7 @@ export default function Doc({
 	title,
 	img,
 	altText,
+	tags,
 	dates,
 	content,
 	mentionedIn,
@@ -19,8 +20,6 @@ export default function Doc({
 }: PageWithLinks) {
 	return (
 		<Layout>
-			<Header color={palette} />
-
 			<Head>
 				<title>
 					Resevoir・
@@ -39,8 +38,8 @@ export default function Doc({
 						h1 {
 							color: rgba(${palette[0]},${palette[1]},${palette[2]}, 1);
 							text-decoration: underline 15px rgb(${palette[0]},${palette[1]},${palette[2]});
-							padding-bottom: 3rem;
-							padding-top: 1rem;
+							padding-top: 3rem;
+							padding-bottom: 1rem;
 						}
 						h2, h3, h4 {
 							color: rgba(${palette[0]},${palette[1]},${palette[2]}, 1);
@@ -50,6 +49,13 @@ export default function Doc({
 							background: rgba(${palette[0]},${palette[1]},${palette[2]}, 0.6); /* WebKit/Blink Browsers */
 							color: white;
 						}
+
+						background: rgba(${palette[0]},${palette[1]},${palette[2]}, .2)
+
+						html {
+							background: rgba(${palette[0]},${palette[1]},${palette[2]}, .2);
+						}
+
 						::-moz-selection {
 						background: rgba(${palette[0]},${palette[1]},${palette[2]}, 0.6); /* Gecko Browsers */
 						color: white;
@@ -58,36 +64,49 @@ export default function Doc({
 					}}
 				/>
 			</Head>
-
 			<div
-				className="relative w-full pt-8 pb-4 md:pt-20 md:p-24 grid md:pb-36 place-self-center"
+				className="fixed top-0 z-30 w-screen h-8"
 				style={{
-					background: `rgba(${palette[0]},${palette[1]},${palette[2]}, .1)`,
+					background: `rgba(${palette[0]},${palette[1]},${palette[2]}, 0.6)`,
 				}}
 			>
-				<img
-					className="relative w-auto max-h-screen place-self-center "
-					src={`/images/${img}`}
-					alt={altText}
-				/>
-				<span
+				<Backlinks backlinks={mentionedIn} dates={dates} image={img} />
+			</div>
+			<div className="fixed top-0 z-20 w-screen h-8 bg-white"></div>
+			{tags.includes('draft') === true && (
+				<div
+					style={{
+						color: `rgba(${palette[0]},${palette[1]},${palette[2]}, 0.6)`,
+					}}
+					className="absolute text-5xl top-8 right-2"
+				>
+					DRAFT
+				</div>
+			)}
+			<Header color={palette} />
+
+			{/* <img
+				className="top-0 right-0 w-auto p-2 h-2/3 md:p-8"
+				style={{ left: '20vw' }}
+				src={`/images/${img}`}
+				alt={altText}
+			/> */}
+			{/* <span
 					style={{
 						color: `rgba(${palette[0]},${palette[1]},${palette[2]}, .4)`,
 					}}
-					className="px-2 pt-4 text-sm md:pt-10 place-self-center"
+					className="px-2 text-sm place-self-center"
 				>
 					{' '}
 					{altText}
-				</span>
-			</div>
+				</span> */}
 			<Container>
-				<article className="grid">
-					<div className="w-full place-self-center md:w-4/6">
+				<article className="relative grid">
+					<div className=" w-full place-self-center">
 						<div className="max-w-lg mx-auto mb-10">
-							<div className="mb-8"></div>
+							<div className="mt-12"></div>
 							<PostBody content={content} />
 							<div className="pt-12" />
-							<Backlinks backlinks={mentionedIn} dates={dates} />
 						</div>
 					</div>
 				</article>

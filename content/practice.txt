@@ -1,5 +1,6 @@
 title: 'practice'
 dates: ['17-06-2020']
+tags: []
 img: 'practice.JPG'
 altText: 'sketching process shot'
 

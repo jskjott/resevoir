@@ -1,5 +1,6 @@
 title: 'sailing'
 dates: ['09-10-2020']
+tags: []
 altText: 'wrapping the sail of a Laser Pico dinghy after use'
 img: 'sailing_first_steps.jpg'
 

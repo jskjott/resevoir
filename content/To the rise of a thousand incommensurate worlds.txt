@@ -1,6 +1,8 @@
 title: 'a thousand incommensurate worlds'
 dates: ['17-06-2020']
-img: 'bush_on_water.jpg'
+tags: ['essay']
 altText: 'A bush on the shore of a lake.'
+img: 'bush_on_water.jpg'
+
 
 There is beauty to the illegible. To hinting at systems otherwise. Resisting reduction.

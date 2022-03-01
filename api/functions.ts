@@ -8,6 +8,7 @@ import { generateNetwork } from './generateBacklinks'
 export type Page = {
 	title: string
 	dates: string[]
+	tags: string[]
 	altText: string
 	img: string
 	content: string
@@ -44,7 +45,7 @@ export function getPageBySlug(slug: string) {
 		throw new Error('internal')
 	}
 
-	const point = matches[3] as { index: number }
+	const point = matches[4] as { index: number }
 
 	const prepared = `---
 ${fileContents.slice(0, point.index)}
@@ -63,18 +64,24 @@ ${fileContents.slice(point.index)}`
 			Array.isArray(data.dates) &&
 			data.dates.every((item) => typeof item === 'string')
 		) ||
+		!(
+			Array.isArray(data.tags) &&
+			data.tags.every((item) => typeof item === 'string')
+		) ||
 		typeof data.img !== 'string'
 	) {
 		throw new Error('internal')
 	}
 
 	const dates = data.dates
+	const tags = data.tags
 
 	const pageData: Page = {
 		title: data.title,
 		palette: [0, 0, 0],
 		slug: slug.replace(/.txt/, '').replace(/ /g, '-'),
 		dates,
+		tags,
 		altText: data.altText,
 		img: data.img,
 		content,

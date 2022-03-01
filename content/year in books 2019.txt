@@ -1,5 +1,6 @@
 title: 'year in books 2019'
 dates: ['04-01-2020']
+tags: []
 img: 'some_readings_2019.png'
 altText: 'A few of the books I read in 2019'
 

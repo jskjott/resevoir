@@ -1,5 +1,6 @@
 title: 'historiography'
 dates: ['08-11-2018']
+tags: ['project']
 altText: 'the visualisation used in the GUI'
 img: 'spatial_news.png'
 

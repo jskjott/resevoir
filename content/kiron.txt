@@ -1,5 +1,6 @@
 title: 'kiron'
 dates: ['02-08-2018']
+tags: ['project']
 altText: 'a photo of the Kiron course leaders'
 img: 'kiron_drawing.png'
 

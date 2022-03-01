@@ -1,5 +1,6 @@
 title: 'portable printing'
 dates: ['12-04-2019']
+tags: ['project']
 altText: 'Receipt Printer Typerwriter prototype'
 img: 'typewriter_1.png'
 

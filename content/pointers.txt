@@ -1,5 +1,6 @@
 title: 'pointers'
 dates: ['08-03-2020']
+tags: []
 altText: 'methods of constructing letterforms - Institutionum Geometricarum'
 img: 'Albrecht_Durer_letterforms.jpg'
 

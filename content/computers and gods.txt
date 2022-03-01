@@ -1,0 +1,73 @@
+title: 'computers and gods'
+dates: ['11-02-2022']
+tags: ['essay', 'draft']
+img: 'lake.jpeg'
+altText: 'An image of a candle and a vase with flowers with blinds as a backdrop'
+
+
+> In time, those Unconscionable Maps no longer satisfied, and the Cartographers Guilds struck a Map of the Empire whose size was that of the Empire, and which coincided point for point with it.
+<cite>Jorge Luis Borges - *On Exactitude in Science*</cite>
+
+Sometimes I close my eyes in an attempt to comprehend what computers are. I think of how they are made from materials dug up from below in places all over the world before they are brought together processed synthesised into something which can carry currents and with them perhaps the world.
+
+I try and think of the networks of cables suspended above sea floors — linking continents and enabling networking at uncomprehendable speeds.
+
+But most of all I think of the computer as a complex compound of culture, power, and history. A radical technology which, like many other technologies before it, remade humans understandings of each other and the world in which they find themselves.
+
+## The hybris of leveraging the digital to try grasp all of the analogue world
+
+
+
+> Why? Why did you die?  — — — God is here.
+<cite> Serial Experiments LAIN</cite>
+
+
+
+> We’re not living in an algorithmic culture so much as a computational theocracy.
+<cite> Ian Bogost - *[The Cathedral of Computation](https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/)*</cite>
+
+There are many cathedrals in existence.
+Meta is the missionary church.
+
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Ontologies of Computers and Gods</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>computers are gods</b></td>
+            <td><b>computers are created by god</b></td>
+        </tr>
+        <tr>
+            <td>”Unlike today’s virtual assistants, the gods of KamiOS are not all-knowing or all-powerful. They are limited, fallible, and have different agendas and loyalties.” 
+            Keiichi Matsuda - GODS </td>
+            <td> ”Since computers are a part of the creation, and God commanded ourancestors to exercise dominion over the creation (Genesis 1:28), then the proper relationship between people and computers is for people to exercise dominion over computers.” Joel Adams - A CHRISTIAN PERSPECTIVE ON COMPUTING</td>
+        </tr>
+    </tbody>
+</table>
+
+> technological historical time synchronized and converged was one end point which we have called before technological singularity and you prefer you can also call the apocryps or homologues the of becoming god. 
+<cite> Yuk Hui - *[From the universality of progress to cosmotechnics](https://www.youtube.com/watch?v=Dni6UJDFUuw&t=2005s/)*</cite>
+
+
+## Another kind of computation
+
+> The sailing/computing duo Hundred Rabbits are pilgrim-poets of permacomputing.
+<cite> Robin Sloan - *[The slab and the permacomputer](https://www.robinsloan.com/lab/slab/)*</cite>
+
+Seeking new computational ontologies by computing where it is rarely done by moving off land entirely.
+travelling cathedral builder
+
+
+## What is the nature of the universes which rise out of the digital?
+
+It feels obscene to think of computer programmers as creators of new universes. Yet, what is it that programmers are creating?
+
+> I always imagine that each man-made object is surrounded by a ‘Magical Circle’, just like those radiant Circles in Japanese Magical girl anime. Imagine a stool silently unfolds its ‘Magical Circle’, urging people nearby to sit in it.
+<cite>Weiyi Li - *Function as Narrative*</cite>
+
+> KamiOS is different. It is based in pagan animism, where there are many thousands of gods, who live in everything
+<cite>Keiichi Matsuda - *[GODS](https://arena-attachments.s3.amazonaws.com/13686745/a9e686464f00f1a2990822b30796dfef.pdf?1635021002)*</cite>

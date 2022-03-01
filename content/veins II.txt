@@ -1,0 +1,9 @@
+title: 'veins II'
+dates: ['02-01-2015']
+tags: ['project']
+img: 'veins_II.png'
+altText: 'A a dark space with wires hanging vertically throughout the whole frame. Blood drops are flowing along with the cords.'
+
+Second piece exploring the concept of veins as the life- or motion-giving force in nature and technology.
+
+https://vimeo.com/269136502

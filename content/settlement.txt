@@ -1,5 +1,6 @@
 title: settlement
 dates: ['31-03-2021']
+tags: []
 altText: ‘second London home in the corner of the Isokon’
 img: 'settlement.jpg'
 

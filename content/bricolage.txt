@@ -1,5 +1,6 @@
 title: 'bricolage'
 dates: ['26-06-2020']
+tags: []
 altText: 'Collected items'
 img: 'bricolage.jpg'
 

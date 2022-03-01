@@ -1,5 +1,6 @@
 title: 'daerim dong'
 dates: ['28-01-2018']
+tags: []
 altText: 'A photo of the street in Daerim-dong'
 img: 'postcard5-min.jpg'
 

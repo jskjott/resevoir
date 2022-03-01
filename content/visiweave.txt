@@ -1,5 +1,6 @@
 title: 'visiweave'
 dates: ['16-04-2020']
+tags: ['project']
 altText: 'the VisiWeave interface '
 img: 'visiweave_interface.png'
 

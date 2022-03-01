@@ -1,5 +1,6 @@
 title: 'org-mode'
 dates: ['22-09-2019']
+tags: []
 altText: 'Malraux, Museum without Walls'
 img: 'a_book_museum_without_walls.jpeg'
 

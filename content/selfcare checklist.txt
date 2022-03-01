@@ -1,5 +1,6 @@
 title: selfcare checklist
 dates: [08-02-2021]
+tags: []
 altText: 'forest in south England'
 img: 'plant_deep_work.jpg'
 

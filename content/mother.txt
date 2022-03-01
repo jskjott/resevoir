@@ -1,0 +1,9 @@
+title: 'mother'
+dates: ['01-10-2014']
+tags: ['project']
+img: 'mother.png'
+altText: 'range of coloured leaves arranged in the shape of a circle on a black background.'
+
+A piece giving respect to my mother's love.
+
+https://vimeo.com/295409276

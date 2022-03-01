@@ -1,5 +1,6 @@
 title: 'more participatory citizen science'
 dates: ['08-08-2018']
+tags: []
 img: 'paperwork_1.jpg'
 altText: 'our data wall'
 

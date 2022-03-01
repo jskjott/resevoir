@@ -1,5 +1,6 @@
 title: 'annotation'
 dates: ['15-09-2019']
+tags: []
 altText: 'Inspiration layout'
 img: annotation.jpg
 

@@ -1,5 +1,6 @@
 title: 'chasmic'
 dates: ['22-09-2019']
+tags: ['project']
 altText: 'the Chasmic interface'
 img: 'chasmic_log.png'
 

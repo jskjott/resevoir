@@ -1,5 +1,6 @@
 title: stillness
 dates: ['28-01-2018']
+tags: []
 altText: ‘A photo of a round black stone on a table at dusk’
 img: 'round_stone_stillness.jpg'
 

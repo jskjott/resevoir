@@ -1,5 +1,6 @@
 title: 'foraging'
 dates: ['09-10-2020']
+tags: []
 altText: 'into the forest'
 img: 'foraging.jpg'
 

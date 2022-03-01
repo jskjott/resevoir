@@ -1,5 +1,6 @@
 title: 'trails'
 dates: ['02-05-2019']
+tags: ['project']
 altText: 'the primary visual identity of the project'
 img: 'horizontal_trails-01.png'
 

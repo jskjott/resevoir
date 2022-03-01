@@ -1,5 +1,6 @@
-title: ·
+title: index
 dates: ['17-06-2020', '14-03-2021']
+tags: []
 altText: Rotheredge
 img: rotheredge.jpg
 

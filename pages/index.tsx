@@ -3,90 +3,180 @@ import { getAllPages, markdownToHtml } from '../api/functions'
 import { PageWithLinks } from '../api/generateBacklinks'
 import Container from '../components/Container'
 import Header from '../components/Header'
+import PostBody from '../components/PostBody'
 import Head from 'next/head'
 import { generateRss } from '../api/rss'
+import Link from 'next/link'
 import fs from 'fs'
 import Vibrant from 'node-vibrant'
 
 type Props = {
 	docArray: PageWithLinks[]
+	manifestationsArray: PageWithLinks[]
 	index: PageWithLinks
 	about: string
+	now: string
 	palette: [number, number, number]
 }
 
-export default function Doc({ docArray, index, about, palette }: Props) {
+export default function Doc({
+	docArray,
+	manifestationsArray,
+	index,
+	now,
+	about,
+	palette,
+}: Props) {
 	return (
 		<Layout>
-			<Header color={palette} />
 			<Container>
-				<article className="w-full grid">
+				<div
+					className="fixed top-0 z-30 w-screen h-8"
+					style={{
+						background: `rgba(${palette[0]},${palette[1]},${palette[2]}, 0.6)`,
+					}}
+				>
+					<div className="flex h-8 px-1 text-white my-0.5 md:h-8 md:flex-row">
+						<span className="invisible md:visible">
+							Jona Skjøtt‘s momentum archive —
+						</span>
+						<Link href="welcome">
+							<a className="pl-1">Welcome</a>
+						</Link>
+						<span>,</span>
+						<Link href="resevoir">
+							<a className="pl-1">Info</a>
+						</Link>
+						<span>,</span>
+						<Link href="projects">
+							<a className="pl-2">Projects</a>
+						</Link>
+						<span>,</span>
+						<Link href="writing">
+							<a className="pl-2">Writing</a>
+						</Link>
+					</div>
+				</div>
+				<div className="fixed top-0 z-20 w-screen h-8 bg-white"></div>
+				<Header color={palette} />
+				<article
+					className="w-full"
+					style={{
+						background: `rgba(${palette[0]},${palette[1]},${palette[2]}, 0.2)`,
+					}}
+				>
 					<Head>
 						<title>Index | Resevoir</title>
 						<style
 							dangerouslySetInnerHTML={{
 								__html: `
+						h1 {
+							color: rgba(${palette[0]},${palette[1]},${palette[2]}, 1);
+							text-decoration: underline 15px rgb(${palette[0]},${palette[1]},${palette[2]});
+							padding-top: 0rem;
+							padding-bottom: 1rem; 
+						}
+
 						a:hover {
 							color:white;
 							background: rgba(${palette[0]},${palette[1]},${palette[2]}, .6);
 						};
+
+						html {
+							background: rgba(${palette[0]},${palette[1]},${palette[2]}, .2);
+						}
 						`,
 							}}
 						/>
 					</Head>
-					<div className="md:grid gap-10 md:grid-cols-3">
-						<div className="col-start-1 col-end-3 grid">
-							<img
-								className=""
-								src={`/images/waterfoliage.JPG`}
-								alt={index.altText}
-							/>
-						</div>
-						<div className="max-w-lg opacity-50 grid col-end-4 col-start-3 hover:opacity-100 transition-opacity duration-200 ease-in-out">
-							<div
-								className="md:place-self-center"
-								dangerouslySetInnerHTML={{
-									__html: index.content,
-								}}
-							/>
-						</div>
-					</div>
-					<div className="md:grid gap-10 md:grid-cols-2 lg:grid-cols-3">
-						<div className="max-w-lg mb-6 opacity-50 col-start-1 col-end-3 grid hover:opacity-100 transition-opacity duration-200 ease-in-out">
-							<div
-								className="pt-8 md:py-8"
-								dangerouslySetInnerHTML={{
-									__html: about,
-								}}
-							/>
-						</div>
-						<div className="mb-6 opacity-50 col-start-3 col-end-4 hover:opacity-100 transition-opacity duration-200 ease-in-out">
-							<p className="pb-8 md:py-8">
-								Sprouts growing throuhgout the site:
-							</p>
 
-							<svg
-								className="w-md"
-								height={`${(1 + docArray.length / 10) * 30}px`}
-								xmlns="http://www.w3.org/2000/svg"
-							>
-								{docArray.map((page, index) => (
-									<a href={page.slug} key={index}>
-										<rect
-											x={`${30 * (index % 10)}px`}
-											y={`${
-												30 * Math.floor(index / 10)
-											}px`}
-											width="22px"
-											height="22px"
-											fill="#90A252"
-											strokeWidth="0.25px"
-										/>
-									</a>
-								))}
-							</svg>
-						</div>
-					</div>
+					<Container>
+						<article className="relative grid">
+							<div className=" w-full place-self-center">
+								<div className="mx-auto mb-10 ">
+									<div className="mt-12"></div>
+
+									<div
+										className="mx-4 grid"
+										style={{
+											gridTemplateColumns:
+												'repeat(auto-fill, minmax(200px, 1fr)',
+										}}
+									>
+										{manifestationsArray.map(
+											(page, index) => (
+												<a
+													style={{
+														width: '200px',
+														height: '200px',
+													}}
+													href={`/${page.slug}`}
+													className="relative p-2 mb-8 grid"
+													key={index}
+												>
+													<img
+														className=" rounded-sm"
+														src={`images/thumbnails/${page.img}`}
+														alt={page.altText}
+													/>
+													<div className="absolute bottom-0 p-2">
+														<div className="relative py-2 font-sans text-sm">
+															{page.title}{' '}
+															<span
+																className="absolute px-1 text-white rounded text-tiny"
+																style={{
+																	background: `rgba(${palette[0]},${palette[1]},${palette[2]}, 0.6)`,
+																}}
+															>
+																{page.tags.map(
+																	(tag) =>
+																		tag,
+																)}
+															</span>
+														</div>
+														<div className="text-xs">
+															{page.dates[0].slice(
+																6,
+															)}
+														</div>
+													</div>
+												</a>
+											),
+										)}
+									</div>
+
+									{/* <div className="pt-12" />
+									<p className="pb-8 md:py-8">
+										Sprouts growing throuhgout the site:
+									</p>
+
+									<svg
+										className="w-md"
+										height={`${
+											(1 + docArray.length / 10) * 30
+										}px`}
+										xmlns="http://www.w3.org/2000/svg"
+									>
+										{docArray.map((page, index) => (
+											<a href={page.slug} key={index}>
+												<rect
+													x={`${30 * (index % 10)}px`}
+													y={`${
+														30 *
+														Math.floor(index / 10)
+													}px`}
+													width="22px"
+													height="22px"
+													fill="#90A252"
+													strokeWidth="0.25px"
+												/>
+											</a>
+										))}
+									</svg> */}
+								</div>
+							</div>
+						</article>
+					</Container>
 				</article>
 			</Container>
 		</Layout>
@@ -96,6 +186,42 @@ export default function Doc({ docArray, index, about, palette }: Props) {
 export async function getStaticProps() {
 	const docs = getAllPages()
 	const docArray = Object.values(docs)
+	const manifestationsArray = docArray.filter((doc) => {
+		let manifestation = false
+
+		doc.tags.forEach((tag) => {
+			if (tag === 'project' || tag === 'essay') {
+				manifestation = true
+			}
+		})
+
+		if (manifestation) {
+			return true
+		} else {
+			return false
+		}
+	})
+
+	manifestationsArray.sort((firstEl, secondEl) => {
+		const firstDate = new Date(
+			`${firstEl.dates[0].slice(6)}-${firstEl.dates[0].slice(
+				3,
+				5,
+			)}-${firstEl.dates[0].slice(0, 2)}`,
+		)
+		const secondDate = new Date(
+			`${secondEl.dates[0].slice(6)}-${secondEl.dates[0].slice(
+				3,
+				5,
+			)}-${secondEl.dates[0].slice(0, 2)}`,
+		)
+
+		return secondDate.getTime() - firstDate.getTime()
+	})
+
+	const nowPage = docs.now
+	let now = nowPage.content
+	now = await markdownToHtml(now)
 
 	const aboutPage = docs.jonathan
 	let about = aboutPage.content
@@ -106,8 +232,7 @@ export async function getStaticProps() {
 	about = await markdownToHtml(about)
 
 	const indexPage = docs.index
-	let contentString = `# ${docs.index.title}
-	${indexPage.content}`
+	let contentString = indexPage.content
 
 	const matches = [...contentString.matchAll(/\[\[(.*?)\]\]/g)]
 	matches.forEach((match) => {
@@ -128,15 +253,17 @@ export async function getStaticProps() {
 		content,
 	}
 
-	const palette = await Vibrant.from(`./public/images/waterfoliage.JPG`)
+	const palette = await Vibrant.from(`./public/images/slitscan_hands.png`)
 		.getPalette()
 		.then((palette) => palette)
 
 	return {
 		props: {
 			docArray,
+			manifestationsArray,
 			index,
 			about,
+			now,
 			palette: palette.DarkVibrant?.rgb,
 		},
 	}

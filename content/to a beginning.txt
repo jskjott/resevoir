@@ -1,5 +1,6 @@
 title: to a beginning
 dates: ['27-06-2021']
+tags: []
 img: 'starting.jpg'
 altText: ‘Sun-down at 11pm a summer evening on the beach facing Kattegat.’
 

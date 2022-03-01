@@ -1,5 +1,6 @@
 title: 'craft'
 dates: ['17-06-2020']
+tags: []
 altText: 'monkeys fist and macrame beads'
 img: 'craft.jpg'
 

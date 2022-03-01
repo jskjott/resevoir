@@ -1,5 +1,6 @@
 title: 'resevoir'
 dates: ['17-06-2020']
+tags: ['project']
 altText: 'Arno Schmidt`s notes for Zettels Traum'
 img: 'Arno_Schmidt_Zettels_Traum.jpg'
 

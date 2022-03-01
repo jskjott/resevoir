@@ -1,7 +1,18 @@
 title: now
 dates: ['15-05-2021']
+tags: []
 altText: 'Inspiration layout'
 img: beverages.jpg
 
-A place containing a summery of current targets of Jonathan Skjøtt’s practice. Big and small, this is a space for the ideas which keep lurking around in the mind, the things touched by the hand.
+## What is now
+
+A place containing a summery of the current locus of Jona‘s practice. Big and small, this is a space for the ideas which keep lurking around in the mind, the things touched by the hand.
+
+The top ideas of my mind:
+
+Scale
+When to be big, when to be small. Growing up I was often implicitly told that bigger is better, now I believe that is rarely the case.
+
+Visual representations of ecologies in digital environments
+In a world of climate crisis it is of vital importance to envision new ways of visually representing the networks of life that surround us.
 

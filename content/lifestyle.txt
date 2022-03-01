@@ -1,5 +1,6 @@
 title: lifestyle
 dates: ['10-06-2020']
+tags: []
 altText: 'Morning in Daerim-dong'
 img: 'cropped_daerim.jpg'
 

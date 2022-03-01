@@ -1,5 +1,6 @@
 title: 'computer rituals'
 dates: ['17-06-2020']
+tags: ['essay']
 img: 'candle_plant_blinds.jpg'
 altText: 'An image of a candle and a vase with flowers with blinds as a backdrop'
 

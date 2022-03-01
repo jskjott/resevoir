@@ -1,5 +1,6 @@
 title: base
 dates: ['27-02-2021']
+tags: []
 img: 'buds.jpg'
 altText: ‘buds about to bud on a branch ’
 

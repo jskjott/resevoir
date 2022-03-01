@@ -1,5 +1,6 @@
 title: 'studies'
 dates: ['28-05-2019']
+tags: []
 img: 'collage-min.jpg'
 altText: 'Detail from Victoria and Albert, London'
 

@@ -1,5 +1,6 @@
 title: 'deep work'
 dates: ['02-05-2019']
+tags: []
 altText: 'forest in south England'
 img: 'plant_deep_work.jpg'
 

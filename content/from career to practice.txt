@@ -1,5 +1,6 @@
 title: 'from career to practice'
 dates: ['17-06-2020']
+tags: ['essay']
 img: 'peonies.jpg'
 altText: 'Peonies in a window sill with a backdrop of sommerfuglebuske.'
 

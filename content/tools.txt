@@ -1,5 +1,6 @@
 title: 'tools'
 dates: ['17-06-2020']
+tags: []
 altText: 'from Medium is the Message'
 img: 'mcluhan.jpg'
 

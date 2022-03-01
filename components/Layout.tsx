@@ -10,7 +10,7 @@ const Layout = ({ children }: Props) => {
 	return (
 		<>
 			<Meta />
-			<div className="min-h-screen py-10 pt-6 font-serif">
+			<div className="min-h-screen font-serif">
 				<main className="">{children}</main>
 			</div>
 			<Footer />

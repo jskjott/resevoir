@@ -1,5 +1,6 @@
 title: 'writing drawings'
 dates: ['08-11-2019']
+tags: ['essay']
 img: 'line_rhytmical_stick.jpg'
 altText: 'Line-rhytmical study of a stick'
 

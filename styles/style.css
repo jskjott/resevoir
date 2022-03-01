@@ -40,13 +40,15 @@ h1 {
     font-size: 1.5rem;
     line-height: 2em;
     margin-bottom: 1.5rem;
+    letter-spacing: -0.025rem;
     font-family: sans-serif;
 }
 
 h2, h3, h4 {
-    font-size: 1.25rem;
+    font-size: 1rem;
     line-height:1.4em;
     margin-bottom: 1.25rem;
+
     font-family: sans-serif;
 }
 
@@ -102,7 +104,6 @@ p + p {
 h1 {
     text-transform: uppercase;
     font-size: 1.8rem;
-    text-align: center;
 }
 
 h2 {
@@ -130,3 +131,35 @@ rect:hover {
 ul {
     padding: 1.5em;
 }
+
+table {
+    font-size: 0.8rem;
+    line-height:1em;
+    word-spacing: -0.05em;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: separate;
+    border: 1px solid black;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+  
+  thead th:nth-child(1) {
+    width: 30%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th, td {
+    padding: 20px;
+  }

@@ -1,5 +1,6 @@
 title: beverages
 dates: ['08-05-2021']
+tags: []
 altText: 'Inspiration layout'
 img: beverages.jpg
 

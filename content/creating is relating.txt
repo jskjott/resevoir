@@ -1,5 +1,6 @@
 title: creating is relating
 dates: ['03-03-2021']
+tags: ['essay']
 img: 'spring.jpg'
 altText: buds about to bud on a branch
 

@@ -1,0 +1,9 @@
+title: 'veins I'
+dates: ['01-01-2015']
+tags: ['project']
+img: 'veins_I.png'
+altText: 'Three lush leaves with blood running down through their core.'
+
+Initial piece exploring the concept of veins as the life- or motion-giving force in nature and technology.
+
+https://vimeo.com/269136429

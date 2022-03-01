@@ -1,5 +1,6 @@
 title: 'auto rickshaw'
 dates: ['25-08-2018']
+tags: []
 altText: 'a photo of an auto rickshaw with a driver and a passenger'
 img: 'tuktuk2.jpg'
 

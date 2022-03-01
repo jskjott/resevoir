@@ -1,5 +1,6 @@
 title: 'jonathan'
 dates: ['12-11-2019', '13-06-2020']
+tags: []
 altText: 'Jona'
 img: 'jona_portrait.jpg'
 
