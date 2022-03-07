@@ -11,6 +11,11 @@ const githubStyle = {
 	margin: '0',
 }
 
+const rssStyle = {
+	height: '25px',
+	margin: '0',
+}
+
 const radicleStyle = {
 	filter: 'invert(1)',
 	height: '25px',
@@ -62,7 +67,13 @@ const Footer = () => {
 						</p>
 					</div>
 					<div className="absolute pr-2 right-2 md:place-self-center grid">
-						<span className="py-4 md:py-0 place-self-center">
+						<span className="py-4 flex md:py-0 place-self-center">
+							<a href="/rss.xml">
+							<img
+								style={rssStyle}
+								src="/images/rssIcon.png"
+							></img>
+							</a>
 							<img
 								style={radicleStyle}
 								src="/images/radicle.png"

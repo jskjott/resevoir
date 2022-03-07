@@ -16,6 +16,10 @@ But most of all I think of the computer as a complex compound of culture, power,
 
 ## The hybris of leveraging the digital to try grasp all of the analogue world
 
+Some see the every deeper embrace of computational part of a march towards an unavoidable singularity where computational sensing makes digital and physical environments collapse onto each other. The philosopher Yuk Hui likens this teleological view of computation gradually grasping all of the known world to the desire to become god.
+
+> technological historical time synchronized and converged was one end point which we have called before technological singularity and you prefer you can also call the apocryps or homologues the of becoming god. 
+<cite> Yuk Hui - *[From the universality of progress to cosmotechnics](https://www.youtube.com/watch?v=Dni6UJDFUuw&t=2005s/)*</cite>
 
 
 > Why? Why did you die?  — — — God is here.
@@ -49,8 +53,7 @@ Meta is the missionary church.
     </tbody>
 </table>
 
-> technological historical time synchronized and converged was one end point which we have called before technological singularity and you prefer you can also call the apocryps or homologues the of becoming god. 
-<cite> Yuk Hui - *[From the universality of progress to cosmotechnics](https://www.youtube.com/watch?v=Dni6UJDFUuw&t=2005s/)*</cite>
+
 
 
 ## Another kind of computation

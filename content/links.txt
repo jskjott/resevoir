@@ -1,0 +1,13 @@
+title: 'links'
+dates: ['05-03-2022']
+tags: []
+altText: 'a blue sky with think branches in silhouette'
+img: 'peeking.jpg'
+
+The link drop of the now:
+
+https://www.christophlabacher.com/notes/ethnographic-research-on-dynamicland
+https://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/
+https://www.noemamag.com/the-myth-of-tech-exceptionalism/
+https://drive.google.com/file/d/1UyqFX3zKHOkBlM0M5ggrmYjqa5WxtkRo/view?fbclid=IwAR1bsLtt7MtRNLgt0hCCyVP9pgTc0dL93h97lY3OkmWX58rZtH-stcVQTvY
+https://www.theguardian.com/commentisfree/2022/mar/05/world-is-unpredictable-and-strange-climate-crisis-ukraine

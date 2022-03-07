@@ -1,0 +1,57 @@
+title: 'on the visual representation of nature in digital media'
+dates: ['11-02-2022']
+tags: ['essay', 'draft']
+img: 'scaleGame.png'
+altText: 'A pixel art work with green vines, some 2d platforms, and a green lizard'
+
+Recently I have been thinking a lot about how what we consider to be living things, nature if you wish, is related to the digital worlds we inhabit.
+
+There are many different angles which could be taken on this of course.
+
+One could start by considering how we often describe our experience of digital spaces in terms of ecologies. Networks, webs, systems are the terms we grasp for when we try and put into words the sensorial overgrowth we are faced with whenever we turn on the computer, the phone, or the server.
+
+At the same time, pictures, sounds, and other representations of aspect of ecological worlds are abundant in digital spaces. The average person today encounter more species and more ecologies in their digital worlds than in real life, have closer personal relationships with beings which have been extinct for millennia or live on the other side of the planet than the beings inhabiting the park outside their window.
+
+These two angles are interesting when considered together because they reveal a kind of circular relationships between how we understand living beings and how we understand digital spaces. We understand what ecologies are from how we experience them online and our understanding of ecologies inform our understanding of the digital.
+
+Additionally, when the urgency of the climate crisis is factored into this question. It becomes clear that the way we represent living things online will inform the form and shape of climate action as well as the cultural relationships we have with non-humans.
+
+-
+
+So how are ecologies represented online? A gallery of digital representations of ecologies:
+
+-
+
+
+1. The grid-based ecology of xxx created by foreign objects
+2. The lidar landscapes of forensic architecture and Liam Young
+3. The binary essentialism of game of Life
+4. The romantic and elegant representation of Flower by thatgamecompany
+5. The knotty entanglements of feral atlas
+6. The passive backgrounds of super Mario
+7. The chaotic audiovisual landscapes of orca
+8. The bot assemblages of Tega Brains xxxx
+9. The scale bending aesthetics of Hermippe
+10. The colonialist extractivism of mining and farming games
+11. The speciesism of Pokémon(perhaps there is a better example?)
+12. The static nature of most game environments
+13. The temporal orientation of trash garden game
+
+
+-
+
+
+
+The way ecologies are represented digitally are historically continguous and constructed by the assemblages of affordability of digital media and computation more broadly.
+
+Considering the exhibits it becomes clear that there are certain representations which are structurally encouraged. These include but are not limited to:
+
+1. Reductivism. An over-emphasis on individual species and under emphasise on networks, relationships, assemblages.
+2. Anthropocentrism. An over-emphasis on the agency of humans and an under-emphasis on the agency of non-humans and the non-living.
+3. Extractivism. An over-emphasis on singular or quantifiable benefits.
+
+The tendencies outlined above are dominant, yet they are not unchallenged. A number of digital currents are actively probing the possibility of ecologically aware representations of nature online.
+
+Communities within environmental media studies and environmental Humanities more broadly are actively demonstrating what low-carbon, assemblages oriented representations of ecologies might look like
+The programming and artistic movement around permacomputibg are questioning the very basis of computation as as medium.
+

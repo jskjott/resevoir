@@ -27,3 +27,6 @@ img: 'paperwork_2-min.jpg'
 
 > To make something well is to give yourself to it, to seek wholeness, to follow spirit. To learn to make something well can take your whole life. It’s worth it.
 <cite>  Ursula Le Guin, Steering the Craft</cite>
+
+>Work on a good piece of writing proceeds on three levels: a musical one, where it is composed; an architectural one, where it is constructed; and finally, a textile one, where it is woven.
+<cite>Walter Benjamin, One Way Street And Other Writings</cite>

@@ -37,8 +37,7 @@ export default function Doc({
 					}}
 				>
 					<div className="flex h-8 px-1 text-white my-0.5 md:h-8 md:flex-row">
-						<span className="invisible md:visible">
-							{' '}
+						<span className="invisible w-0 md:w-auto md:visible">
 							Jona Skjøtt‘s momentum archive —
 						</span>
 						<Link href="welcome">
@@ -46,7 +45,11 @@ export default function Doc({
 						</Link>
 						<span>,</span>
 						<Link href="resevoir">
-							<a className="pl-1">Info</a>
+							<a className="pl-2">Info</a>
+						</Link>
+						<span>,</span>
+						<Link href="now">
+							<a className="pl-2">Now</a>
 						</Link>
 						<span>,</span>
 						<Link href="projects">
@@ -80,7 +83,7 @@ export default function Doc({
 
 						a:hover {
 							color:white;
-							background: rgba(${palette[0]},${palette[1]},${palette[2]}, .6);
+							background: rgba(${palette[0]},${palette[1]},${palette[2]}, .4);
 						};
 
 						html {
@@ -120,6 +123,11 @@ export default function Doc({
 															{page.dates[0].slice(
 																6,
 															)}
+															{page.tags.includes(
+																'draft',
+															)
+																? '・drafting in progress'
+																: ''}
 														</div>
 													</div>
 													<img

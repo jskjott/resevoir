@@ -4,4 +4,4 @@ tags: []
 altText: 'A photo of purple lilies and brown dead leaves'
 img: 'flowers_and_dead_leaves.jpg'
 
-Welcome!
+Welcome to the momentum archive of researcher and designer Jonathan Skjøtt, currently thinking about [[computers and gods]], writing an essay [[on the digital representation of nature in digital media]], and working on a [[scale game]]. 

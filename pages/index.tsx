@@ -16,6 +16,7 @@ type Props = {
 	index: PageWithLinks
 	about: string
 	now: string
+	draftNumber: number
 	palette: [number, number, number]
 }
 
@@ -23,6 +24,7 @@ export default function Doc({
 	docArray,
 	manifestationsArray,
 	index,
+	draftNumber,
 	now,
 	about,
 	palette,
@@ -37,7 +39,7 @@ export default function Doc({
 					}}
 				>
 					<div className="flex h-8 px-1 text-white my-0.5 md:h-8 md:flex-row">
-						<span className="invisible md:visible">
+						<span className="invisible w-0 md:w-auto md:visible">
 							Jona Skjøtt‘s momentum archive —
 						</span>
 						<Link href="welcome">
@@ -45,7 +47,11 @@ export default function Doc({
 						</Link>
 						<span>,</span>
 						<Link href="resevoir">
-							<a className="pl-1">Info</a>
+							<a className="pl-2">Info</a>
+						</Link>
+						<span>,</span>
+						<Link href="now">
+							<a className="pl-2">Now</a>
 						</Link>
 						<span>,</span>
 						<Link href="projects">
@@ -103,6 +109,27 @@ export default function Doc({
 												'repeat(auto-fill, minmax(200px, 1fr)',
 										}}
 									>
+										<a
+											style={{
+												width: '200px',
+												height: '200px',
+											}}
+											href={`/now`}
+											className="relative p-2 mb-8 grid"
+										>
+											<img
+												className=" rounded-sm"
+												src="images/thumbnails/rotheredge.jpg"
+												alt="white sky with silhouette of a wooden pavilion and silhouette trees in foregraound"
+											/>
+											<div className="absolute bottom-0 p-2">
+												<div className="relative py-2 font-sans text-sm">
+													{draftNumber} ongoing
+													activities
+												</div>
+												<div className="text-xs">~</div>
+											</div>
+										</a>
 										{manifestationsArray.map(
 											(page, index) => (
 												<a
@@ -185,6 +212,7 @@ export default function Doc({
 
 export async function getStaticProps() {
 	const docs = getAllPages()
+	let draftNumber = 0
 	const docArray = Object.values(docs)
 	const manifestationsArray = docArray.filter((doc) => {
 		let manifestation = false
@@ -192,6 +220,10 @@ export async function getStaticProps() {
 		doc.tags.forEach((tag) => {
 			if (tag === 'project' || tag === 'essay') {
 				manifestation = true
+			}
+			if (tag.includes('draft')) {
+				manifestation = false
+				draftNumber++
 			}
 		})
 
@@ -264,6 +296,7 @@ export async function getStaticProps() {
 			index,
 			about,
 			now,
+			draftNumber,
 			palette: palette.DarkVibrant?.rgb,
 		},
 	}

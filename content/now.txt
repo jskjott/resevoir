@@ -4,15 +4,17 @@ tags: []
 altText: 'Inspiration layout'
 img: beverages.jpg
 
-## What is now
-
 A place containing a summery of the current locus of Jona‘s practice. Big and small, this is a space for the ideas which keep lurking around in the mind, the things touched by the hand.
 
-The top ideas of my mind:
+## The top ideas of my mind:
 
 Scale
-When to be big, when to be small. Growing up I was often implicitly told that bigger is better, now I believe that is rarely the case.
+- When to be big, when to be small. Growing up I was often implicitly told that bigger is better, now I believe scale is much more complex than that.
 
-Visual representations of ecologies in digital environments
-In a world of climate crisis it is of vital importance to envision new ways of visually representing the networks of life that surround us.
+The visual representations of ecologies in digital environments
+- In a world of climate crisis it is of vital importance to envision new ways of visually representing the networks of life that surround us.
 
+Computers and culture, gods, rituals
+- Computers as an entity deeply embedded in culture and practice. How should this realisation influence how we live with computation?
+
+## Current projects:

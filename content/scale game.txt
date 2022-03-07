@@ -1,6 +1,6 @@
 title: 'scale game'
 dates: ['25-02-2022']
-tags: ['project']
+tags: ['project', 'draft']
 img: 'scale_game_1.png'
 altText: 'a pixelated screenshot from a game, a drop is crawling up a green vine surrounded by slowers.'
 
