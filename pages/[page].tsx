@@ -164,6 +164,11 @@ export async function getStaticProps({ params }: StaticProps) {
 // eslint-disable-next-line @typescript-eslint/require-await
 export async function getStaticPaths() {
 	const docs = getAllPages()
+
+	if (docs.now !== null) {
+		delete docs.now
+	}
+
 	delete docs.photos
 	const docArray = Object.values(docs)
 
