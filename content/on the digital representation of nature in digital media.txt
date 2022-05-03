@@ -1,24 +1,25 @@
-title: 'on the visual representation of nature in digital media'
+title: 'on the visual representation of ecologies in digital media'
 dates: ['11-02-2022']
 tags: ['essay', 'draft']
 img: 'scaleGame.png'
 altText: 'A pixel art work with green vines, some 2d platforms, and a green lizard'
 
-Recently I have been thinking a lot about how what we consider to be living things, nature if you wish, is related to the digital worlds we inhabit.
+Recently I have been thinking a lot about how living things are visually represented in digital environments. Going about our lives online we are constantly exposed to pictures, sounds, and other representations of other living beings. I probably encounter more species and ecologies in digital worlds than in real life. I most likely have closer personal relationships with  digital representations of beings which have been extinct for millennia than a lot of the living beings that inhabiting the park down the street. 
 
-There are many different angles which could be taken on this of course.
+So, representations of living things are clearly abundant in digital spaces. But how do different communities visually represent  nature in digital spaces, and why do they represent ecologies in this way? I believe asking these questions are important. 
 
-One could start by considering how we often describe our experience of digital spaces in terms of ecologies. Networks, webs, systems are the terms we grasp for when we try and put into words the sensorial overgrowth we are faced with whenever we turn on the computer, the phone, or the server.
+Our understanding of what nature is is increasingly mediated by our experience of digital worlds and our experience of ecologies are increasingly facilitated by digital environments. Additionally, one only needs to consider the urgency of the climate crises to appreciate that the way we represent living things online will inform the form and shape of climate action. However, asking this question only because of climate change misses the point. 
 
-At the same time, pictures, sounds, and other representations of aspect of ecological worlds are abundant in digital spaces. The average person today encounter more species and more ecologies in their digital worlds than in real life, have closer personal relationships with beings which have been extinct for millennia or live on the other side of the planet than the beings inhabiting the park outside their window.
+Asking this question takes as a given that values give rise to visual representations and that visual representations in turn act on and influence values. So, asking how why and nature is represented digitally is really asking what our values about nature are? In the end asking this question is about the cultural relationships we have with non-humans. 
 
-These two angles are interesting when considered together because they reveal a kind of circular relationships between how we understand living beings and how we understand digital spaces. We understand what ecologies are from how we experience them online and our understanding of ecologies inform our understanding of the digital.
+Reductionism versus Relationism
+Instrumentalism 
+Legibility versus Illegibility
+Anthropocentrism versus Pluriverse
+non-agency versus Agency
+Scale
 
-Additionally, when the urgency of the climate crisis is factored into this question. It becomes clear that the way we represent living things online will inform the form and shape of climate action as well as the cultural relationships we have with non-humans.
 
--
-
-So how are ecologies represented online? A gallery of digital representations of ecologies:
 
 -
 

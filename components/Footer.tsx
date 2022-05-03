@@ -67,12 +67,12 @@ const Footer = () => {
 						</p>
 					</div>
 					<div className="absolute pr-2 right-2 md:place-self-center grid">
-						<span className="py-4 flex md:py-0 place-self-center">
+						<span className="flex py-4 md:py-0 place-self-center">
 							<a href="/rss.xml">
-							<img
-								style={rssStyle}
-								src="/images/rssIcon.png"
-							></img>
+								<img
+									style={rssStyle}
+									src="/images/rssIcon.png"
+								></img>
 							</a>
 							<img
 								style={radicleStyle}

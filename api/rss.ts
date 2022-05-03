@@ -42,7 +42,7 @@ export async function generateRss(pages: Page[]) {
       <channel>
         <title>${'Resevoir'}</title>
         <link>${'https://resevoir.net/'}</link>
-        <description>${'A KNOWLEDGE-BASE FEATURING THE MOMENTUMS OF JONATHAN SKJØTT.'}</description>
+        <description>${'A momentum archive.'}</description>
         <language>en</language>
         <lastBuildDate>${lastDate.toUTCString()}</lastBuildDate>
         <atom:link href="${'https://resevoir.net/'}" rel="self" type="application/rss+xml"/>

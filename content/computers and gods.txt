@@ -8,23 +8,27 @@ altText: 'An image of a candle and a vase with flowers with blinds as a backdrop
 > In time, those Unconscionable Maps no longer satisfied, and the Cartographers Guilds struck a Map of the Empire whose size was that of the Empire, and which coincided point for point with it.
 <cite>Jorge Luis Borges - *On Exactitude in Science*</cite>
 
-Sometimes I close my eyes in an attempt to comprehend what computers are. I think of how they are made from materials dug up from below in places all over the world before they are brought together processed synthesised into something which can carry currents and with them perhaps the world.
+Sometimes I close my eyes in an attempt to comprehend what computers are. I think of how they are made from materials dug up from below in places all over the world before they are brought together, processed, synthesised into something which can carry currents and data at unimaginable scales.
 
-I try and think of the networks of cables suspended above sea floors — linking continents and enabling networking at uncomprehendable speeds.
+I try and think of the networks of cables suspended above sea floors — linking continents and enabling networking at incomprehensible speeds.
 
 But most of all I think of the computer as a complex compound of culture, power, and history. A radical technology which, like many other technologies before it, remade humans understandings of each other and the world in which they find themselves.
 
+What computes are at their core, like much other technology, is contested. Most agree on the fact that this technology is of immense transformative power. Yet, what is the nature and source of this power and how does it interface with other historical and spiritual structures which mediate power?
+
+This essay is an attempt at considering not just the mechanical essence of what computers are, but the its current and future potential as a cultural and perhaps spiritual entity. It is written in the belief that computing must break free of its military-modernist origin-story to become something which is truly intimate and emancipatory for communities in different places.
+
 ## The hybris of leveraging the digital to try grasp all of the analogue world
 
-Some see the every deeper embrace of computational part of a march towards an unavoidable singularity where computational sensing makes digital and physical environments collapse onto each other. The philosopher Yuk Hui likens this teleological view of computation gradually grasping all of the known world to the desire to become god.
+In the context of the military-modernist origin-story the desire to grasp the whole world, like the hand of god, is a given. Within this context it is common to see the future as something that has already been determined. The narrative goes something like this — we are part of a march towards a world where the digital and the physical collapse onto each other as a result of an ever deeper embrace of computational sensing. The philosopher Yuk Hui likens this teleological view of computation to the desire to become god.
 
-> technological historical time synchronized and converged was one end point which we have called before technological singularity and you prefer you can also call the apocryps or homologues the of becoming god. 
+> technological historical time synchronized and converged towards one end point which we have called before technological singularity, or if you prefer you can also call it the apocryps or homologues, the becoming of god. 
 <cite> Yuk Hui - *[From the universality of progress to cosmotechnics](https://www.youtube.com/watch?v=Dni6UJDFUuw&t=2005s/)*</cite>
+
 
 
 > Why? Why did you die?  — — — God is here.
 <cite> Serial Experiments LAIN</cite>
-
 
 
 > We’re not living in an algorithmic culture so much as a computational theocracy.

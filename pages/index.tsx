@@ -20,6 +20,8 @@ type Props = {
 	palette: [number, number, number]
 }
 
+const currentYear = 0
+
 export default function Doc({
 	docArray,
 	manifestationsArray,
@@ -101,7 +103,124 @@ export default function Doc({
 							<div className=" w-full place-self-center">
 								<div className="mx-auto mb-10 ">
 									<div className="mt-12"></div>
+									<div className="max-w-xl  pb-8 font-sans text-sm pl-28">
+										Welcome to the momentum archive of
+										researcher and designer Jonathan Skjøtt,
+										currently thinking about computers and
+										gods, writing an essay on the digital
+										representation of nature in digital
+										media, and working on a scale game.
+									</div>
+									<div
+										className="grid"
+										style={{
+											gridTemplateColumns:
+												'repeat(auto-fill, minmax(200px, 1fr)',
+										}}
+									>
+										<div className="flex w-full border-b-2 border-white">
+											<a
+												style={{
+													width: '200px',
+												}}
+												href={`/now`}
+												className="self-end h-9"
+											>
+												<div className="flex w-full h-full p-2 pb-1 bg-white hover:bg-black">
+													<div className="relative self-end font-sans text-sm ">
+														{draftNumber} momentums
+														now
+													</div>
+												</div>
+											</a>
+										</div>
+										{manifestationsArray.map(
+											(page, index) => [
+												index > 0 &&
+												page.dates[0].slice(6) !==
+													manifestationsArray[
+														index - 1
+													].dates[0].slice(6) ? (
+													<div className="flex w-full border-b-2 border-white">
+														<div
+															className="flex self-end my-0"
+															style={{
+																color: `dimgray`,
+																width: '200px',
+															}}
+														>
+															<span className="self-end w-full pb-1 pl-1 font-serif text-5xl font-light bg-white leading-8">
+																{page.dates[0].slice(
+																	6,
+																)}
+															</span>
+														</div>
+													</div>
+												) : null,
 
+												<div
+													key={index}
+													className="flex w-full border-white"
+													style={{
+														borderBottom: `${
+															manifestationsArray.length -
+																1 >
+																index &&
+															page.dates[0].slice(
+																6,
+															) ===
+																manifestationsArray[
+																	index + 1
+																].dates[0].slice(
+																	6,
+																)
+																? 'solid white'
+																: ''
+														}`,
+													}}
+												>
+													<a
+														style={{
+															width: '200px',
+															borderBottom: `${
+																manifestationsArray.length -
+																	1 >
+																	index &&
+																page.dates[0].slice(
+																	6,
+																) ===
+																	manifestationsArray[
+																		index +
+																			1
+																	].dates[0].slice(
+																		6,
+																	)
+																	? ''
+																	: 'solid white'
+															}`,
+														}}
+														href={`/${page.slug}`}
+														className="relative self-end border-white group grid"
+													>
+														<div className="relative flex h-16 p-2 pb-0">
+															<div className="relative z-10 self-end pt-2 pb-1 font-sans text-sm leading-4">
+																{page.title}{' '}
+															</div>
+															<span className="absolute px-1 text-3xl text-white opacity-0 left-1 -top-1 group-hover:opacity-100 serif">
+																{page.tags.map(
+																	(tag) =>
+																		tag,
+																)}
+															</span>
+														</div>
+													</a>
+												</div>,
+											],
+										)}
+									</div>
+								</div>
+								<div className="mx-auto mb-10 ">
+									<div className="mt-12"></div>
 									<div
 										className="mx-4 grid"
 										style={{
@@ -109,27 +228,6 @@ export default function Doc({
 												'repeat(auto-fill, minmax(200px, 1fr)',
 										}}
 									>
-										<a
-											style={{
-												width: '200px',
-												height: '200px',
-											}}
-											href={`/now`}
-											className="relative p-2 mb-8 grid"
-										>
-											<img
-												className=" rounded-sm"
-												src="images/thumbnails/rotheredge.jpg"
-												alt="white sky with silhouette of a wooden pavilion and silhouette trees in foregraound"
-											/>
-											<div className="absolute bottom-0 p-2">
-												<div className="relative py-2 font-sans text-sm">
-													{draftNumber} ongoing
-													activities
-												</div>
-												<div className="text-xs">~</div>
-											</div>
-										</a>
 										{manifestationsArray.map(
 											(page, index) => (
 												<a
@@ -171,35 +269,6 @@ export default function Doc({
 											),
 										)}
 									</div>
-
-									{/* <div className="pt-12" />
-									<p className="pb-8 md:py-8">
-										Sprouts growing throuhgout the site:
-									</p>
-
-									<svg
-										className="w-md"
-										height={`${
-											(1 + docArray.length / 10) * 30
-										}px`}
-										xmlns="http://www.w3.org/2000/svg"
-									>
-										{docArray.map((page, index) => (
-											<a href={page.slug} key={index}>
-												<rect
-													x={`${30 * (index % 10)}px`}
-													y={`${
-														30 *
-														Math.floor(index / 10)
-													}px`}
-													width="22px"
-													height="22px"
-													fill="#90A252"
-													strokeWidth="0.25px"
-												/>
-											</a>
-										))}
-									</svg> */}
 								</div>
 							</div>
 						</article>
@@ -285,7 +354,7 @@ export async function getStaticProps() {
 		content,
 	}
 
-	const palette = await Vibrant.from(`./public/images/slitscan_hands.png`)
+	const palette = await Vibrant.from(`./public/images/solaris.png`)
 		.getPalette()
 		.then((palette) => palette)
 

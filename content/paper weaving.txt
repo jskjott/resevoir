@@ -1,0 +1,9 @@
+title: 'paper weaving'
+dates: ['22-03-2022']
+tags: ['essay', 'draft']
+altText: 'a fourteen by fourteen blue and white woven paper heart'
+img: 'homageto2021.jpeg'
+
+Paper weaving ff
+
+[[visiweave]]
