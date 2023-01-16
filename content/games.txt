@@ -1,0 +1,21 @@
+title: 'games'
+dates: ['12-01-2023']
+tags: []
+altText: 'screenshot from wip 2d puzzle platformer game lush pixel forest with a water droplet as the player.'
+img: 'scale_game_1.png'
+
+
+## Last Harvest, for Ludum Dare 52
+
+[Last Harvest](https://loooading.itch.io/last-harvest) is a tiny tower-defence inspired strategy game developed for the fantasy console Pico8 in 48 hours for Ludum Dare 52 in January 2023.
+
+![screenshot from Pico8 game called Last Harvest, a green field is being taken over by a desert](images/ld52_out_of_memory.png)
+
+## Scale Game
+
+[[scale game]] is a puzzle platformer about a droplet which formed from the flow of water through the earths crust, dripping onto a coal spoil.
+
+![a little pixel artwork with a & sign on it](images/scale_game_1.png)
+
+## Experiments
+

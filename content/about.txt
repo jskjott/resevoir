@@ -1,11 +1,11 @@
 title: 'about'
-dates: ['17-12-2018', '17-06-2020']
+dates: ['17-12-2018', '17-06-2020', '12-01-2023']
 tags: []
 altText: 'Morning in Daerim-dong'
 img: 'cropped_daerim.jpg'
 
-The [[resevoir]] is a space dedicated to the long-term. It was created in 2018 to help Jonathan capture the ideas and thoughts which linger in the margins of his mind. 
+Jonathan Skjøtt is a designer, programmer, and researcher working on an expanding range of projects. They are currently studying Visual Game & Media Design at the Danish Royal Academy.
 
-- [[resevoir]]
-- [[lifestyle]]
-- [[jonathan]]
+They are half of [LOOOADING](https://loooading.com), a fledgling small studio for interactive digital projects. LOOOADING recently released a [woven paper heart advent calendar](https://www.xn--fletvrk-qxa.dk/).
+
+![a little pixel artwork with a & sign on it](images/ritewelcome.png)

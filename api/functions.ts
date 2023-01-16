@@ -40,17 +40,21 @@ export function getPageBySlug(slug: string) {
 			matches.length >= 3 &&
 			typeof matches[3] === 'object' &&
 			matches[3] !== null
-		)
+		) ||
+		fileContents.slice(0, 5) !== 'title'
 	) {
-		throw new Error('internal')
+		return undefined
 	}
 
 	const point = matches[4] as { index: number }
+	let prepared = ''
 
-	const prepared = `---
+	if (point !== undefined) {
+		prepared = `---
 ${fileContents.slice(0, point.index)}
 ---
 ${fileContents.slice(point.index)}`
+	}
 
 	const {
 		data,
@@ -60,6 +64,7 @@ ${fileContents.slice(point.index)}`
 	if (
 		typeof data.title !== 'string' ||
 		typeof data.altText !== 'string' ||
+		typeof data.img !== 'string' ||
 		!(
 			Array.isArray(data.dates) &&
 			data.dates.every((item) => typeof item === 'string')
@@ -67,27 +72,27 @@ ${fileContents.slice(point.index)}`
 		!(
 			Array.isArray(data.tags) &&
 			data.tags.every((item) => typeof item === 'string')
-		) ||
-		typeof data.img !== 'string'
+		)
 	) {
-		throw new Error('internal')
+		console.log(`skipping page ${realSlug}`)
+		return undefined
+	} else {
+		const dates = data.dates
+		const tags = data.tags
+
+		const pageData: Page = {
+			title: data.title,
+			palette: [0, 0, 0],
+			slug: slug.replace(/.txt/, '').replace(/ /g, '-'),
+			dates,
+			tags,
+			altText: data.altText,
+			img: data.img,
+			content,
+		}
+
+		return pageData
 	}
-
-	const dates = data.dates
-	const tags = data.tags
-
-	const pageData: Page = {
-		title: data.title,
-		palette: [0, 0, 0],
-		slug: slug.replace(/.txt/, '').replace(/ /g, '-'),
-		dates,
-		tags,
-		altText: data.altText,
-		img: data.img,
-		content,
-	}
-
-	return pageData
 }
 
 export function getAllPages() {
@@ -96,7 +101,14 @@ export function getAllPages() {
 	const posts = slugs
 		.filter((slug) => slug !== '.DS_Store' && slug !== 'Notes & Settings')
 		.map((slug) => getPageBySlug(slug))
-	const entryDictionary = generateNetwork(posts)
+
+	const cleanedPosts: Page[] = []
+	posts.forEach((post) => {
+		if (post !== undefined) {
+			cleanedPosts.push(post)
+		}
+	})
+	const entryDictionary = generateNetwork(cleanedPosts)
 
 	return entryDictionary
 }

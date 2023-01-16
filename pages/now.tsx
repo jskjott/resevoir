@@ -155,7 +155,7 @@ export default function Doc({
 							>
 								<img
 									className=" rounded-sm"
-									src={`images/thumbnails/${page.img}`}
+									src={`thumbnails/${page.img}`}
 									alt={page.altText}
 								/>
 								<div className="absolute bottom-0 p-2">
@@ -224,6 +224,10 @@ export async function getStaticProps({ params }: StaticProps) {
 	})
 
 	const doc = getPageBySlug('now.txt')
+
+	if (doc === undefined) {
+		throw Error('internal')
+	}
 
 	const nowPage = doc
 	let contentString = `# ${nowPage.title}

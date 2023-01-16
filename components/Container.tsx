@@ -7,7 +7,7 @@ type Props = {
 const Container: FunctionComponent = ({ children }: Props) => {
 	return (
 		<div className="w-full grid">
-			<div className="max-w-screen-xl grid">{children}</div>
+			<div className="grid">{children}</div>
 		</div>
 	)
 }

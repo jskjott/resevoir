@@ -6,7 +6,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "generateThumbnails": "magick mogrify -path 'thumbnails/' -thumbnail 200x200  *",
+    "generateThumbnails": "magick mogrify -path 'public/thumbnails/' -thumbnail 200x200  public/images/*",
     "typecheck": "tsc",
     "deploy": "lint && typecheck && vercel"
   },

@@ -8,6 +8,13 @@ altText: 'An image of a candle and a vase with flowers with blinds as a backdrop
 > In time, those Unconscionable Maps no longer satisfied, and the Cartographers Guilds struck a Map of the Empire whose size was that of the Empire, and which coincided point for point with it.
 <cite>Jorge Luis Borges - *On Exactitude in Science*</cite>
 
+In David Graeber's book Debt there is this section digging into the importance of context in relation to identity. Essentially, a person is defined by their context, the set of social relations formed with the people and environments they know. A stranger is a stranger because they are encountered outside of their social context.
+
+In a similar vein I have been trying to understand whether a computer is a close family member or a perpetual stranger. There are good arguments for both. On the one hand I have spent thousands of hours intimately together with my computer, getting to know it,  existing with it in different ways. On the other hand I am also constantly faced with the sheer lack of understanding of it.
+
+Perhaps this alludes to how a computer is a fuller, more complex presence in our lives. Something which, like people, never reveals itself completely to us. Something which must be understood by what is in the gutter just as much as what is said.
+
+
 Sometimes I close my eyes in an attempt to comprehend what computers are. I think of how they are made from materials dug up from below in places all over the world before they are brought together, processed, synthesised into something which can carry currents and data at unimaginable scales.
 
 I try and think of the networks of cables suspended above sea floors — linking continents and enabling networking at incomprehensible speeds.

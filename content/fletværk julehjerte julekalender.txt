@@ -1,0 +1,9 @@
+title: 'fletværk julehjerte julekalender'
+dates: ['25-12-2022']
+tags: ['project']
+altText: 'a fourteen by fourteen blue and white woven paper heart'
+img: 'julehjertejulekalender2022.png'
+
+A woven paper heart advent calendar in a 90s playstation1-esque digital aesthetic. 
+
+![screenshot of the fletværk.dk website, a christmas three in a 90s ps1 aesthetic](images/julehjertejulekalender2022.png)

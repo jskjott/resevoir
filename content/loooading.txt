@@ -1,0 +1,10 @@
+title: 'loooading'
+dates: ['12-01-2023']
+tags: []
+altText: 'screenshot from wip 2d puzzle platformer game lush pixel forest with a water droplet as the player.'
+img: 'scale_game_1.png'
+
+
+LOOOADING a fledgling small studio for interactive digital projects. LOOOADING recently released a [woven paper heart advent calendar](https://www.xn--fletvrk-qxa.dk/).
+
+[LOOOADING](https://loooading.com), 

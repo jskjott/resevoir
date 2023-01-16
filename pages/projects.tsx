@@ -99,7 +99,16 @@ export default function Doc({
 							<div className=" w-full place-self-center">
 								<div className="mt-32 mb-10 md:mt-0 md:ml-28">
 									<div className="mt-12"></div>
-
+									<div className="max-w-xl pb-8 pl-4 font-sans text-3xl font-bold">
+										Projects by{' '}
+										<a
+											className="text-3xl underline "
+											href="./about"
+										>
+											Jonathan Skjøtt
+										</a>
+									</div>
+									<hr />
 									<div
 										className="z-10"
 										// style={{
@@ -117,7 +126,7 @@ export default function Doc({
 												>
 													<img
 														className=" rounded-sm"
-														src={`images/thumbnails/${page.img}`}
+														src={`thumbnails/${page.img}`}
 														alt={page.altText}
 													/>
 													<div className=" bottom-0 p-2">

@@ -2,6 +2,18 @@ title: welcome
 dates: ['01-03-2022']
 tags: []
 altText: 'A photo of purple lilies and brown dead leaves'
-img: 'flowers_and_dead_leaves.jpg'
+img: 'ritewelcome.png'
 
 Welcome to the momentum archive of researcher and designer Jonathan Skjøtt, currently thinking about [[computers and gods]], writing an essay [[on the digital representation of nature in digital media]], and working on a [[scale game]]. 
+
+**
+**
+**
+**
+**
+**
+**
+**
+**
+
+![A pixel artwork of a ](images/ritewelcome.png)

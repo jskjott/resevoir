@@ -42,7 +42,7 @@ export default function Doc({
 				>
 					<div className="flex h-8 px-1 text-white my-0.5 md:h-8 md:flex-row">
 						<span className="invisible w-0 md:w-auto md:visible">
-							Jona Skjøtt‘s momentum archive —
+							Jonathan Skjøtt‘s momentum archive —
 						</span>
 						<Link href="welcome">
 							<a className="pl-1">Welcome</a>
@@ -103,13 +103,35 @@ export default function Doc({
 							<div className=" w-full place-self-center">
 								<div className="mx-auto mb-10 ">
 									<div className="mt-12"></div>
-									<div className="max-w-xl  pb-8 font-sans text-sm pl-28">
-										Welcome to the momentum archive of
-										researcher and designer Jonathan Skjøtt,
-										currently thinking about computers and
-										gods, writing an essay on the digital
-										representation of nature in digital
-										media, and working on a scale game.
+									<div className="max-w-xl pb-8 font-sans text-3xl font-bold pl-28">
+										<a
+											className="text-3xl underline "
+											href="./about"
+										>
+											Jonathan Skjøtt
+										</a>{' '}
+										is developing digital{' '}
+										<a
+											className="text-3xl underline "
+											href="./games"
+										>
+											games
+										</a>
+										, writing conceptual{' '}
+										<a
+											className="text-3xl underline "
+											href="./writing"
+										>
+											pieces
+										</a>
+										, and developing situated{' '}
+										<a
+											className="text-3xl underline "
+											href="./crafts"
+										>
+											crafts
+										</a>
+										.
 									</div>
 									<div
 										className="grid"
@@ -241,7 +263,7 @@ export default function Doc({
 												>
 													<img
 														className=" rounded-sm"
-														src={`images/thumbnails/${page.img}`}
+														src={`thumbnails/${page.img}`}
 														alt={page.altText}
 													/>
 													<div className="absolute bottom-0 p-2">

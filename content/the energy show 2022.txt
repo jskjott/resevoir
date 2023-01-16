@@ -1,0 +1,13 @@
+title: 'the energy show'
+dates: ['22-11-2022']
+tags: ['project']
+altText: 'a fourteen by fourteen blue and white woven paper heart'
+img: 'energy_show_3.jpg'
+
+Part of group exhibition The Energy Show at Het Nieuwe Instituut exploring energy and the rise of the solar aesthetic.
+
+![a photo from the exhibition](images/energy_show_1.jpg)
+
+![a photo from the exhibition](images/energy_show_2.jpg)
+
+![a photo from the exhibition](images/energy_show_3.jpg)

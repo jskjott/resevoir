@@ -56,6 +56,11 @@ export default function Doc({
 							background: rgba(${palette[0]},${palette[1]},${palette[2]}, .2);
 						}
 
+						img {
+							padding-top: 1rem;
+							padding-bottom: 1rem;
+						}
+
 						::-moz-selection {
 						background: rgba(${palette[0]},${palette[1]},${palette[2]}, 0.6); /* Gecko Browsers */
 						color: white;
